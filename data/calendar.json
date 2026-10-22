@@ -1,0 +1,338 @@
+{
+  "schema_version": 1,
+  "timezone": "America/Los_Angeles",
+  "week_start": "2026-10-19",
+  "week_end": "2026-10-25",
+  "updated_at_pacific": "2026-10-22 PDT",
+  "regions": [
+    "United States",
+    "Korea",
+    "Japan",
+    "Taiwan",
+    "Europe"
+  ],
+  "events": [
+    {
+      "id": "VICR-2026Q3",
+      "company": "Vicor",
+      "ticker": "VICR",
+      "region": "United States",
+      "release": {
+        "at": "2026-10-20T07:00:00-04:00"
+      },
+      "call": {
+        "at": "2026-10-20T08:00:00-04:00"
+      },
+      "source_timing": "Oct 20, 2026: release 7:00 a.m. EDT; call 8:00 a.m. ET.",
+      "sources": [
+        {
+          "label": "Company results",
+          "url": "https://vicorcorporation.gcs-web.com/node/17956"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "SPCX-2026Q3",
+      "company": "SpaceX",
+      "ticker": "SPCX",
+      "region": "United States",
+      "release": {
+        "date": "2026-10-20",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-10-20T16:30:00-04:00"
+      },
+      "source_timing": "Oct 20, 2026: after U.S. close; webcast 3:30 p.m. CT / 4:30 p.m. ET.",
+      "sources": [
+        {
+          "label": "Company release (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm"
+        },
+        {
+          "label": "Release session",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-10-20-spacex-stock/"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "TXN-2026Q3",
+      "company": "Texas Instruments",
+      "ticker": "TXN",
+      "region": "United States",
+      "release": {
+        "date": "2026-10-21",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-10-21T15:30:00-05:00"
+      },
+      "source_timing": "Oct 21, 2026: after U.S. close; call 3:30 p.m. CDT.",
+      "sources": [
+        {
+          "label": "Company webcast",
+          "url": "https://investor.ti.com/upcoming-events"
+        },
+        {
+          "label": "Release session",
+          "url": "https://stockanalysis.com/stocks/txn/statistics/"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "LRCX-2026September",
+      "company": "Lam Research",
+      "ticker": "LRCX",
+      "region": "United States",
+      "release": {
+        "date": "2026-10-21",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-10-21T14:00:00-07:00"
+      },
+      "source_timing": "Oct 21, 2026: after U.S. close; call 2:00 p.m. PDT.",
+      "sources": [
+        {
+          "label": "Company IR",
+          "url": "https://investor.lamresearch.com/"
+        },
+        {
+          "label": "Release session",
+          "url": "https://bullstory.io/en-us/investing/us-earnings-calendar/2026-10-21"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "NOK-2026Q3",
+      "company": "Nokia",
+      "ticker": "NOK",
+      "region": "United States",
+      "release": {
+        "at": "2026-10-22T08:00:00+03:00",
+        "approximate": true
+      },
+      "call": {
+        "at": "2026-10-22T15:00:00+03:00"
+      },
+      "source_timing": "Oct 22, 2026 Finnish time (EEST): release approximately 8:00 a.m.; webcast 3:00 p.m.",
+      "notes": "Finnish issuer included through US AI. The results release falls on the previous Pacific calendar day.",
+      "sources": [
+        {
+          "label": "Company announcement",
+          "url": "https://www.nokia.com/newsroom/nokia-to-publish-third-quarter-and-january-september-2026-interim-report-on-22-october-2026/"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "TTMI-2026Q3",
+      "company": "TTM Technologies",
+      "ticker": "TTMI",
+      "region": "United States",
+      "release": {
+        "date": "2026-10-22",
+        "session": "before_open",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-10-22T08:30:00-04:00"
+      },
+      "source_timing": "Oct 22, 2026: release before U.S. open; call 8:30 a.m. ET / 5:30 a.m. PT.",
+      "sources": [
+        {
+          "label": "Company announcement",
+          "url": "https://investors.ttm.com/news-events/press-releases/detail/418/ttm-technologies-inc-to-conduct-third-quarter-2026"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "WDC-2027Q1",
+      "company": "Western Digital",
+      "ticker": "WDC",
+      "region": "United States",
+      "release": {
+        "date": "2026-10-22",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-10-22T13:30:00-07:00"
+      },
+      "source_timing": "Oct 22, 2026: after U.S. close; call 1:30 p.m. Pacific / 4:30 p.m. Eastern.",
+      "sources": [
+        {
+          "label": "Company announcement",
+          "url": "https://investor.wdc.com/news-releases/news-release-details/wd-announce-first-quarter-fiscal-year-2027-financial-results"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "BE-2026Q3",
+      "company": "Bloom Energy",
+      "ticker": "BE",
+      "region": "United States",
+      "release": {
+        "date": "2026-10-22",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-10-22T14:00:00-07:00"
+      },
+      "source_timing": "Oct 22, 2026: after U.S. close; call 2:00 p.m. Pacific / 5:00 p.m. Eastern.",
+      "sources": [
+        {
+          "label": "Company announcement",
+          "url": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "6146-2026September",
+      "company": "DISCO",
+      "ticker": "6146",
+      "region": "Japan",
+      "release": {
+        "at": "2026-10-22T16:00:00+09:00"
+      },
+      "call": {
+        "note": "Exact Pacific date/time unpublished; analyst telephone conference Oct 22 JST; management briefing Oct 23 JST"
+      },
+      "source_timing": "Results scheduled Oct 22, 2026 at 16:00 JST; analyst telephone conference Oct 22; management meeting Oct 23.",
+      "sources": [
+        {
+          "label": "Company IR calendar",
+          "url": "https://www.disco.co.jp/eg/ir/calendar/index.html"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "6770-2026Q3",
+      "company": "Powerchip / PSMC",
+      "ticker": "6770",
+      "region": "Taiwan",
+      "release": {
+        "note": "Separate release time unpublished"
+      },
+      "call": {
+        "at": "2026-10-21T15:00:00+08:00",
+        "type": "presentation"
+      },
+      "source_timing": "Oct 21, 2026 at 15:00 Asia/Taipei; Q3 financial and operating presentation.",
+      "sources": [
+        {
+          "label": "Company IR calendar",
+          "url": "https://www.powerchip.com/en-global/stock/conferences?target=target_title"
+        },
+        {
+          "label": "Company disclosure reproduced",
+          "url": "https://news.ustv.com.tw/companynews/261485"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "3105-2026Q3",
+      "company": "WIN Semiconductors",
+      "ticker": "3105",
+      "region": "Taiwan",
+      "release": {
+        "note": "Separate release time unpublished"
+      },
+      "call": {
+        "at": "2026-10-28T14:00:00+08:00",
+        "type": "presentation"
+      },
+      "source_timing": "Company calendar checked Oct 22 now shows Oct 28, 2026 at 14:00 Asia/Taipei.",
+      "notes": "Latest company calendar replaces the Oct 23 local date shown in the earlier chat. This event is outside the current reporting week.",
+      "sources": [
+        {
+          "label": "Current company calendar",
+          "url": "https://www.winfoundry.com/en-US/Invest/invest_quarter_reports"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    },
+    {
+      "id": "BESI-2026Q3",
+      "company": "BE Semiconductor Industries / Besi",
+      "ticker": "BESI",
+      "region": "Europe",
+      "release": {
+        "at": "2026-10-22T01:00:00-04:00"
+      },
+      "call": {
+        "at": "2026-10-22T10:00:00-04:00"
+      },
+      "source_timing": "Company states Oct 22: release 7:00 a.m. CET (1:00 a.m. EDT); call 4:00 p.m. CET (10:00 a.m. EDT).",
+      "notes": "Pacific conversion uses the explicit EDT equivalents in the company announcement, resolving its seasonal CET label.",
+      "sources": [
+        {
+          "label": "Company announcement",
+          "url": "https://www.besi.com/investor-relations/press-releases/2025/details-1/be-semiconductor-industries-nv-announces-2026-third-quarter-conference-call-and-audio-webcast-details/"
+        }
+      ],
+      "checked_on": "2026-10-22",
+      "confidence": "company-confirmed date/call; see release timing and source notes"
+    }
+  ],
+  "unresolved": [
+    {
+      "company": "Hanmi Semiconductor",
+      "ticker": "042700",
+      "region": "Korea",
+      "note": "No company-confirmed date/time verified. ETFShopping now estimates Oct 23, 2026 in Korea, while other calendars give November dates. A Korea-only date without a time cannot be assigned a single Pacific date: Oct 23 KST spans parts of Thu Oct 22 and Fri Oct 23 PDT. Excluded from confirmed count.",
+      "sources": [
+        {
+          "label": "Estimated date",
+          "url": "https://etfshopping.com/stock/042700/earnings"
+        },
+        {
+          "label": "Conflicting estimate",
+          "url": "https://www.tipranks.com/stocks/kr%3A042700/earnings"
+        }
+      ]
+    },
+    {
+      "company": "Elice",
+      "ticker": "0158S0",
+      "region": "Korea",
+      "note": "Instrument identity resolved through IBKR, but an earnings schedule could not be verified from accessible public sources. This is a coverage gap, not a no-earnings claim.",
+      "sources": []
+    }
+  ],
+  "coverage_note": "The selected watchlists were refreshed on October 22. The 11 identified company earnings events in the current week are supported by the linked schedules; some exact release minutes are unpublished. Calendar and source coverage, particularly smaller overseas issuers, may be incomplete. No company-confirmed Korean event was identified for this week. This public repository contains earnings-calendar information only; complete brokerage watchlists and account data are not published.",
+  "changes": [
+    {
+      "date": "2026-10-22",
+      "note": "WIN Semiconductors (3105): latest company calendar shows Oct 28 at 14:00 Taipei = Tue Oct 27 at 11:00 p.m. PDT, replacing the earlier Oct 23 local / Thu Oct 22 Pacific entry. Moved out of the current week and retained below."
+    },
+    {
+      "date": "2026-10-22",
+      "note": "Hanmi's third-party estimate now reads Oct 23 in Korea; kept unconfirmed because company confirmation is unavailable and calendar estimates conflict."
+    }
+  ]
+}

@@ -1,2 +1,82 @@
-# ai-earnings-calendar
-AI earnings calendar by region, with Pacific dates and release/call times. Updated daily.
+# AI earnings calendar
+
+**Week: October 19–25, 2026 · Updated: 2026-10-22 PDT**
+
+All dates, weekdays, and clock times are in **America/Los_Angeles (Pacific time)**. PDT/PST adjusts with daylight saving time. Midnight means the start of the stated date.
+
+Regions follow the selected IBKR watchlist groups: US AI, Korean AI, Japan AI, Taiwan AI, and Euro AI. China AI is excluded. A foreign issuer held through a U.S. listing remains in the U.S. watchlist section.
+
+Results releases and earnings calls are separate events. Before/after market open/close uses the relevant exchange; U.S. regular hours are 6:30 a.m.–1:00 p.m. Pacific. Session labels do not establish an exact release minute.
+
+**11 identified company earnings events this week.** Past events remain visible for the full week. Dates and times below reflect the cited announcement; this page does not certify attendance or completion of a call.
+
+[United States](#united-states) · [Korea](#korea) · [Japan](#japan) · [Taiwan](#taiwan) · [Europe](#europe)
+
+## United States
+
+| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
+|---|---|---|---|---|
+| Vicor | VICR | Tue, Oct 20, 2026 · 4:00 am PDT | Tue, Oct 20, 2026 · 5:00 am PDT | [Company results](https://vicorcorporation.gcs-web.com/node/17956) |
+| SpaceX | SPCX | Tue, Oct 20, 2026 · After 1:00 pm PDT; exact minute unpublished | Tue, Oct 20, 2026 · 1:30 pm PDT | [Company release (SEC)](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066482/spaceexplorationtechnologi.htm), [Release session](https://www.marketbeat.com/earnings/reports/2026-10-20-spacex-stock/) |
+| Texas Instruments | TXN | Wed, Oct 21, 2026 · After 1:00 pm PDT; exact minute unpublished | Wed, Oct 21, 2026 · 1:30 pm PDT | [Company webcast](https://investor.ti.com/upcoming-events), [Release session](https://stockanalysis.com/stocks/txn/statistics/) |
+| Lam Research | LRCX | Wed, Oct 21, 2026 · After 1:00 pm PDT; exact minute unpublished | Wed, Oct 21, 2026 · 2:00 pm PDT | [Company IR](https://investor.lamresearch.com/), [Release session](https://bullstory.io/en-us/investing/us-earnings-calendar/2026-10-21) |
+| Nokia | NOK | Approx. Wed, Oct 21, 2026 · 10:00 pm PDT | Thu, Oct 22, 2026 · 5:00 am PDT | [Company announcement](https://www.nokia.com/newsroom/nokia-to-publish-third-quarter-and-january-september-2026-interim-report-on-22-october-2026/) |
+| TTM Technologies | TTMI | Thu, Oct 22, 2026 · Before 6:30 am PDT; exact minute unpublished | Thu, Oct 22, 2026 · 5:30 am PDT | [Company announcement](https://investors.ttm.com/news-events/press-releases/detail/418/ttm-technologies-inc-to-conduct-third-quarter-2026) |
+| Western Digital | WDC | Thu, Oct 22, 2026 · After 1:00 pm PDT; exact minute unpublished | Thu, Oct 22, 2026 · 1:30 pm PDT | [Company announcement](https://investor.wdc.com/news-releases/news-release-details/wd-announce-first-quarter-fiscal-year-2027-financial-results) |
+| Bloom Energy | BE | Thu, Oct 22, 2026 · After 1:00 pm PDT; exact minute unpublished | Thu, Oct 22, 2026 · 2:00 pm PDT | [Company announcement](https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/) |
+
+- **NOK:** Finnish issuer included through US AI. The results release falls on the previous Pacific calendar day.
+
+## Korea
+
+No company-confirmed earnings event identified for this week; see unresolved dates below.
+
+## Japan
+
+| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
+|---|---|---|---|---|
+| DISCO | 6146 | Thu, Oct 22, 2026 · 12:00 am PDT | Exact Pacific date/time unpublished; analyst telephone conference Oct 22 JST; management briefing Oct 23 JST | [Company IR calendar](https://www.disco.co.jp/eg/ir/calendar/index.html) |
+
+## Taiwan
+
+| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
+|---|---|---|---|---|
+| Powerchip / PSMC | 6770 | Separate release time unpublished | Wed, Oct 21, 2026 · 12:00 am PDT (presentation) | [Company IR calendar](https://www.powerchip.com/en-global/stock/conferences?target=target_title), [Company disclosure reproduced](https://news.ustv.com.tw/companynews/261485) |
+
+## Europe
+
+| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
+|---|---|---|---|---|
+| BE Semiconductor Industries / Besi | BESI | Wed, Oct 21, 2026 · 10:00 pm PDT | Thu, Oct 22, 2026 · 7:00 am PDT | [Company announcement](https://www.besi.com/investor-relations/press-releases/2025/details-1/be-semiconductor-industries-nv-announces-2026-third-quarter-conference-call-and-audio-webcast-details/) |
+
+- **BESI:** Pacific conversion uses the explicit EDT equivalents in the company announcement, resolving its seasonal CET label.
+
+## Confirmed later dates
+
+Selected verified dates beyond this week, retained when an event moves. This is not a complete preview of the following week.
+
+| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
+|---|---|---|---|---|
+| WIN Semiconductors | 3105 | Separate release time unpublished | Tue, Oct 27, 2026 · 11:00 pm PDT (presentation) | [Current company calendar](https://www.winfoundry.com/en-US/Invest/invest_quarter_reports) |
+
+## Unresolved dates and coverage limits
+
+- **Hanmi Semiconductor (042700, Korea):** No company-confirmed date/time verified. ETFShopping now estimates Oct 23, 2026 in Korea, while other calendars give November dates. A Korea-only date without a time cannot be assigned a single Pacific date: Oct 23 KST spans parts of Thu Oct 22 and Fri Oct 23 PDT. Excluded from confirmed count. [Estimated date](https://etfshopping.com/stock/042700/earnings), [Conflicting estimate](https://www.tipranks.com/stocks/kr%3A042700/earnings)
+
+- **Elice (0158S0, Korea):** Instrument identity resolved through IBKR, but an earnings schedule could not be verified from accessible public sources. This is a coverage gap, not a no-earnings claim. 
+
+The selected watchlists were refreshed on October 22. The 11 identified company earnings events in the current week are supported by the linked schedules; some exact release minutes are unpublished. Calendar and source coverage, particularly smaller overseas issuers, may be incomplete. No company-confirmed Korean event was identified for this week. This public repository contains earnings-calendar information only; complete brokerage watchlists and account data are not published.
+
+## Schedule changes
+
+- **2026-10-22:** WIN Semiconductors (3105): latest company calendar shows Oct 28 at 14:00 Taipei = Tue Oct 27 at 11:00 p.m. PDT, replacing the earlier Oct 23 local / Thu Oct 22 Pacific entry. Moved out of the current week and retained below.
+
+- **2026-10-22:** Hanmi's third-party estimate now reads Oct 23 in Korea; kept unconfirmed because company confirmation is unavailable and calendar estimates conflict.
+
+## Updates and history
+
+Daily refresh is scheduled through Codex at **9:00 a.m. America/Los_Angeles**. It fetches the selected watchlists afresh and verifies public earnings announcements. On Sundays the preview advances to the coming Monday–Sunday. Weekly snapshots are saved in [`weeks/`](weeks/); Git history records daily revisions.
+
+The schedule runs through the connected Codex automation, not GitHub Actions. Its operation depends on the connected IBKR and GitHub services and the automation being able to run. The timestamp above is the most recent successful publication, not a claim of continuous monitoring.
+
+[Structured calendar](data/calendar.json) · [Update procedure](RUNBOOK.md)
