@@ -3,7 +3,7 @@
   "timezone": "America/Los_Angeles",
   "week_start": "2026-10-19",
   "week_end": "2026-10-25",
-  "updated_at_pacific": "2026-10-22 PDT",
+  "updated_at_pacific": "2026-10-23 11:33 AM PDT",
   "regions": [
     "United States",
     "Korea",
@@ -30,8 +30,11 @@
           "url": "https://vicorcorporation.gcs-web.com/node/17956"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "SPCX-2026Q3",
@@ -57,8 +60,11 @@
           "url": "https://www.marketbeat.com/earnings/reports/2026-10-20-spacex-stock/"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "TXN-2026Q3",
@@ -84,8 +90,11 @@
           "url": "https://stockanalysis.com/stocks/txn/statistics/"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "LRCX-2026September",
@@ -103,16 +112,19 @@
       "source_timing": "Oct 21, 2026: after U.S. close; call 2:00 p.m. PDT.",
       "sources": [
         {
-          "label": "Company IR",
-          "url": "https://investor.lamresearch.com/"
+          "label": "Company call announcement",
+          "url": "https://investor.lamresearch.com/2026-09-30-Lam-Research-Corporation-Announces-September-Quarter-Financial-Conference-Call"
         },
         {
           "label": "Release session",
           "url": "https://bullstory.io/en-us/investing/us-earnings-calendar/2026-10-21"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "NOK-2026Q3",
@@ -134,8 +146,11 @@
           "url": "https://www.nokia.com/newsroom/nokia-to-publish-third-quarter-and-january-september-2026-interim-report-on-22-october-2026/"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "TTMI-2026Q3",
@@ -157,8 +172,11 @@
           "url": "https://investors.ttm.com/news-events/press-releases/detail/418/ttm-technologies-inc-to-conduct-third-quarter-2026"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "WDC-2027Q1",
@@ -180,8 +198,11 @@
           "url": "https://investor.wdc.com/news-releases/news-release-details/wd-announce-first-quarter-fiscal-year-2027-financial-results"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "BE-2026Q3",
@@ -203,8 +224,11 @@
           "url": "https://www.bloomenergy.com/news/bloom-energy-to-announce-third-quarter-2026-financial-results-on-october-22-2026/"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "US AI"
+      ]
     },
     {
       "id": "6146-2026September",
@@ -224,8 +248,11 @@
           "url": "https://www.disco.co.jp/eg/ir/calendar/index.html"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "Japan AI"
+      ]
     },
     {
       "id": "6770-2026Q3",
@@ -248,10 +275,17 @@
         {
           "label": "Company disclosure reproduced",
           "url": "https://news.ustv.com.tw/companynews/261485"
+        },
+        {
+          "label": "Exchange-affiliated conference calendar",
+          "url": "https://irengage.taiwanindex.com.tw/conferenceList"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "Taiwan AI"
+      ]
     },
     {
       "id": "3105-2026Q3",
@@ -265,16 +299,19 @@
         "at": "2026-10-28T14:00:00+08:00",
         "type": "presentation"
       },
-      "source_timing": "Company calendar checked Oct 22 now shows Oct 28, 2026 at 14:00 Asia/Taipei.",
-      "notes": "Latest company calendar replaces the Oct 23 local date shown in the earlier chat. This event is outside the current reporting week.",
+      "source_timing": "Company calendar rechecked Oct 23 shows Oct 28, 2026 at 14:00 Asia/Taipei.",
+      "notes": "Latest company calendar replaces the Oct 23 local date shown in the earlier chat. This event is outside the current reporting week. Exchange-affiliated calendar still contains an older Oct 23 entry as well as Oct 28; the current company schedule takes priority.",
       "sources": [
         {
           "label": "Current company calendar",
           "url": "https://www.winfoundry.com/en-US/Invest/invest_quarter_reports"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "Taiwan AI"
+      ]
     },
     {
       "id": "BESI-2026Q3",
@@ -295,8 +332,45 @@
           "url": "https://www.besi.com/investor-relations/press-releases/2025/details-1/be-semiconductor-industries-nv-announces-2026-third-quarter-conference-call-and-audio-webcast-details/"
         }
       ],
-      "checked_on": "2026-10-22",
-      "confidence": "company-confirmed date/call; see release timing and source notes"
+      "checked_on": "2026-10-23",
+      "confidence": "company-confirmed date/call; see release timing and source notes",
+      "watchlists": [
+        "Euro AI"
+      ]
+    },
+    {
+      "id": "1303-2026Q3-presentation",
+      "company": "Nan Ya Plastics",
+      "ticker": "1303",
+      "region": "Taiwan",
+      "watchlists": [
+        "Taiwan AI"
+      ],
+      "release": {
+        "note": "Separate earnings release date/time unverified; presentation includes preliminary Q3 results"
+      },
+      "call": {
+        "at": "2026-10-23T14:00:00+08:00",
+        "type": "presentation"
+      },
+      "source_timing": "Oct 23, 2026 at 14:00 Asia/Taipei: Taishin-hosted online investor presentation. Company deck covers Q3 2026 preliminary financial results and Q4 outlook.",
+      "notes": "Quarterly results presentation, not a verified separate earnings-release timestamp. The notice includes a conditional backup of Oct 27 at 14:00 Taipei (Mon Oct 26 at 11:00 p.m. PDT) if Taipei announces an Oct 23 work suspension; no postponement or event completion has been independently verified.",
+      "sources": [
+        {
+          "label": "Exchange-affiliated conference calendar",
+          "url": "https://irengage.taiwanindex.com.tw/conferenceList"
+        },
+        {
+          "label": "Company Q3 presentation (TWSE)",
+          "url": "https://mopsov.twse.com.tw/nas/STR/130320261022M001.pdf"
+        },
+        {
+          "label": "Notice reproduced; conditional backup",
+          "url": "https://poorstock.com/earningcall/1303"
+        }
+      ],
+      "checked_on": "2026-10-23",
+      "confidence": "Company presentation confirms Q3 content; exchange-affiliated calendar confirms scheduled presentation time; separate release unverified"
     }
   ],
   "unresolved": [
@@ -304,16 +378,20 @@
       "company": "Hanmi Semiconductor",
       "ticker": "042700",
       "region": "Korea",
-      "note": "No company-confirmed date/time verified. ETFShopping now estimates Oct 23, 2026 in Korea, while other calendars give November dates. A Korea-only date without a time cannot be assigned a single Pacific date: Oct 23 KST spans parts of Thu Oct 22 and Fri Oct 23 PDT. Excluded from confirmed count.",
+      "note": "No company-confirmed date/time verified. On Oct 23, ETFShopping no longer displays the Oct 23 estimate recorded yesterday and instead lists the past July 14 report. Other calendars still offer November estimates. This candidate remains unresolved and excluded from the confirmed count; no single Pacific date or exact release time is asserted.",
       "sources": [
         {
-          "label": "Estimated date",
+          "label": "Calendar rechecked; prior estimate absent",
           "url": "https://etfshopping.com/stock/042700/earnings"
         },
         {
           "label": "Conflicting estimate",
           "url": "https://www.tipranks.com/stocks/kr%3A042700/earnings"
         }
+      ],
+      "checked_on": "2026-10-23",
+      "watchlists": [
+        "Korean AI"
       ]
     },
     {
@@ -321,10 +399,13 @@
       "ticker": "0158S0",
       "region": "Korea",
       "note": "Instrument identity resolved through IBKR, but an earnings schedule could not be verified from accessible public sources. This is a coverage gap, not a no-earnings claim.",
-      "sources": []
+      "sources": [],
+      "watchlists": [
+        "Korean AI"
+      ]
     }
   ],
-  "coverage_note": "The selected watchlists were refreshed on October 22. The 11 identified company earnings events in the current week are supported by the linked schedules; some exact release minutes are unpublished. Calendar and source coverage, particularly smaller overseas issuers, may be incomplete. No company-confirmed Korean event was identified for this week. This public repository contains earnings-calendar information only; complete brokerage watchlists and account data are not published.",
+  "coverage_note": "All five selected watchlists were fetched afresh and their full symbol scope screened on October 23. Twelve identified current-week company earnings events include results presentations; separate release minutes remain unknown where stated. U.S. and Japanese weekly calendars, a global daily calendar, Taiwan conference disclosures and European issuer calendars were screened. This is not exhaustive issuer-by-issuer IR verification: global calendars omit some known events, and Korean and smaller overseas issuer coverage remains partial. No company-confirmed Korean event was identified for this week; this is not proof of no earnings. The Taiwan Finmo calendar was unavailable; alternate exchange-affiliated and public conference calendars were used. Only calendar entries and verification notes are published; complete brokerage watchlists and account data are excluded.",
   "changes": [
     {
       "date": "2026-10-22",
@@ -333,6 +414,46 @@
     {
       "date": "2026-10-22",
       "note": "Hanmi's third-party estimate now reads Oct 23 in Korea; kept unconfirmed because company confirmation is unavailable and calendar estimates conflict."
+    },
+    {
+      "date": "2026-10-23",
+      "note": "Added Nan Ya Plastics (1303), previously omitted: scheduled Q3 preliminary-results presentation Fri Oct 23 at 14:00 Taipei = Thu Oct 22 at 11:00 p.m. PDT. Separate release time unverified. Conditional weather backup is disclosed in the event note."
+    },
+    {
+      "date": "2026-10-23",
+      "note": "Hanmi: the Oct 23 third-party estimate recorded yesterday is no longer displayed on the rechecked calendar. Kept unresolved rather than treating it as a confirmed earnings date."
+    }
+  ],
+  "coverage": [
+    {
+      "region": "United States",
+      "watchlist": "US AI",
+      "screened_on": "2026-10-23",
+      "status": "Calendar-screened full selected scope; identified events rechecked against company/SEC sources; session-only release timing retained where exact minutes are unpublished. Newly added watchlist symbols GOOG and MSFT screen outside this week."
+    },
+    {
+      "region": "Korea",
+      "watchlist": "Korean AI",
+      "screened_on": "2026-10-23",
+      "status": "Full selected symbol scope screened; partial public calendar/issuer coverage. Hanmi and Elice remain unresolved; no no-earnings guarantee."
+    },
+    {
+      "region": "Japan",
+      "watchlist": "Japan AI",
+      "screened_on": "2026-10-23",
+      "status": "Full selected symbol scope compared with Japanese weekly results calendar; DISCO matched and company calendar rechecked. Smaller issuer omissions remain possible."
+    },
+    {
+      "region": "Taiwan",
+      "watchlist": "Taiwan AI",
+      "screened_on": "2026-10-23",
+      "status": "Full selected symbol scope compared with conference calendars; PSMC, WIN and Nan Ya source schedules inspected. Finmo unavailable; alternate sources used. Conference screening does not establish a complete earnings release calendar."
+    },
+    {
+      "region": "Europe",
+      "watchlist": "Euro AI",
+      "screened_on": "2026-10-23",
+      "status": "Full selected scope screened with global/issuer calendars. Besi confirmed in current week. AY7A resolved as ASMPT and retained under Euro AI grouping; other known results dates fall outside this week."
     }
   ]
 }
