@@ -1,6 +1,6 @@
 # AI earnings calendar
 
-**Next 7 days: Sat, Oct 24, 2026–Fri, Oct 30, 2026 · Verified: 2026-10-24 09:13 AM PDT**
+**Next 7 days: Sun, Oct 25, 2026–Sat, Oct 31, 2026 · Verified: 2026-10-25 09:10 AM PDT**
 
 The window includes today and the following six Pacific calendar dates. It advances every day, including Sundays. Today’s already-passed times remain until the next day; earlier dates are preserved in history.
 
@@ -52,12 +52,14 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 | Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
 |---|---|---|---|---|
-| SK hynix | 000660 / SKHY | Before Tue, Oct 27, 2026 · 5:00 pm PDT; exact minute unpublished | Tue, Oct 27, 2026 · 5:00 pm PDT | [Schedule source](https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/) |
-| Samsung Electronics | 005930 | Separate full-results release time unpublished; preliminary guidance is a separate earlier event | Wed, Oct 28, 2026 · 6:00 pm PDT | [Schedule source](https://www.samsung.com/global/ir/reports-disclosures/notices/) |
+| SK hynix | 000660 / SKHY | Before Tue, Oct 27, 2026 · 5:00 pm PDT; exact minute unpublished | Tue, Oct 27, 2026 · 5:00 pm PDT | [Schedule source](https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/), [Conflicting estimated calendar; company timing takes priority](https://etfshopping.com/stock/000660/earnings) |
+| Samsung Electronics | 005930 | Separate full-results release time unpublished; preliminary guidance is a separate earlier event | Wed, Oct 28, 2026 · 6:00 pm PDT | [Schedule source](https://www.samsung.com/global/ir/reports-disclosures/notices/), [Conflicting estimated calendar; company timing takes priority](https://etfshopping.com/stock/005930/earnings) |
 
 - **000660 / SKHY source groups:** Korean AI, US AI. Shown once; multiple listings are deduplicated.
 
-- **000660 / SKHY:** Korean and U.S. watchlist listings are one company and one event row; shown in its Korean watchlist group.
+- **000660 / SKHY:** Korean and U.S. watchlist listings are one company and one event row; shown in its Korean watchlist group. ETFShopping estimates Oct 27 KST, while the company explicitly announces its release before 09:00 KST and call at 09:00 KST on Oct 28; company timing takes priority.
+
+- **005930:** ETFShopping estimates Oct 28 KST; the company notice explicitly schedules the full-results call on Oct 29 at 10:00 KST. The estimate does not establish a separate release timestamp.
 
 ## Japan
 
@@ -66,14 +68,16 @@ Results releases and earnings calls are separate events. Before/after market ope
 | Shin-Etsu Chemical | 4063 | Mon, Oct 26, 2026 · 11:30 pm PDT | Separate call / presentation time unverified | [Schedule source](https://www.shinetsu.co.jp/jp/ir/ir-calendar/) |
 | Advantest | 6857 | Tue, Oct 27, 2026 · 11:30 pm PDT | Separate call / presentation time unverified | [Schedule source](https://www.advantest.com/ja/investors/ir-calendar/) |
 | Ibiden | 4062 | Wed, Oct 28, 2026 · 11:20 pm PDT | Separate call / presentation time unverified | [Schedule source](https://www.ibiden.co.jp/ir/calendar/) |
-| Fujibo Holdings | 3104 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Separate call / presentation time unpublished | [Company IR calendar](https://www.fujibo.co.jp/ir/) |
+| Fujibo Holdings | 3104 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.fujibo.co.jp/ir/) |
 | Fuso Chemical | 4368 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [Company IR calendar](https://fusokk.co.jp/ir/ir_cat/ir-calendar) |
 | SCREEN Holdings | 7735 | Thu, Oct 29, 2026 · 11:35 pm PDT | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.screen.co.jp/en/ir/calendar) |
 | HOYA | 7741 | Thu, Oct 29, 2026 · 9:30 pm PDT | Separate call / presentation time unpublished | [Company IR calendar](https://www.hoya.com/en/investor/calendar/) |
 | Sumitomo Electric | 5802 | Thu, Oct 29, 2026 · 11:00 pm PDT | Separate call / presentation time unpublished | [Company IR calendar](https://sumitomoelectric.com/jp/ir/calendar) |
-| TDK | 6762 | Thu, Oct 29, 2026 · 11:30 pm PDT | Fri, Oct 30, 2026 · 1:30 am PDT (presentation) | [Company IR calendar](https://www.tdk.com/en/ir/ir_events/calendar/index.html) |
+| TDK | 6762 | Thu, Oct 29, 2026 · 11:30 pm PDT | Fri, Oct 30, 2026 · 1:30 am PDT (presentation) | [Company IR calendar](https://www.tdk.com/en/ir/ir_events/calendar/index.html), [Company Japanese IR calendar](https://www.tdk.com/ja/ir/ir_events/calendar/index.html) |
 | Tokyo Electron | 8035 | Fri, Oct 30, 2026 · 12:00 am PDT | Conference presentation materials posted at release time; separate webcast start unverified | [Company IR calendar](https://www.tel.com/ir/library/report/fy2027-q2.html) |
 | Kioxia | 285A | Fri, Oct 30, 2026 · 2:45 am PDT | Separate call / presentation time unpublished | [Company IR calendar](https://www.kioxia-holdings.com/ja-jp/ir.html) |
+
+- **3104:** The Nov 5 JST institutional briefing is shown for context outside the current window; its exact time remains unpublished.
 
 - **4368:** Release and institutional presentation are separate dates. The later presentation is shown for context; no single Pacific date is inferred from either Japan-only date.
 
@@ -108,15 +112,15 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 ## Unresolved dates and coverage limits
 
-- **Hanmi Semiconductor (042700, Korea):** No company-confirmed date/time verified. On Oct 23, ETFShopping no longer displays the Oct 23 estimate recorded yesterday and instead lists the past July 14 report. Other calendars still offer November estimates. This candidate remains unresolved and excluded from the confirmed count; no single Pacific date or exact release time is asserted. [Calendar rechecked; prior estimate absent](https://etfshopping.com/stock/042700/earnings), [Conflicting estimate](https://www.tipranks.com/stocks/kr%3A042700/earnings)
+- **Hanmi Semiconductor (042700, Korea):** No company-confirmed date/time verified. ETFShopping still lists the past July 14 report and no upcoming date; the earlier October estimate remains absent. Other calendars offer November estimates. No single Pacific date or exact release time is asserted. [Calendar rechecked; prior estimate absent](https://etfshopping.com/stock/042700/earnings), [Conflicting estimate](https://www.tipranks.com/stocks/kr%3A042700/earnings)
 
 - **Elice (0158S0, Korea):** Instrument identity resolved through IBKR, but an earnings schedule could not be verified from accessible public sources. This is a coverage gap, not a no-earnings claim. 
 
-- **Samsung Electro-Mechanics (009150, Korea):** Reproduced disclosure gives Oct 28 Korea; issuer earnings page timed out and original filing/time not independently verified. Tentative, excluded from confirmed table. **Possible Tue, Oct 27, 2026 through Wed, Oct 28, 2026 PDT; time unpublished (source date 2026-10-28, Asia/Seoul).** [Candidate source](https://dartbrief.com/disclosures/20261012800250)
+- **Samsung Electro-Mechanics (009150, Korea):** Reproduced DART notices give Oct 28 KST for results and report a 13:00 KST conference call, but the original filing returned a 502 error and the company earnings page lists only past quarters. ETFShopping instead estimates Oct 29 KST. Keep the Oct 28 date-only candidate unconfirmed; the reported call hour is not promoted to verified timing. **Possible Tue, Oct 27, 2026 through Wed, Oct 28, 2026 PDT; time unpublished (source date 2026-10-28, Asia/Seoul).** [Candidate source](https://dartbrief.com/disclosures/20261012800250), [Reproduced IR notice; original unavailable](https://dartbrief.com/disclosures/20261012800255), [Conflicting estimated calendar](https://etfshopping.com/stock/009150/earnings), [Company earnings page; past quarters only](https://www.samsungsem.com/global/about-us/investor-relations/earnings-release.do)
 
-- **LG Innotek (011070, Korea):** Secondary calendar reports Oct 27 Korea. Company schedule/time not independently verified; tentative. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Seoul).** [Candidate source](https://cbcglobe.com/en/articles/2026/10/21/complete-schedule-of-q3-earnings-announcements-for-hanwha-oc-fafbcf3a)
+- **LG Innotek (011070, Korea):** Secondary calendar reports Oct 27 Korea. Company schedule/time not independently verified; tentative. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Seoul).** [Candidate source](https://cbcglobe.com/en/articles/2026/10/21/complete-schedule-of-q3-earnings-announcements-for-hanwha-oc-fafbcf3a), [Estimated calendar](https://etfshopping.com/stock/011070/earnings)
 
-- **MARUWA (5344, Japan):** Indexed company calendar previously reported Oct 27 at 15:30 JST. The company site still redirects to its emergency-maintenance notice on Oct 24; prior candidate retained without upgrading to confirmed. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Tokyo).** [Candidate source](https://www.maruwa-g.com/e/ir/calendar.html)
+- **MARUWA (5344, Japan):** Indexed company calendar previously reported Oct 27 at 15:30 JST. The company site still redirects to its emergency-maintenance notice on Oct 25; prior candidate retained without upgrading to confirmed. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Tokyo).** [Candidate source](https://www.maruwa-g.com/e/ir/calendar.html)
 
 - **Nicca Chemical (4463, Japan):** Japanese calendar screen lists Oct 30 JST and requires issuer confirmation. An unknown local time can fall on Oct 29 or Oct 30 PDT, so this boundary candidate is retained; exact date/time in Pacific and company confirmation remain unverified. **Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo).** [Candidate source](https://kabutrack.com/stock/calendar/earning-schedule/2026/44/)
 
@@ -128,7 +132,7 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 - **ASE Technology Holding (3711 / ASX, Taiwan):** U.S. weekly calendar lists ASX for Oct 29; issuer confirmation and exact time not independently verified. The native and ADR listings are one issuer. This is a tentative candidate, not a company-confirmed date. **Possible Wed, Oct 28, 2026 through Thu, Oct 29, 2026 PDT; time unpublished (source date 2026-10-29, America/New_York).** [Candidate source](https://www.earningstoday.com/earnings-calendar/weekly/2026-10-26)
 
-All five selected IBKR lists were fetched afresh on October 24 and their full symbol scope screened for October 24–30 Pacific, including adjacent overseas dates. U.S./global and Japanese weekly screens and Taiwan exchange-affiliated disclosures were refreshed; European issuer calendars were inspected. Eight Japanese candidates now have company-published schedules, and MediaTek’s presentation is included as the window advances. Coverage is partial: ETFShopping’s Korean screening pages returned HTTP 429, some issuer pages were unavailable or dynamically empty, and MARUWA remains under maintenance. Alternative/global calendars do not fully cover smaller overseas issuers. Prior good event data and unresolved candidates are retained with their original check dates where exact timing could not be reverified. This is not a no-earnings guarantee for unlisted companies.
+All five selected IBKR lists were fetched afresh on October 25 and the complete selected symbol scope screened for October 25–31 Pacific. U.S./global and Japanese weekly screens and Taiwan exchange-affiliated disclosures were refreshed; European issuer calendars were inspected. Korean ETFShopping screening pages were accessible for 27 of 30 selected instruments through web fallback; three failed, and accessible estimates are not issuer confirmations. Coverage remains partial: RTTNews denied two October 26 pagination requests, some issuer calendars were dynamically empty or unavailable, original DART confirmation was unavailable, and MARUWA remains under maintenance. Prior good data and original verification dates are retained where timing could not be reverified. Missing entries are not a guarantee of no earnings.
 
 ## Schedule changes
 
@@ -149,6 +153,10 @@ All five selected IBKR lists were fetched afresh on October 24 and their full sy
 - **2026-10-24:** MediaTek presentation enters the advancing window: Fri Oct 30 midnight PDT (Oct 30 at 15:00 Taipei). Murata remains explicitly tentative at Thu Oct 29 10:00 p.m. PDT.
 
 - **2026-10-24:** Partial verification: Korean screening source returned HTTP 429; several issuer pages were inaccessible or dynamically empty. Prior good data retained, with affected coverage and original verification dates shown.
+
+- **2026-10-25:** Fujibo company calendar also lists a Nov 5 JST institutional briefing (possible Nov 4–5 PST); added as a separate date-only presentation for context. No verified in-window earnings dates or clock times changed.
+
+- **2026-10-25:** Korean screening access improved to 27 of 30 pages. Conflicting estimates for SK hynix and Samsung do not override company announcements. Samsung Electro-Mechanics remains unconfirmed: reproduced Oct 28 notices conflict with an Oct 29 calendar estimate and original DART verification failed.
 
 ## Updates and history
 

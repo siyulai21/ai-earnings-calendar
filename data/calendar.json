@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Los_Angeles",
-  "updated_at_pacific": "2026-10-24 09:13 AM PDT",
+  "updated_at_pacific": "2026-10-25 09:10 AM PDT",
   "regions": [
     "United States",
     "Korea",
@@ -309,14 +309,14 @@
           "url": "https://www.winfoundry.com/en-US/Invest/invest_quarter_reports"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "company-confirmed date/call; see release timing and source notes",
       "watchlists": [
         "Taiwan AI"
       ],
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -405,12 +405,12 @@
           "url": "https://www.rttnews.com/calendar/earnings.aspx?Date=26-Oct-2026&PageNum=1"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "partial",
-        "note": "Company event page returned access denied; report date/session rechecked in the current calendar. Prior company call time retained."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown.",
+        "note": "Company call page accessible through web fallback; release session rechecked in RTTNews. The call does not establish an exact release time."
       }
     },
     {
@@ -440,12 +440,12 @@
           "url": "https://www.rttnews.com/calendar/earnings.aspx?Date=26-Oct-2026&PageNum=3"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "The separate events index says EST; the explicit Pacific time in the company announcement takes priority.",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -471,11 +471,11 @@
           "url": "https://www.seagate.com/stories/articles/seagate-technology-to-report-fiscal-first-quarter-2027-financial-results-on-october-27-2026-pr/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -502,9 +502,9 @@
       "checked_on": "2026-10-23",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Opened company events page did not expose the current event text. Prior call time retained."
+        "note": "Company events page was readable but exposed no current event details. Prior company call time retained."
       }
     },
     {
@@ -528,11 +528,11 @@
           "url": "https://investors.teradyne.com/news-events/press-releases/detail/454/teradyne-to-announce-third-quarter-2026-results"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -561,9 +561,9 @@
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "Date confirmed by company calendar; 8:30 a.m. ET is reported by secondary calendars but not promoted to a primary-verified exact time here.",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Opened company IR page did not expose the event date/time. Prior date-only schedule retained and current calendar screen agrees."
+        "note": "Company IR page exposed no current event date/time. Current calendar screen agrees with the prior date-only schedule; exact timing remains unknown."
       }
     },
     {
@@ -589,11 +589,11 @@
           "url": "https://www.gevernova.com/news/press-releases/ge-vernova-announce-third-quarter-2026-financial-results-october-28"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -619,11 +619,11 @@
           "url": "https://investors.vertiv.com/news/news-details/2026/Vertiv-Announces-Date-of-Third-Quarter-2026-Earnings-Release-and-Conference-Call/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -651,13 +651,11 @@
           "url": "https://ir.cohu.com/"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "partial",
-        "note": "Company release page returned access denied. Company call calendar rechecked: Oct 28, 4:30 p.m. EDT; prior exact release time retained.",
-        "call_checked_on": "2026-10-24"
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -681,11 +679,11 @@
           "url": "https://investors.formfactor.com/news-releases/news-release-details/formfactor-announce-third-quarter-2026-financial-results-october"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -711,11 +709,11 @@
           "url": "https://ir.kla.com/news-events/press-releases/detail/522/kla-announces-first-quarter-fiscal-year-2027-earnings-date"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -741,11 +739,11 @@
           "url": "https://news.microsoft.com/source/2026/10/07/microsoft-announces-quarterly-earnings-release-date-69/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -769,12 +767,13 @@
           "url": "https://www.marketscreener.com/news/alphabet-announces-date-of-third-quarter-2026-financial-results-conference-call-ce785dd9dc89f62d"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "Company announcement reproduced unaltered by Public Technologies/MarketScreener; accessible company IR page did not expose the event text. Before-call timing does not establish an exact release minute.",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown.",
+        "note": "Unedited company announcement reproduced by Public Technologies/MarketScreener rechecked; separate release minute unpublished."
       }
     },
     {
@@ -800,11 +799,11 @@
           "url": "https://www.sec.gov/Archives/edgar/data/1329394/000119312526417926/d140905dex991.htm"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -834,11 +833,11 @@
           "url": "https://investors.protolabs.com/news-events/events"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -864,11 +863,11 @@
           "url": "https://www.intel.com/content/www/us/en/newsroom/news/corporate/intel-reports-third-quarter-2026-financial-results.html"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -892,11 +891,11 @@
           "url": "https://investor.sandisk.com/news-events/news-releases"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -925,9 +924,9 @@
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "The company news index was dynamically empty when opened; date retained from the indexed company announcement and calendar screen. Partial verification.",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Company news index did not expose its current announcement. Prior company-indexed date retained; current calendar screen agrees."
+        "note": "Company news index exposed no current announcement. Current calendar screen agrees with the prior company-indexed date; prior verification date retained."
       }
     },
     {
@@ -955,9 +954,9 @@
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "The opened company index did not expose its dynamic event text. Exact call comes from the indexed company schedule; partial verification.",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Company index did not expose its dynamic event text. Prior indexed company call time retained; current calendar screen agrees."
+        "note": "Company index exposed no current event details. Current calendar screen agrees with the prior indexed company call date; prior call time retained."
       }
     },
     {
@@ -980,14 +979,18 @@
         {
           "label": "Schedule source",
           "url": "https://news.skhynix.com/en/q3-2026-earnings-conference-call-invitation/"
+        },
+        {
+          "label": "Conflicting estimated calendar; company timing takes priority",
+          "url": "https://etfshopping.com/stock/000660/earnings"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
-      "notes": "Korean and U.S. watchlist listings are one company and one event row; shown in its Korean watchlist group.",
+      "notes": "Korean and U.S. watchlist listings are one company and one event row; shown in its Korean watchlist group. ETFShopping estimates Oct 27 KST, while the company explicitly announces its release before 09:00 KST and call at 09:00 KST on Oct 28; company timing takes priority.",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1009,14 +1012,19 @@
         {
           "label": "Schedule source",
           "url": "https://www.samsung.com/global/ir/reports-disclosures/notices/"
+        },
+        {
+          "label": "Conflicting estimated calendar; company timing takes priority",
+          "url": "https://etfshopping.com/stock/005930/earnings"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
-      }
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
+      },
+      "notes": "ETFShopping estimates Oct 28 KST; the company notice explicitly schedules the full-results call on Oct 29 at 10:00 KST. The estimate does not establish a separate release timestamp."
     },
     {
       "id": "4063-2026Q3-rolling",
@@ -1039,11 +1047,11 @@
           "url": "https://www.shinetsu.co.jp/jp/ir/ir-calendar/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1067,11 +1075,11 @@
           "url": "https://www.advantest.com/ja/investors/ir-calendar/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1095,11 +1103,11 @@
           "url": "https://www.ibiden.co.jp/ir/calendar/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1124,11 +1132,11 @@
           "url": "https://irengage.taiwanindex.com.tw/conferenceList"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1153,11 +1161,11 @@
           "url": "https://irengage.taiwanindex.com.tw/conferenceList"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1183,11 +1191,11 @@
           "url": "https://irengage.taiwanindex.com.tw/conferenceList"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1212,11 +1220,11 @@
           "url": "https://irengage.taiwanindex.com.tw/conferenceList"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1240,11 +1248,11 @@
           "url": "https://www.asm.com/calendar"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1269,12 +1277,12 @@
           "url": "https://www.asmpt.com/en/investor-relations/announcements-circulars/q3-2026-results-announcement/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "Hong Kong issuer included through Euro AI listing AY7A; retained in that watchlist group.",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1299,12 +1307,12 @@
           "url": "https://www.aixtron.com/en/investors"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "notes": "Oct 15 preliminary performance announcement is separate and outside this window.",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Linked schedule rechecked; unknown timing remains unknown."
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1328,11 +1336,15 @@
           "url": "https://www.kioxia-holdings.com/ja-jp/ir.html"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
+      },
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1348,21 +1360,28 @@
         "timezone": "Asia/Tokyo"
       },
       "call": {
-        "note": "Separate call / presentation time unpublished"
+        "local_date": "2026-11-05",
+        "timezone": "Asia/Tokyo",
+        "type": "presentation"
       },
-      "source_timing": "Company calendar: Q2 FY2027 results Oct 30, 2026, Japan local date; exact release time unpublished.",
+      "source_timing": "Company calendar: Q2 FY2027 results Oct 30, 2026, Japan local date; exact release time unpublished. The same company calendar lists an institutional-investor briefing on Nov 5 JST, with no clock time.",
       "sources": [
         {
           "label": "Company IR calendar",
           "url": "https://www.fujibo.co.jp/ir/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
-      }
+      },
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
+      },
+      "notes": "The Nov 5 JST institutional briefing is shown for context outside the current window; its exact time remains unpublished."
     },
     {
       "id": "4368-2026Q3-rolling",
@@ -1388,13 +1407,17 @@
           "url": "https://fusokk.co.jp/ir/ir_cat/ir-calendar"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
       },
-      "notes": "Release and institutional presentation are separate dates. The later presentation is shown for context; no single Pacific date is inferred from either Japan-only date."
+      "notes": "Release and institutional presentation are separate dates. The later presentation is shown for context; no single Pacific date is inferred from either Japan-only date.",
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
+      }
     },
     {
       "id": "5802-2026Q3-rolling",
@@ -1417,11 +1440,15 @@
           "url": "https://sumitomoelectric.com/jp/ir/calendar"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
+      },
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1444,13 +1471,22 @@
         {
           "label": "Company IR calendar",
           "url": "https://www.tdk.com/en/ir/ir_events/calendar/index.html"
+        },
+        {
+          "label": "Company Japanese IR calendar",
+          "url": "https://www.tdk.com/ja/ir/ir_events/calendar/index.html"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
+      },
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown.",
+        "note": "English calendar timed out; Japanese company calendar confirms both 15:30 and 17:30 JST on Oct 30."
       }
     },
     {
@@ -1476,11 +1512,15 @@
           "url": "https://www.screen.co.jp/en/ir/calendar"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
+      },
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1504,11 +1544,15 @@
           "url": "https://www.hoya.com/en/investor/calendar/"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
+      },
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
       }
     },
     {
@@ -1532,13 +1576,17 @@
           "url": "https://www.tel.com/ir/library/report/fy2027-q2.html"
         }
       ],
-      "checked_on": "2026-10-24",
+      "checked_on": "2026-10-25",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
       },
-      "notes": "A presentation-material publication time is not a verified live call start time."
+      "notes": "A presentation-material publication time is not a verified live call start time.",
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
+      }
     },
     {
       "id": "2454-2026Q3-rolling",
@@ -1566,8 +1614,12 @@
           "url": "https://www.mediatek.com/investor-relations/financial-information"
         }
       ],
-      "checked_on": "2026-10-24",
-      "confidence": "Company-disclosed quarterly presentation time; separate release timestamp unknown"
+      "checked_on": "2026-10-25",
+      "confidence": "Company-disclosed quarterly presentation time; separate release timestamp unknown",
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Linked company announcement, calendar or exchange disclosure rechecked; unpublished timing remains unknown."
+      }
     }
   ],
   "unresolved": [
@@ -1575,7 +1627,7 @@
       "company": "Hanmi Semiconductor",
       "ticker": "042700",
       "region": "Korea",
-      "note": "No company-confirmed date/time verified. On Oct 23, ETFShopping no longer displays the Oct 23 estimate recorded yesterday and instead lists the past July 14 report. Other calendars still offer November estimates. This candidate remains unresolved and excluded from the confirmed count; no single Pacific date or exact release time is asserted.",
+      "note": "No company-confirmed date/time verified. ETFShopping still lists the past July 14 report and no upcoming date; the earlier October estimate remains absent. Other calendars offer November estimates. No single Pacific date or exact release time is asserted.",
       "sources": [
         {
           "label": "Calendar rechecked; prior estimate absent",
@@ -1586,14 +1638,14 @@
           "url": "https://www.tipranks.com/stocks/kr%3A042700/earnings"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "watchlists": [
         "Korean AI"
       ],
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Fresh selected scope screened with global/alternative calendars. ETFShopping full-scope Korea source returned HTTP 429; company confirmation remains incomplete. Prior good data retained."
+        "note": "Screening page accessible again through web fallback; issuer confirmation remains incomplete."
       }
     },
     {
@@ -1606,9 +1658,9 @@
         "Korean AI"
       ],
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Fresh selected scope screened with global/alternative calendars. ETFShopping full-scope Korea source returned HTTP 429; company confirmation remains incomplete. Prior good data retained."
+        "note": "ETFShopping page failed again; identity resolved but no earnings schedule verified. Prior good information retained."
       }
     },
     {
@@ -1622,18 +1674,30 @@
         "local_date": "2026-10-28",
         "timezone": "Asia/Seoul"
       },
-      "note": "Reproduced disclosure gives Oct 28 Korea; issuer earnings page timed out and original filing/time not independently verified. Tentative, excluded from confirmed table.",
+      "note": "Reproduced DART notices give Oct 28 KST for results and report a 13:00 KST conference call, but the original filing returned a 502 error and the company earnings page lists only past quarters. ETFShopping instead estimates Oct 29 KST. Keep the Oct 28 date-only candidate unconfirmed; the reported call hour is not promoted to verified timing.",
       "sources": [
         {
           "label": "Candidate source",
           "url": "https://dartbrief.com/disclosures/20261012800250"
+        },
+        {
+          "label": "Reproduced IR notice; original unavailable",
+          "url": "https://dartbrief.com/disclosures/20261012800255"
+        },
+        {
+          "label": "Conflicting estimated calendar",
+          "url": "https://etfshopping.com/stock/009150/earnings"
+        },
+        {
+          "label": "Company earnings page; past quarters only",
+          "url": "https://www.samsungsem.com/global/about-us/investor-relations/earnings-release.do"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Fresh selected scope screened with global/alternative calendars. ETFShopping full-scope Korea source returned HTTP 429; company confirmation remains incomplete. Prior good data retained."
+        "note": "Conflicting calendar candidate; original DART filing unavailable and upcoming company confirmation incomplete."
       }
     },
     {
@@ -1652,13 +1716,17 @@
         {
           "label": "Candidate source",
           "url": "https://cbcglobe.com/en/articles/2026/10/21/complete-schedule-of-q3-earnings-announcements-for-hanwha-oc-fafbcf3a"
+        },
+        {
+          "label": "Estimated calendar",
+          "url": "https://etfshopping.com/stock/011070/earnings"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Fresh selected scope screened with global/alternative calendars. ETFShopping full-scope Korea source returned HTTP 429; company confirmation remains incomplete. Prior good data retained."
+        "note": "Estimated calendar still gives Oct 27 KST; readable company site did not establish a current schedule."
       }
     },
     {
@@ -1672,7 +1740,7 @@
         "local_date": "2026-10-27",
         "timezone": "Asia/Tokyo"
       },
-      "note": "Indexed company calendar previously reported Oct 27 at 15:30 JST. The company site still redirects to its emergency-maintenance notice on Oct 24; prior candidate retained without upgrading to confirmed.",
+      "note": "Indexed company calendar previously reported Oct 27 at 15:30 JST. The company site still redirects to its emergency-maintenance notice on Oct 25; prior candidate retained without upgrading to confirmed.",
       "sources": [
         {
           "label": "Candidate source",
@@ -1681,8 +1749,9 @@
       ],
       "checked_on": "2026-10-23",
       "verification": {
-        "attempted_on": "2026-10-24",
-        "status": "Company source unavailable: maintenance"
+        "attempted_on": "2026-10-25",
+        "status": "partial",
+        "note": "Company calendar still redirects to emergency maintenance; prior candidate retained."
       }
     },
     {
@@ -1703,11 +1772,11 @@
           "url": "https://kabutrack.com/stock/calendar/earning-schedule/2026/44/"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Japanese weekly-calendar candidate rechecked. Accessible primary pages did not establish a current exact schedule; prior candidate retained."
+        "note": "Japanese weekly candidate rechecked; accessible issuer sources did not verify the current date/time."
       }
     },
     {
@@ -1728,11 +1797,11 @@
           "url": "https://kabutrack.com/stock/calendar/earning-schedule/2026/44/"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Japanese weekly-calendar candidate rechecked. Accessible primary pages did not establish a current exact schedule; prior candidate retained."
+        "note": "Japanese weekly candidate rechecked; accessible issuer sources did not verify the current date/time."
       }
     },
     {
@@ -1753,11 +1822,11 @@
           "url": "https://kabutrack.com/stock/calendar/earning-schedule/2026/44/"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Japanese weekly-calendar candidate rechecked. Accessible primary pages did not establish a current exact schedule; prior candidate retained."
+        "note": "Japanese weekly candidate rechecked. Lasertec company calendar image contains a generic annual cycle without a specific 2026 event date."
       }
     },
     {
@@ -1777,7 +1846,11 @@
           "url": "https://corporate.murata.com/en-sg/ir/calendar"
         }
       ],
-      "checked_on": "2026-10-24"
+      "checked_on": "2026-10-25",
+      "verification": {
+        "attempted_on": "2026-10-25",
+        "status": "Company calendar rechecked; explicitly tentative."
+      }
     },
     {
       "company": "ASE Technology Holding",
@@ -1798,15 +1871,15 @@
           "url": "https://www.earningstoday.com/earnings-calendar/weekly/2026-10-26"
         }
       ],
-      "checked_on": "2026-10-23",
+      "checked_on": "2026-10-25",
       "verification": {
-        "attempted_on": "2026-10-24",
+        "attempted_on": "2026-10-25",
         "status": "partial",
-        "note": "Current weekly calendar still lists Oct 29; issuer IR site returned access denied. Prior candidate retained."
+        "note": "Current weekly calendar still lists Oct 29; company IR returned HTTP 403. Candidate remains unconfirmed."
       }
     }
   ],
-  "coverage_note": "All five selected IBKR lists were fetched afresh on October 24 and their full symbol scope screened for October 24–30 Pacific, including adjacent overseas dates. U.S./global and Japanese weekly screens and Taiwan exchange-affiliated disclosures were refreshed; European issuer calendars were inspected. Eight Japanese candidates now have company-published schedules, and MediaTek’s presentation is included as the window advances. Coverage is partial: ETFShopping’s Korean screening pages returned HTTP 429, some issuer pages were unavailable or dynamically empty, and MARUWA remains under maintenance. Alternative/global calendars do not fully cover smaller overseas issuers. Prior good event data and unresolved candidates are retained with their original check dates where exact timing could not be reverified. This is not a no-earnings guarantee for unlisted companies.",
+  "coverage_note": "All five selected IBKR lists were fetched afresh on October 25 and the complete selected symbol scope screened for October 25–31 Pacific. U.S./global and Japanese weekly screens and Taiwan exchange-affiliated disclosures were refreshed; European issuer calendars were inspected. Korean ETFShopping screening pages were accessible for 27 of 30 selected instruments through web fallback; three failed, and accessible estimates are not issuer confirmations. Coverage remains partial: RTTNews denied two October 26 pagination requests, some issuer calendars were dynamically empty or unavailable, original DART confirmation was unavailable, and MARUWA remains under maintenance. Prior good data and original verification dates are retained where timing could not be reverified. Missing entries are not a guarantee of no earnings.",
   "changes": [
     {
       "date": "2026-10-22",
@@ -1843,36 +1916,44 @@
     {
       "date": "2026-10-24",
       "note": "Partial verification: Korean screening source returned HTTP 429; several issuer pages were inaccessible or dynamically empty. Prior good data retained, with affected coverage and original verification dates shown."
+    },
+    {
+      "date": "2026-10-25",
+      "note": "Fujibo company calendar also lists a Nov 5 JST institutional briefing (possible Nov 4–5 PST); added as a separate date-only presentation for context. No verified in-window earnings dates or clock times changed."
+    },
+    {
+      "date": "2026-10-25",
+      "note": "Korean screening access improved to 27 of 30 pages. Conflicting estimates for SK hynix and Samsung do not override company announcements. Samsung Electro-Mechanics remains unconfirmed: reproduced Oct 28 notices conflict with an Oct 29 calendar estimate and original DART verification failed."
     }
   ],
   "coverage": [
     {
       "region": "United States",
-      "screened_on": "2026-10-24",
-      "status": "All selected symbols screened against current U.S./global calendars; reachable company/SEC schedules rechecked. AMKR, COHU release, UCTT, GLW, ENTG and AXTI retain some prior timing because pages were denied or dynamically empty."
+      "screened_on": "2026-10-25",
+      "status": "All selected symbols compared with current U.S./global calendars. Company/SEC announcements rechecked where readable. AMKR and COHU company pages accessible through web fallback. UCTT, GLW, ENTG and AXTI retain prior timing/check dates because dynamic pages exposed no current event. RTTNews October 26 pages 2 and 3 returned HTTP 403; alternative weekly screening used."
     },
     {
       "region": "Korea",
-      "screened_on": "2026-10-24",
-      "status": "Fresh full selected scope checked with global/alternative calendars; Samsung and SK hynix company calls rechecked. Full-scope ETFShopping screen failed with HTTP 429. Small-issuer and unresolved-company coverage remains incomplete."
+      "screened_on": "2026-10-25",
+      "status": "Full selected scope attempted against screening calendars; 27 of 30 ETFShopping pages readable, three unavailable. Samsung and SK hynix company announcements take priority over conflicting calendar estimates. Samsung Electro-Mechanics and LG Innotek remain candidates; DART original confirmation unavailable. Small-issuer coverage incomplete."
     },
     {
       "region": "Japan",
-      "screened_on": "2026-10-24",
-      "status": "All selected symbols compared with the current Japanese weekly calendar. Eight candidates resolved with company calendars. Murata is explicitly tentative; Nicca, NEG, Lasertec and MARUWA remain unresolved or partially verified."
+      "screened_on": "2026-10-25",
+      "status": "All selected symbols compared with current Japanese weekly calendar; company schedules rechecked. TDK verified through Japanese calendar after English page timeout. Fujibo later institutional briefing date recorded. Murata explicitly tentative; MARUWA under maintenance; Nicca, NEG and Lasertec candidates remain unconfirmed."
     },
     {
       "region": "Taiwan",
-      "screened_on": "2026-10-24",
-      "status": "All selected symbols compared with exchange-affiliated conference disclosures. MediaTek added; UMC/ADR deduplicated. ASE company IR unavailable; candidate retained. General investor/corporate-day meetings are not treated as quarterly results without evidence."
+      "screened_on": "2026-10-25",
+      "status": "All selected symbols compared with current exchange-affiliated conference disclosures; WIN company calendar confirms its moved date. Quarterly presentations distinguished from general corporate-day meetings. ASE issuer IR returned HTTP 403; candidate retained. Native/ADR duplicates consolidated."
     },
     {
       "region": "Europe",
-      "screened_on": "2026-10-24",
-      "status": "Full selected scope screened with global and issuer calendars. ASM, ASMPT and AIXTRON schedules rechecked; other readable issuer dates are outside the window. Some dynamic calendar content remains incomplete; AT&S distinguished from unrelated ATS Corporation."
+      "screened_on": "2026-10-25",
+      "status": "Full selected scope screened with global and issuer calendars. ASM, ASMPT and AIXTRON schedules rechecked. Readable remaining issuer dates are outside the window; some dynamic issuer content remains incomplete. AT&S is distinguished from unrelated ATS Corporation."
     }
   ],
   "window_type": "rolling_7_days",
-  "window_start": "2026-10-24",
-  "window_end": "2026-10-30"
+  "window_start": "2026-10-25",
+  "window_end": "2026-10-31"
 }
