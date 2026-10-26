@@ -1,6 +1,6 @@
 # AI earnings calendar
 
-**Next 7 days: Sun, Oct 25, 2026–Sat, Oct 31, 2026 · Verified: 2026-10-25 09:10 AM PDT**
+**Next 7 days: Mon, Oct 26, 2026–Sun, Nov 01, 2026 · Verified: 2026-10-26 09:13 AM PDT**
 
 The window includes today and the following six Pacific calendar dates. It advances every day, including Sundays. Today’s already-passed times remain until the next day; earlier dates are preserved in history.
 
@@ -10,7 +10,7 @@ Regions follow the selected IBKR watchlist groups: US AI, Korean AI, Japan AI, T
 
 Results releases and earnings calls are separate events. Before/after market open/close uses the relevant exchange; U.S. regular hours are 6:30 a.m.–1:00 p.m. Pacific. Session labels do not establish an exact release minute.
 
-**41 identified company results schedules overlap this window.** A row is included when either its release or call/presentation overlaps. Date-only ranges may overlap; they do not confirm one Pacific date. Dates and times reflect cited schedules, not certification that an event occurred.
+**42 identified company results schedules overlap this window.** A row is included when either its release or call/presentation overlaps. Date-only ranges may overlap; they do not confirm one Pacific date. Dates and times reflect cited schedules, not certification that an event occurred.
 
 [United States](#united-states) · [Korea](#korea) · [Japan](#japan) · [Taiwan](#taiwan) · [Europe](#europe)
 
@@ -71,6 +71,7 @@ Results releases and earnings calls are separate events. Before/after market ope
 | Fujibo Holdings | 3104 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.fujibo.co.jp/ir/) |
 | Fuso Chemical | 4368 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [Company IR calendar](https://fusokk.co.jp/ir/ir_cat/ir-calendar) |
 | SCREEN Holdings | 7735 | Thu, Oct 29, 2026 · 11:35 pm PDT | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.screen.co.jp/en/ir/calendar) |
+| Nippon Electric Glass | 5214 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) (presentation) | [Company IR events calendar](https://www.neg.co.jp/en/ir/event/index.html), [Company-linked calendar feed](https://xml.irpocket.com/5214/JS/calendar-encal-all.js) |
 | HOYA | 7741 | Thu, Oct 29, 2026 · 9:30 pm PDT | Separate call / presentation time unpublished | [Company IR calendar](https://www.hoya.com/en/investor/calendar/) |
 | Sumitomo Electric | 5802 | Thu, Oct 29, 2026 · 11:00 pm PDT | Separate call / presentation time unpublished | [Company IR calendar](https://sumitomoelectric.com/jp/ir/calendar) |
 | TDK | 6762 | Thu, Oct 29, 2026 · 11:30 pm PDT | Fri, Oct 30, 2026 · 1:30 am PDT (presentation) | [Company IR calendar](https://www.tdk.com/en/ir/ir_events/calendar/index.html), [Company Japanese IR calendar](https://www.tdk.com/ja/ir/ir_events/calendar/index.html) |
@@ -82,6 +83,8 @@ Results releases and earnings calls are separate events. Before/after market ope
 - **4368:** Release and institutional presentation are separate dates. The later presentation is shown for context; no single Pacific date is inferred from either Japan-only date.
 
 - **8035:** A presentation-material publication time is not a verified live call start time.
+
+- **5214:** Both components can fall on Thu Oct 29 or Fri Oct 30 PDT. Source calendar feed was read directly because the company page renders its entries dynamically.
 
 ## Taiwan
 
@@ -116,15 +119,13 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 - **Elice (0158S0, Korea):** Instrument identity resolved through IBKR, but an earnings schedule could not be verified from accessible public sources. This is a coverage gap, not a no-earnings claim. 
 
-- **Samsung Electro-Mechanics (009150, Korea):** Reproduced DART notices give Oct 28 KST for results and report a 13:00 KST conference call, but the original filing returned a 502 error and the company earnings page lists only past quarters. ETFShopping instead estimates Oct 29 KST. Keep the Oct 28 date-only candidate unconfirmed; the reported call hour is not promoted to verified timing. **Possible Tue, Oct 27, 2026 through Wed, Oct 28, 2026 PDT; time unpublished (source date 2026-10-28, Asia/Seoul).** [Candidate source](https://dartbrief.com/disclosures/20261012800250), [Reproduced IR notice; original unavailable](https://dartbrief.com/disclosures/20261012800255), [Conflicting estimated calendar](https://etfshopping.com/stock/009150/earnings), [Company earnings page; past quarters only](https://www.samsungsem.com/global/about-us/investor-relations/earnings-release.do)
+- **Samsung Electro-Mechanics (009150, Korea):** Reproduced DART notices give Oct 28 KST for results and report a 13:00 KST conference call, but the original filing could not be accessed and the company earnings page lists only past quarters. ETFShopping instead estimates Oct 29 KST. Keep the Oct 28 date-only candidate unconfirmed; the reported call hour is not promoted to verified timing. **Possible Tue, Oct 27, 2026 through Wed, Oct 28, 2026 PDT; time unpublished (source date 2026-10-28, Asia/Seoul).** [Candidate source](https://dartbrief.com/disclosures/20261012800250), [Reproduced IR notice; original unavailable](https://dartbrief.com/disclosures/20261012800255), [Conflicting estimated calendar](https://etfshopping.com/stock/009150/earnings), [Company earnings page; past quarters only](https://www.samsungsem.com/global/about-us/investor-relations/earnings-release.do)
 
 - **LG Innotek (011070, Korea):** Secondary calendar reports Oct 27 Korea. Company schedule/time not independently verified; tentative. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Seoul).** [Candidate source](https://cbcglobe.com/en/articles/2026/10/21/complete-schedule-of-q3-earnings-announcements-for-hanwha-oc-fafbcf3a), [Estimated calendar](https://etfshopping.com/stock/011070/earnings)
 
-- **MARUWA (5344, Japan):** Indexed company calendar previously reported Oct 27 at 15:30 JST. The company site still redirects to its emergency-maintenance notice on Oct 25; prior candidate retained without upgrading to confirmed. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Tokyo).** [Candidate source](https://www.maruwa-g.com/e/ir/calendar.html)
+- **MARUWA (5344, Japan):** Indexed company calendar previously reported Oct 27 at 15:30 JST. The company site still redirects to its emergency-maintenance notice on Oct 26; prior candidate retained without upgrading to confirmed. **Possible Mon, Oct 26, 2026 through Tue, Oct 27, 2026 PDT; time unpublished (source date 2026-10-27, Asia/Tokyo).** [Candidate source](https://www.maruwa-g.com/e/ir/calendar.html)
 
 - **Nicca Chemical (4463, Japan):** Japanese calendar screen lists Oct 30 JST and requires issuer confirmation. An unknown local time can fall on Oct 29 or Oct 30 PDT, so this boundary candidate is retained; exact date/time in Pacific and company confirmation remain unverified. **Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo).** [Candidate source](https://kabutrack.com/stock/calendar/earning-schedule/2026/44/)
-
-- **Nippon Electric Glass (5214, Japan):** Japanese calendar screen lists Oct 30 JST and requires issuer confirmation. An unknown local time can fall on Oct 29 or Oct 30 PDT, so this boundary candidate is retained; exact date/time in Pacific and company confirmation remain unverified. **Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo).** [Candidate source](https://kabutrack.com/stock/calendar/earning-schedule/2026/44/)
 
 - **Lasertec (6920, Japan):** Japanese calendar screen lists Oct 30 JST and requires issuer confirmation. An unknown local time can fall on Oct 29 or Oct 30 PDT, so this boundary candidate is retained; exact date/time in Pacific and company confirmation remain unverified. **Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo).** [Candidate source](https://kabutrack.com/stock/calendar/earning-schedule/2026/44/)
 
@@ -132,7 +133,11 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 - **ASE Technology Holding (3711 / ASX, Taiwan):** U.S. weekly calendar lists ASX for Oct 29; issuer confirmation and exact time not independently verified. The native and ADR listings are one issuer. This is a tentative candidate, not a company-confirmed date. **Possible Wed, Oct 28, 2026 through Thu, Oct 29, 2026 PDT; time unpublished (source date 2026-10-29, America/New_York).** [Candidate source](https://www.earningstoday.com/earnings-calendar/weekly/2026-10-26)
 
-All five selected IBKR lists were fetched afresh on October 25 and the complete selected symbol scope screened for October 25–31 Pacific. U.S./global and Japanese weekly screens and Taiwan exchange-affiliated disclosures were refreshed; European issuer calendars were inspected. Korean ETFShopping screening pages were accessible for 27 of 30 selected instruments through web fallback; three failed, and accessible estimates are not issuer confirmations. Coverage remains partial: RTTNews denied two October 26 pagination requests, some issuer calendars were dynamically empty or unavailable, original DART confirmation was unavailable, and MARUWA remains under maintenance. Prior good data and original verification dates are retained where timing could not be reverified. Missing entries are not a guarantee of no earnings.
+- **Nikkato (5367, Japan):** Japanese weekly calendar lists Nov 2 JST for Q2 results. This source date can overlap Sun Nov 1 Pacific after the DST change, so the boundary candidate is retained. The company calendar images show a generic annual cycle; a specific 2026 date or clock time was not confirmed. **Possible Sun, Nov 01, 2026 through Mon, Nov 02, 2026 PST; time unpublished (source date 2026-11-02, Asia/Tokyo).** [Date candidate](https://kabutrack.com/stock/calendar/earning-schedule/2026/45/), [Company calendar; annual cycle only](https://www.nikkato.co.jp/ir/ir-calendar.php)
+
+- **Tower Semiconductor (TSEM, United States):** Company confirms a Nov 2 results date, with no release clock time or explicit release-date timezone. Under the issuer-Israel or U.S.-Eastern date interpretations, possible Pacific dates are Sun Nov 1 through Mon Nov 2 PST; a Sunday overlap cannot yet be ruled out. Confirmed call is Mon Nov 2 at 7:00 a.m. PST, outside this window. Kept here for release-timing ambiguity; no exact release time or single Pacific date is inferred. [Company announcement](https://towersemi.com/2026/10/12/10132026/), [Company event index; EST call](https://ir.towersemi.com/news-and-events/events)
+
+All five selected IBKR lists were fetched afresh on October 26; membership is unchanged. The complete selected scope was compared with current U.S./global and Japanese weekly calendars and Taiwan exchange-affiliated conference disclosures. Adjacent Nov 2 overseas dates were screened because they can overlap Sun Nov 1 Pacific; Nikkato and Tower boundary ambiguities are retained below. Europe issuer calendars were inspected. Coverage remains partial: Korean ETFShopping pages were readable for 25 of 30 selected instruments through web fallback, while five failed; current RTTNews screening lost Oct 26 page 4 and Oct 27 page 2 to HTTP 403; AMKR/Sandisk issuer pages and original DART confirmation were inaccessible, MARUWA remains under maintenance, and several issuer calendars expose no current dynamic details. The Taiwan conference list currently exposes no complete Nov 2 schedule. Prior good timing and original verification dates are retained where rechecking failed. Missing entries are not proof of no earnings.
 
 ## Schedule changes
 
@@ -157,6 +162,10 @@ All five selected IBKR lists were fetched afresh on October 25 and the complete 
 - **2026-10-25:** Fujibo company calendar also lists a Nov 5 JST institutional briefing (possible Nov 4–5 PST); added as a separate date-only presentation for context. No verified in-window earnings dates or clock times changed.
 
 - **2026-10-25:** Korean screening access improved to 27 of 30 pages. Conflicting estimates for SK hynix and Samsung do not override company announcements. Samsung Electro-Mechanics remains unconfirmed: reproduced Oct 28 notices conflict with an Oct 29 calendar estimate and original DART verification failed.
+
+- **2026-10-26:** Nippon Electric Glass (5214) moved from unconfirmed candidate to company-calendar-confirmed Oct 30 JST dates for both Q3 results and the investor meeting. Both remain possible Thu Oct 29–Fri Oct 30 PDT; the calendar display does not verify exact event clock times.
+
+- **2026-10-26:** Advancing window now includes Sun Nov 1 and the PDT-to-PST transition. Added Nikkato Nov 2 JST as an unconfirmed boundary candidate. Tower confirms a Nov 2 release date and Mon Nov 2 7:00 a.m. PST call; the call is outside this window, while the unspecified release timezone/hour leaves a possible Nov 1–2 Pacific range.
 
 ## Updates and history
 
