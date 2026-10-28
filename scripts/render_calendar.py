@@ -104,14 +104,37 @@ def timing(item):
 def sources(event):
     return ', '.join(f'[{s["label"]}]({s["url"]})' for s in event['sources'])
 
-def table(events):
+def day_marker(item, today):
+    """Highlight only what the possible Pacific interval establishes."""
+    span = interval(item)
+    if today is None or span is None:
+        return ''
+    lower = datetime.combine(today, time.min, PACIFIC)
+    upper = datetime.combine(today + timedelta(days=1), time.min, PACIFIC)
+    if span[0] >= upper or span[1] <= lower:
+        return ''
+    if span[0] >= lower and span[1] <= upper:
+        return '🟢 **TODAY**'
+    return '🟡 **POSSIBLY TODAY**'
+
+def table(events, today=None):
     lines = ['| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |',
              '|---|---|---|---|---|']
     for event in sorted(events, key=first_possible):
+        release_marker = day_marker(event.get('release', {}), today)
+        call_marker = day_marker(event.get('call', {}), today)
+        markers = [release_marker, call_marker]
+        row_marker = next((m for m in markers if m.startswith('🟢')), '') or next((m for m in markers if m), '')
+        company = (row_marker + ' · **' + event['company'] + '**') if row_marker else event['company']
+        release = timing(event.get('release', {}))
+        if release_marker:
+            release = release_marker + ' — ' + release
         call = timing(event.get('call', {}))
+        if call_marker:
+            call = call_marker + ' — ' + call
         if event.get('call', {}).get('type') == 'presentation':
             call += ' (presentation)'
-        lines.append(f'| {event["company"]} | {event["ticker"]} | {timing(event.get("release", {}))} | {call} | {sources(event)} |')
+        lines.append(f'| {company} | {event["ticker"]} | {release} | {call} | {sources(event)} |')
     return '\n'.join(lines)
 
 def render(data):
@@ -124,6 +147,7 @@ def render(data):
     lines = ['# AI earnings calendar', '',
              f'**Next 7 days: {start:%a, %b %d, %Y}–{end:%a, %b %d, %Y} · Verified: {data["updated_at_pacific"]}**', '',
              'The window includes today and the following six Pacific calendar dates. It advances every day, including Sundays. Today’s already-passed times remain until the next day; earlier dates are preserved in history.', '',
+             f'**Today markers — {start:%a, %b %d, %Y} (Pacific):** 🟢 **TODAY** = the scheduled release, call, or presentation falls on this date. 🟡 **POSSIBLY TODAY** = its possible timing range overlaps today and another date. Markers apply separately to each event column; a company is green if at least one component is today. Unknown timing stays unknown. Highlights advance with each daily refresh; snapshots retain their original date.', '',
              'All dates, weekdays, and clock times are in **America/Los_Angeles (Pacific time)**. PDT/PST adjusts with daylight saving time. Midnight means the start of the stated date.', '',
              'Regions follow the selected IBKR watchlist groups: US AI, Korean AI, Japan AI, Taiwan AI, and Euro AI. China AI is excluded. An issuer included only through US AI stays in United States. When a native-region list and a foreign-listing alias both contain it, the native watchlist group displays one row with all source labels.', '',
              'Results releases and earnings calls are separate events. Before/after market open/close uses the relevant exchange; U.S. regular hours are 6:30 a.m.–1:00 p.m. Pacific. Session labels do not establish an exact release minute.', '',
@@ -132,7 +156,7 @@ def render(data):
     for region in REGIONS:
         lines += [f'## {region}', '']
         regional = [e for e in in_week if e['region'] == region]
-        lines += [table(regional) if regional else 'No company-confirmed earnings event identified in this window; see unresolved dates below.', '']
+        lines += [table(regional, today=start) if regional else 'No company-confirmed earnings event identified in this window; see unresolved dates below.', '']
         for e in regional:
             if len(e.get('watchlists', [])) > 1:
                 lines += [f'- **{e["ticker"]} source groups:** ' + ', '.join(e['watchlists']) + '. Shown once; multiple listings are deduplicated.', '']
