@@ -1,7 +1,7 @@
 """Boundary checks for the rolling Pacific calendar; no network access."""
 import unittest
 from datetime import date, datetime, timedelta
-from render_calendar import PACIFIC, exact, interval, overlaps, rolling_window, timing
+from render_calendar import PACIFIC, day_marker, exact, interval, overlaps, rolling_window, table, timing
 
 
 class RollingCalendarTests(unittest.TestCase):
@@ -35,6 +35,33 @@ class RollingCalendarTests(unittest.TestCase):
         self.assertEqual(exact('2026-11-03T14:00:00+08:00').strftime('%a %H:%M %Z'), 'Mon 22:00 PST')
         start, end = interval({'local_date': '2026-11-01', 'timezone': 'America/Los_Angeles'})
         self.assertEqual(end.timestamp() - start.timestamp(), 25 * 3600)
+
+    def test_unspecified_source_timezone_preserves_possible_pacific_dates(self):
+        release = {'possible_pacific_dates': ['2026-11-01', '2026-11-02'],
+                   'note': 'Source timezone unknown; possible November 1–2 Pacific'}
+        self.assertTrue(overlaps({'release': release}, date(2026, 10, 26), date(2026, 11, 1)))
+        self.assertFalse(overlaps({'release': release}, date(2026, 10, 25), date(2026, 10, 31)))
+        self.assertEqual(day_marker(release, date(2026, 11, 1)), '🟡 **POSSIBLY TODAY**')
+        self.assertEqual(day_marker(release, date(2026, 11, 2)), '🟡 **POSSIBLY TODAY**')
+        self.assertEqual(day_marker(release, date(2026, 11, 3)), '')
+
+    def test_call_today_does_not_highlight_unknown_release(self):
+        event = {'company': 'Example', 'ticker': 'EX', 'sources': [],
+                 'release': {'note': 'Release time unknown'},
+                 'call': {'at': '2026-11-06T08:00:00-05:00'}}
+        row = table([event], today=date(2026, 11, 6)).splitlines()[-1].split('|')
+        self.assertIn('🟢 **TODAY**', row[1])
+        self.assertNotIn('TODAY', row[3])
+        self.assertIn('🟢 **TODAY**', row[4])
+
+    def test_conflicting_hours_can_still_establish_a_day(self):
+        call = {'alternatives': [{'at': '2026-11-02T17:00:00-04:00'},
+                                 {'at': '2026-11-02T17:00:00-05:00'}],
+                'note': 'Hour conflicts; no single timestamp selected'}
+        self.assertEqual(day_marker(call, date(2026, 11, 2)), '🟢 **TODAY**')
+        self.assertEqual(timing(call), call['note'])
+        call['alternatives'].append({'note': 'Unbounded alternative'})
+        self.assertEqual(day_marker(call, date(2026, 11, 2)), '')
 
 
 if __name__ == '__main__':

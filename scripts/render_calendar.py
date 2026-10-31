@@ -61,6 +61,15 @@ def interval(item):
         start = datetime.combine(date.fromisoformat(item['local_date']), time.min,
                                  ZoneInfo(item['timezone']))
         return start.astimezone(PACIFIC), (start + timedelta(days=1)).astimezone(PACIFIC)
+    if item.get('possible_pacific_dates'):
+        # A source date with an unspecified timezone can establish only a date range.
+        days = [date.fromisoformat(day) for day in item['possible_pacific_dates']]
+        return (datetime.combine(min(days), time.min, PACIFIC),
+                datetime.combine(max(days) + timedelta(days=1), time.min, PACIFIC))
+    if item.get('alternatives'):
+        spans = [interval(alternative) for alternative in item['alternatives']]
+        if all(spans):
+            return min(span[0] for span in spans), max(span[1] for span in spans)
     return None
 
 def overlaps(event, start, end):
