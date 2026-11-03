@@ -38,6 +38,11 @@ def rolling_window(day):
 
 def interval(item):
     """Possible timing interval; an exact point is represented with a tiny span."""
+    if item.get('starts_at') and item.get('ends_at'):
+        start, end = exact(item['starts_at']), exact(item['ends_at'])
+        if end <= start:
+            raise ValueError('Event window must end after it starts')
+        return start, end
     if item.get('at'):
         dt = exact(item['at'])
         return dt, dt + timedelta(microseconds=1)
@@ -88,6 +93,10 @@ def session_dt(item):
                             ZoneInfo(item['exchange_timezone'])).astimezone(PACIFIC)
 
 def timing(item):
+    if item.get('starts_at') and item.get('ends_at'):
+        start, end = interval(item)
+        label = f'Window: {stamp(start)} through {stamp(end)}'
+        return label + ('; ' + item['note'] if item.get('note') else '')
     if item.get('at'):
         return ('Approx. ' if item.get('approximate') else '') + stamp(exact(item['at']))
     if item.get('not_before') or item.get('before'):

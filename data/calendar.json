@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Los_Angeles",
-  "updated_at_pacific": "2026-11-02 09:09 AM PST",
+  "updated_at_pacific": "2026-11-03 09:35 AM PST",
   "regions": [
     "United States",
     "Korea",
@@ -1440,15 +1440,15 @@
           "url": "https://www.fujibo.co.jp/ir/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Company-published scheduled results; unpublished timing kept explicit",
       "prior_candidate": {
         "local_date": "2026-10-30",
         "timezone": "Asia/Tokyo"
       },
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "The Oct 30 JST results date is now before the window. The separate Nov 5 JST institutional briefing overlaps the current window as a possible Nov 4–5 PST presentation; its exact time remains unpublished."
     },
@@ -1890,7 +1890,35 @@
         "attempted_on": "2026-11-02",
         "status": "conflicting",
         "note": "Both company pages still disagree: announcement 17:00 EDT versus event calendar 17:00 EST. Confirmed release and both call alternatives retained."
-      }
+      },
+      "conflict_history": [
+        {
+          "company": "Fabrinet — call timing only",
+          "ticker": "FN",
+          "region": "United States",
+          "watchlists": [
+            "US AI"
+          ],
+          "component": "call",
+          "note": "Company sources conflict for Mon Nov 2: announcement 5:00 p.m. EDT = 1:00 p.m. PST; event calendar 5:00 p.m. EST = 2:00 p.m. PST. Call hour unconfirmed. The confirmed after-close release is shown in its single regional table row; this item flags only the call-time conflict.",
+          "sources": [
+            {
+              "label": "Company announcement; EDT label",
+              "url": "https://investor.fabrinet.com/news-releases/news-release-details/fabrinet-announce-first-quarter-fiscal-year-2027-financial"
+            },
+            {
+              "label": "Company event calendar; EST label",
+              "url": "https://investor.fabrinet.com/events-and-presentations/events"
+            }
+          ],
+          "checked_on": "2026-11-02",
+          "verification": {
+            "attempted_on": "2026-11-02",
+            "status": "conflicting",
+            "note": "Both company sources still disagree on 17:00 EDT versus 17:00 EST; alternatives preserved."
+          }
+        }
+      ]
     },
     {
       "id": "011070-2026Q3-rolling",
@@ -1945,12 +1973,12 @@
           "url": "https://ir.amd.com/news-events/ir-calendar"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Company-confirmed dated schedule; unpublished component timing remains explicit",
       "notes": "The event index labels 2 p.m. as PDT. The announcement explicitly gives 5 p.m. ET / 2 p.m. PT; on Nov 3 these are EST/PST, so the call is Tue Nov 3 at 2:00 p.m. PST. No exact release minute is inferred.",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -1984,12 +2012,11 @@
           "url": "https://ir.asteralabs.com/"
         }
       ],
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-03",
       "confidence": "Company-confirmed dated schedule; unpublished component timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "partial",
-        "note": "Original PDF/calendar denied; issuer homepage re-established Nov 3 16:30 EST call. Prior successful release verification retained."
+        "attempted_on": "2026-11-03",
+        "status": "Original issuer PDF recovered; Nov 3 after-close release and 13:30 Pacific / 16:30 Eastern call reverified."
       }
     },
     {
@@ -2017,12 +2044,12 @@
           "url": "https://www.rttnews.com/calendar/earnings.aspx?Date=03-Nov-2026&PageNum=1"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Company-confirmed dated schedule; unpublished component timing remains explicit",
       "notes": "Call is company-confirmed Tue Nov 3 at 2:00 p.m. PST. The release-session estimate is kept explicitly separate from company-confirmed call timing.",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2086,11 +2113,11 @@
           "url": "https://ir.coherent.com/node/18371/pdf"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2116,11 +2143,11 @@
           "url": "https://investor.sitime.com/news-releases/news-release-details/sitime-corporation-announce-third-quarter-2026-financial-results"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2150,11 +2177,11 @@
           "url": "https://investor.mks.com/node/24491/pdf"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Results release Wed Nov 4 after 1:00 p.m. PST; separate call Thu Nov 5 5:30 a.m. PST. Both components now fall in this rolling window."
     },
@@ -2179,11 +2206,11 @@
           "url": "https://investors.arm.com/financials/quarterly-annual-results"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Live company quarterly-results page recovered; Nov 4 14:00 PT / 17:00 ET / 22:00 GMT rechecked."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2215,12 +2242,11 @@
           "url": "https://investors.gf.com/"
         }
       ],
-      "checked_on": "2026-11-01",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "partial",
-        "note": "Original announcement PDF and event index denied; issuer homepage recovered and re-established Nov 4 08:30 EST call. Prior release relationship retained."
+        "attempted_on": "2026-11-03",
+        "status": "Original company PDF recovered; Nov 4 08:30 Eastern call and release-before-call relationship rechecked."
       }
     },
     {
@@ -2251,9 +2277,9 @@
       "checked_on": "2026-11-01",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Issuer homepage and announcement detail unavailable this run. Primary search listing reproduces prior Nov 3 08:30 EST call; prior direct verification date retained."
+        "note": "Issuer homepage and announcement detail denied. Prior Nov 3 08:30 EST call and successful direct check date retained; no release clock inferred."
       },
       "notes": "Added a previously omitted company-confirmed Nov 3 call. A conflicting third-party weekly estimate does not override the current issuer schedule."
     },
@@ -2280,11 +2306,11 @@
           "url": "https://ir.acmr.com/news-releases/news-release-details/acm-research-release-third-quarter-2026-financial-results"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Company release is before the Nov 5 U.S. open (possible Nov 4–5 PST); exact minute remains unknown. Call is Thu Nov 5 5:00 a.m. PST, now within this rolling window."
     },
@@ -2309,11 +2335,11 @@
           "url": "https://www.asahi-kasei.com/ir/calendar"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Earliest published release is Wed Nov 4 at 7:30 p.m. PST; company website follows at 7:50 p.m. PST."
     },
@@ -2338,11 +2364,11 @@
           "url": "https://www.agc.com/ir/support/calendar/index.html"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2366,11 +2392,11 @@
           "url": "https://www.noritake.co.jp/company/ir/calendar/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2395,11 +2421,11 @@
           "url": "https://www.jcu-i.com/ir/others/electronic_public_notice/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Possible Wed Nov 4 through Thu Nov 5 PST; exact Pacific date unknown."
     },
@@ -2425,11 +2451,11 @@
           "url": "https://www.nittobo.co.jp/eng/ir/calender.htm"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Possible Wed Nov 4 through Thu Nov 5 PST; exact Pacific date unknown."
     },
@@ -2455,11 +2481,11 @@
           "url": "https://ats.net/en/investors/financial-calendar/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Possible Wed Nov 4 through Thu Nov 5 PST. This selected Austrian AT&S instrument is unrelated to ATS Corporation in Canadian/U.S. calendars."
     },
@@ -2485,11 +2511,11 @@
           "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unpublished component times remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Presentation converts to Tue Nov 3 at midnight PST. This is not a verified standalone release timestamp."
     },
@@ -2586,11 +2612,11 @@
           "url": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Reporting-Date-for-Fiscal-First-Quarter-2027-Financial-Results/default.aspx"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2620,11 +2646,11 @@
           "url": "https://iren.gcs-web.com/news-releases/news-release-details/iren-release-q1-fy27-results-november-5-2026"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Call is Thu Nov 5 2:00 p.m. PST. Company release is date-only (possible Nov 4–5 PST under its U.S. dateline); a calendar after-close estimate is not treated as a verified release session."
     },
@@ -2651,11 +2677,11 @@
           "url": "https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-announces-date-third-quarter-2026"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Call is Thu Nov 5 1:30 p.m. PST. Release date is represented using the company U.S. dateline (possible Nov 4–5 PST); do not infer its publication minute or session from the call or a calendar estimate."
     },
@@ -2680,11 +2706,11 @@
           "url": "https://www.akamai.com/newsroom/press-release/akamai-technologies-to-hold-third-quarter-2026-investor-conference-call"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -2708,11 +2734,11 @@
           "url": "https://www.wolfspeed.com/company/news-events/news/wolfspeed-inc-announces-date-of-fiscal-first-quarter-earnings-call-for-november-4-2026/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Previously omitted issuer-confirmed call is Wed Nov 4 2:00 p.m. PST, rather than the Nov 5 date estimated by a weekly calendar. Separate release timing stays unknown."
     },
@@ -2737,11 +2763,11 @@
           "url": "https://investors.terawulf.com/news-events/press-releases/detail/147/terawulf-schedules-conference-call-for-third-quarter-2026-financial-results"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Results are due before the Fri Nov 6 5:00 a.m. PST call, on the same Eastern calendar date. The release interval can overlap late Thu Nov 5 through Fri Nov 6 before 5:00 a.m. PST; exact Pacific release date/minute remains unknown. Both components now overlap the rolling window."
     },
@@ -2804,11 +2830,11 @@
           "url": "https://www.santec.com/en/ir/ircalendar/index.html"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Release converts to Thu Nov 5 10:40 p.m. PST."
     },
@@ -2834,11 +2860,11 @@
           "url": "https://www.taiyo-hd.co.jp/en/investor/calendar.html"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Boundary row: possible Thu Nov 5 through Fri Nov 6 PST; a single Pacific release date is not verified."
     },
@@ -2866,11 +2892,11 @@
           "url": "https://www.meiko-elec.com/english/ir/calendar.html"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Boundary row: possible Thu Nov 5 through Fri Nov 6 PST; a single Pacific release date is not verified."
     },
@@ -2897,11 +2923,11 @@
           "url": "https://www.hosokawamicron.co.jp/jp/ir/calendar.html"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Boundary row: possible Thu Nov 5 through Fri Nov 6 PST; a single Pacific release date is not verified."
     },
@@ -2929,11 +2955,11 @@
           "url": "https://www.nagase.co.jp/english/ir/stock-information/calendar/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       },
       "notes": "Nov 6 JST release remains possible Thu Nov 5–Fri Nov 6 PST. The separate Nov 9 JST briefing now overlaps the rolling-window boundary as possible Sun Nov 8–Mon Nov 9 PST; its exact hour remains unpublished."
     },
@@ -3000,11 +3026,11 @@
         }
       ],
       "notes": "Newly included through US AI. Wed Nov 4 after 1:00 p.m. PST release session; call 1:45 p.m. PST. Exact release minute unpublished.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Company/exchange-published dated schedule; unpublished release minutes remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3031,11 +3057,11 @@
         }
       ],
       "notes": "Newly included through US AI. Thu Nov 5 after 1:00 p.m. PST release session; call 2:00 p.m. PST. Exact release minute unpublished.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Company/exchange-published dated schedule; unpublished release minutes remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3061,11 +3087,11 @@
         }
       ],
       "notes": "Fri Nov 6 1:00 a.m. PST results presentation now enters the window. A broker-hosted quarterly-results presentation does not establish a standalone release timestamp.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Company/exchange-published dated schedule; unpublished release minutes remain explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated issuer/exchange schedule rechecked; unpublished timing remains explicit."
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3152,11 +3178,11 @@
         }
       ],
       "notes": "Release is Sun Nov 8 10:30 p.m. PST, inside the window. The separate analysts meeting is Mon Nov 9 1:00 a.m. PST, outside the window; one component does not establish the other.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3181,11 +3207,11 @@
         }
       ],
       "notes": "Release converts to Sun Nov 8 10:30 p.m. PST. Separate briefing hour not established.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3211,11 +3237,11 @@
         }
       ],
       "notes": "Possible Sun Nov 8–Mon Nov 9 PST release date range; a single Pacific date is not established. Instrument 5016 is JX Advanced Metals.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3240,11 +3266,11 @@
         }
       ],
       "notes": "Scheduled release Sun Nov 8 9:00 p.m. PST. The company notes the scheduled clock may change; no separate call hour inferred.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3275,11 +3301,11 @@
         }
       ],
       "notes": "Release is Sun Nov 8 8:00 p.m. PST. The briefing remains a possible Nov 8–9 PST date range; do not infer a briefing hour from the release.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3310,11 +3336,11 @@
         }
       ],
       "notes": "Release is Sun Nov 8 9:00 p.m. PST. Separate briefing remains possible Nov 8–9 PST; the feed record timestamp is not treated as an event clock.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
       }
     },
     {
@@ -3343,8 +3369,9 @@
       "checked_on": "2026-11-02",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "Dated primary source verified"
+        "attempted_on": "2026-11-03",
+        "status": "partial",
+        "note": "Current company calendar failed the direct request; previous issuer-backed Nov 9 local date retained. No exact hour inferred."
       }
     },
     {
@@ -3439,10 +3466,419 @@
         }
       ],
       "notes": "Both Nov 9 components are after this rolling window: release after 1:00 p.m. PST (exact minute unpublished), call 1:30 p.m. PST. Retained under confirmed later dates.",
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "confidence": "Issuer/exchange-published dated schedule; unknown timing remains explicit",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
+        "status": "Dated issuer/exchange schedule rechecked; unknown timing remains explicit."
+      }
+    },
+    {
+      "id": "4182-2026Q2-rolling",
+      "ticker": "4182",
+      "company": "Mitsubishi Gas Chemical",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "at": "2026-11-10T15:30:00+09:00"
+      },
+      "call": {
+        "note": "Separate call / presentation time unpublished"
+      },
+      "source_timing": "Company investor homepage schedules Nov 10, 2026 second-quarter results at 15:30 Japan time; year/date corroborated by company IR calendar.",
+      "sources": [
+        {
+          "label": "Company homepage; release clock",
+          "url": "https://www.mgc.co.jp/ir/"
+        },
+        {
+          "label": "Company calendar",
+          "url": "https://www.mgc.co.jp/ir/calendar.html"
+        }
+      ],
+      "notes": "Release converts to Mon Nov 9 10:30 p.m. PST. A separate briefing hour was not established.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "3103-2026Q2-rolling",
+      "ticker": "3103",
+      "company": "Unitika",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "at": "2026-11-10T11:00:00+09:00"
+      },
+      "call": {
+        "note": "Separate call / presentation time unpublished"
+      },
+      "source_timing": "Company Japanese 2026 calendar schedules Nov 10 at 11:00 Japan time, second-quarter results for the year ending March 2027.",
+      "sources": [
+        {
+          "label": "Company calendar; morning release clock",
+          "url": "https://www.unitika.co.jp/ir/ir-calendar/"
+        }
+      ],
+      "notes": "Release converts to Mon Nov 9 6:00 p.m. PST.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "6855-2026Q2-rolling",
+      "ticker": "6855",
+      "company": "Japan Electronic Materials",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "at": "2026-11-10T16:00:00+09:00"
+      },
+      "call": {
+        "local_date": "2026-11-13",
+        "timezone": "Asia/Tokyo",
+        "type": "presentation"
+      },
+      "source_timing": "Company IR schedule: Nov 10, 2026 at 16:00 Japan time results; institutional/analyst briefing Nov 13, no separate hour published.",
+      "sources": [
+        {
+          "label": "Company IR schedule",
+          "url": "https://www.jem-net.co.jp/ir/ir-schedule"
+        }
+      ],
+      "notes": "Release is Mon Nov 9 11:00 p.m. PST. The Nov 13 JST briefing is possible Nov 12–13 PST, outside this window.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "5706-2026Q2-rolling",
+      "ticker": "5706",
+      "company": "Mitsui Kinzoku",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "at": "2026-11-10T15:30:00+09:00"
+      },
+      "call": {
+        "note": "Separate call / presentation time unpublished"
+      },
+      "source_timing": "Company Oct 9 scheduling notice on its homepage states Nov 10, 2026 at 15:30 Japan time for second-quarter results; IR calendar corroborates date.",
+      "sources": [
+        {
+          "label": "Company homepage; scheduling notice",
+          "url": "https://www.mitsui-kinzoku.com/"
+        },
+        {
+          "label": "Company IR calendar",
+          "url": "https://www.mitsui-kinzoku.com/toushi/event/"
+        }
+      ],
+      "notes": "Release is Mon Nov 9 10:30 p.m. PST; no separate call hour inferred.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "4186-2026Q2-rolling",
+      "ticker": "4186",
+      "company": "Tokyo Ohka Kogyo",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "at": "2026-11-10T14:00:00+09:00"
+      },
+      "call": {
+        "note": "Separate call / presentation time unpublished"
+      },
+      "source_timing": "Company 2026 IR news index publishes a September 1 notice scheduling Nov 10 Q3 results for 14:00 Japan time.",
+      "sources": [
+        {
+          "label": "Company dated scheduling notice",
+          "url": "https://www.tok.co.jp/ir/irnews/2026"
+        },
+        {
+          "label": "Company IR calendar",
+          "url": "https://www.tok.co.jp/ir/calender"
+        }
+      ],
+      "notes": "Release converts to Mon Nov 9 9:00 p.m. PST.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "7220-2026Q2-rolling",
+      "ticker": "7220",
+      "company": "Musashi Seimitsu Industry",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "local_date": "2026-11-10",
+        "timezone": "Asia/Tokyo"
+      },
+      "call": {
+        "local_date": "2026-11-12",
+        "timezone": "Asia/Tokyo",
+        "type": "presentation"
+      },
+      "source_timing": "Company investor page schedules second-quarter results Nov 10, 2026 and a separate results briefing Nov 12; no event hours published.",
+      "sources": [
+        {
+          "label": "Company investor event calendar",
+          "url": "https://www.musashi.co.jp/ir/"
+        }
+      ],
+      "notes": "Date-only release remains possible Mon Nov 9–Tue Nov 10 PST. The separately dated briefing is possible Nov 11–12 PST, outside this window.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "9984-2026Q2-rolling",
+      "ticker": "9984",
+      "company": "SoftBank Group",
+      "region": "Japan",
+      "watchlists": [
+        "Japan AI"
+      ],
+      "release": {
+        "at": "2026-11-10T15:30:00+09:00"
+      },
+      "call": {
+        "at": "2026-11-10T16:30:00+09:00",
+        "type": "presentation"
+      },
+      "source_timing": "Company Oct 2 announcement: Nov 10, 2026 results disclosure scheduled 15:30 Japan time; webcast briefing starts 16:30 Japan time.",
+      "sources": [
+        {
+          "label": "Company results/webcast announcement",
+          "url": "https://group.softbank/news/info/20261002"
+        }
+      ],
+      "notes": "Both components fall on Mon Nov 9 PST: results 10:30 p.m.; presentation 11:30 p.m. The presentation clock is not substituted for the release clock.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "3661-2026Q3-rolling",
+      "ticker": "3661",
+      "company": "Alchip Technologies",
+      "region": "Taiwan",
+      "watchlists": [
+        "Taiwan AI"
+      ],
+      "release": {
+        "note": "Separate earnings release date/time not established by this presentation filing"
+      },
+      "call": {
+        "at": "2026-11-06T14:30:00+08:00",
+        "type": "presentation"
+      },
+      "source_timing": "Issuer/exchange-affiliated disclosure: Nov 6, 2026 at 14:30 Taipei online presentation about 2026 third-quarter operations, financial results and outlook.",
+      "sources": [
+        {
+          "label": "Issuer conference disclosure; November filter",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        }
+      ],
+      "notes": "Newly identified Q3 results presentation: Thu Nov 5 10:30 p.m. PST. Separate release timing remains unknown.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "1560-2026Q3-rolling",
+      "ticker": "1560",
+      "company": "KINIK",
+      "region": "Taiwan",
+      "watchlists": [
+        "Taiwan AI"
+      ],
+      "release": {
+        "note": "Separate earnings release date/time not established by this presentation filing"
+      },
+      "call": {
+        "at": "2026-11-10T15:00:00+08:00",
+        "type": "presentation"
+      },
+      "source_timing": "Issuer/exchange-affiliated filing: Nov 10, 2026 at 15:00 Taipei broker-hosted presentation about third-quarter business and financial results.",
+      "sources": [
+        {
+          "label": "Issuer conference disclosure; November filter",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        }
+      ],
+      "notes": "Quarterly-results presentation converts to Mon Nov 9 11:00 p.m. PST. This is not a verified standalone release timestamp.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "222800-2026Q3-rolling",
+      "ticker": "222800",
+      "company": "Simmtech",
+      "region": "Korea",
+      "watchlists": [
+        "Korean AI"
+      ],
+      "release": {
+        "local_date": "2026-11-03",
+        "timezone": "Asia/Seoul"
+      },
+      "call": {
+        "starts_at": "2026-11-04T09:00:00+09:00",
+        "ends_at": "2026-11-05T18:00:00+09:00",
+        "type": "presentation",
+        "note": "Broker-hosted results meetings; individual appointments unspecified; this is not a continuous earnings call"
+      },
+      "source_timing": "Original DART 20261103900445 establishes Nov 3, 2026 results date and information provision after fair disclosure, without an exact primary-source release clock. Separate DART 20261103900449 specifies a Nov 4–5 Korea meeting window, starting 09:00 and ending 18:00, for one-on-one/group discussion of already disclosed results.",
+      "sources": [
+        {
+          "label": "Original DART results filing; Nov 3 KST",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900445"
+        },
+        {
+          "label": "Original DART results-meeting notice",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900449"
+        }
+      ],
+      "notes": "The prior Nov 6 estimate is superseded by the original Nov 3 KST filing, possible Mon Nov 2–Tue Nov 3 PST; primary exact release clock remains unverified. The separate broker presentation window is Tue Nov 3 4:00 p.m.–Thu Nov 5 1:00 a.m. PST; individual appointments and a standalone quarterly conference call time are not published.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      },
+      "candidate_history": [
+        {
+          "ticker": "222800",
+          "company": "Simmtech",
+          "region": "Korea",
+          "watchlists": [
+            "Korean AI"
+          ],
+          "candidate": {
+            "local_date": "2026-11-06",
+            "timezone": "Asia/Seoul"
+          },
+          "note": "A reputable calendar estimates Nov 6 KST (possible Thu Nov 5–Fri Nov 6 PST). The issuer pages did not establish a current Q3 date or clock; this remains an unconfirmed estimate, separate from company-confirmed schedules.",
+          "sources": [
+            {
+              "label": "Calendar estimate; not issuer confirmation",
+              "url": "https://kr.investing.com/equities/simmtech-co-ltd-earnings"
+            },
+            {
+              "label": "Company website; no current earnings date established",
+              "url": "https://www.simmtech.com/"
+            }
+          ],
+          "checked_on": "2026-11-02",
+          "verification": {
+            "attempted_on": "2026-11-02",
+            "status": "partial",
+            "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+          }
+        }
+      ]
+    },
+    {
+      "id": "NBIS-2026Q3-rolling",
+      "ticker": "NBIS",
+      "company": "Nebius Group",
+      "region": "United States",
+      "watchlists": [
+        "US AI"
+      ],
+      "release": {
+        "date": "2026-11-12",
+        "session": "before_open",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-11-12T08:00:00-05:00"
+      },
+      "source_timing": "Company Oct 30 announcement: Nov 12, 2026 release before U.S. market open; call 08:00 Eastern / 05:00 Pacific / 14:00 Central European.",
+      "sources": [
+        {
+          "label": "Company earnings-date announcement",
+          "url": "https://nebius.com/newsroom/nebius-group-announces-date-of-third-quarter-2026-results-and-conference-call"
+        }
+      ],
+      "notes": "Company Nov 12 date overrides a third-party Nov 10 estimate. Both components are outside this window; possible Nov 11–12 PST before-open release range, Nov 12 5:00 a.m. PST call. No exact release minute inferred.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
+        "status": "Dated primary source verified"
+      }
+    },
+    {
+      "id": "CRWV-2026Q3-rolling",
+      "ticker": "CRWV",
+      "company": "CoreWeave",
+      "region": "United States",
+      "watchlists": [
+        "US AI"
+      ],
+      "release": {
+        "note": "Separate release date/session and exact timestamp not established by the cited call announcement"
+      },
+      "call": {
+        "at": "2026-11-10T17:00:00-05:00"
+      },
+      "source_timing": "Company Oct 27 announcement schedules its third-quarter results conference call Nov 10, 2026 at 17:00 Eastern; standalone release timing is not stated.",
+      "sources": [
+        {
+          "label": "Company quarterly-call announcement",
+          "url": "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx"
+        }
+      ],
+      "notes": "Call is Tue Nov 10 2:00 p.m. PST, after the current window, overriding a third-party Nov 13 estimate. An estimated after-close release session is not promoted to an issuer-confirmed timestamp.",
+      "checked_on": "2026-11-03",
+      "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
+      "verification": {
+        "attempted_on": "2026-11-03",
         "status": "Dated primary source verified"
       }
     }
@@ -3458,9 +3894,9 @@
         "Korean AI"
       ],
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+        "note": "Current selected-scope calendars and accessible issuer pages revisited; specific date/time gap remains."
       }
     },
     {
@@ -3538,32 +3974,6 @@
       }
     },
     {
-      "company": "Fabrinet — call timing only",
-      "ticker": "FN",
-      "region": "United States",
-      "watchlists": [
-        "US AI"
-      ],
-      "component": "call",
-      "note": "Company sources conflict for Mon Nov 2: announcement 5:00 p.m. EDT = 1:00 p.m. PST; event calendar 5:00 p.m. EST = 2:00 p.m. PST. Call hour unconfirmed. The confirmed after-close release is shown in its single regional table row; this item flags only the call-time conflict.",
-      "sources": [
-        {
-          "label": "Company announcement; EDT label",
-          "url": "https://investor.fabrinet.com/news-releases/news-release-details/fabrinet-announce-first-quarter-fiscal-year-2027-financial"
-        },
-        {
-          "label": "Company event calendar; EST label",
-          "url": "https://investor.fabrinet.com/events-and-presentations/events"
-        }
-      ],
-      "checked_on": "2026-11-02",
-      "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "conflicting",
-        "note": "Both company sources still disagree on 17:00 EDT versus 17:00 EST; alternatives preserved."
-      }
-    },
-    {
       "company": "Fujimi Incorporated",
       "ticker": "5384",
       "region": "Japan",
@@ -3589,11 +3999,11 @@
           "url": "https://www.ircms.jp/irexport/fujimiinc/list/jp_ir_calendar_notic.js"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+        "note": "Current selected-scope calendars and accessible issuer pages revisited; specific date/time gap remains."
       }
     },
     {
@@ -3617,11 +4027,11 @@
           "url": "https://kabutrack.com/stock/calendar/earning-schedule/2026/45/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+        "note": "Current selected-scope calendars and accessible issuer pages revisited; specific date/time gap remains."
       }
     },
     {
@@ -3641,11 +4051,11 @@
           "url": "https://www.towajapan.co.jp/en/ir/calender/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "tentative",
-        "note": "Company English calendar still explicitly labels Nov 6 15:30 JST tentative."
+        "note": "Company calendar retains explicitly tentative Nov 6 15:30 JST schedule."
       }
     },
     {
@@ -3674,11 +4084,11 @@
           "url": "https://www.furuyametals.co.jp/_assets/english/ir/calendar/img/img01.png"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+        "note": "Current selected-scope calendars and accessible issuer pages revisited; specific date/time gap remains."
       }
     },
     {
@@ -3703,11 +4113,11 @@
           "url": "https://kitagawaseiki.co.jp/"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+        "note": "Current selected-scope calendars and accessible issuer pages revisited; specific date/time gap remains."
       }
     },
     {
@@ -3740,44 +4150,40 @@
           "url": "https://www.sksquare.com/kor/ir/presentation.do"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
+        "attempted_on": "2026-11-03",
         "status": "partial",
-        "note": "Current estimates remain RTTNews Nov 6, Investing.com Nov 12 and ETFShopping Nov 13. New company Nov 2 presentation item concerns shareholder returns, not a verified earnings date; conflict retained."
+        "note": "Current selected-scope calendars and accessible issuer pages revisited; specific date/time gap remains."
       }
     },
     {
-      "ticker": "222800",
-      "company": "Simmtech",
-      "region": "Korea",
+      "ticker": "IFX",
+      "company": "Infineon Technologies",
+      "region": "Europe",
       "watchlists": [
-        "Korean AI"
+        "Euro AI"
       ],
       "candidate": {
-        "local_date": "2026-11-06",
-        "timezone": "Asia/Seoul"
+        "local_date": "2026-11-10",
+        "timezone": "Europe/Berlin"
       },
-      "note": "A reputable calendar estimates Nov 6 KST (possible Thu Nov 5–Fri Nov 6 PST). The issuer pages did not establish a current Q3 date or clock; this remains an unconfirmed estimate, separate from company-confirmed schedules.",
+      "note": "Earlier company financial calendars explicitly label Nov 10, 2026 preliminary. The current investor/calendar routes did not expose a current dated schedule; keep possible Mon Nov 9–Tue Nov 10 PST as tentative. No exact release or call clock verified.",
       "sources": [
         {
-          "label": "Calendar estimate; not issuer confirmation",
-          "url": "https://kr.investing.com/equities/simmtech-co-ltd-earnings"
-        },
-        {
-          "label": "Company website; no current earnings date established",
-          "url": "https://www.simmtech.com/"
+          "label": "Company financial calendar; preliminary date",
+          "url": "https://www.infineon.com/assets/row/public/documents/corporate/press/2026/infxx202605-082e.pdf"
         }
       ],
-      "checked_on": "2026-11-02",
+      "checked_on": "2026-11-03",
       "verification": {
-        "attempted_on": "2026-11-02",
-        "status": "partial",
-        "note": "Fresh scope screening and relevant accessible issuer sources checked; stated date/time uncertainty remains."
+        "attempted_on": "2026-11-03",
+        "status": "tentative",
+        "note": "Original company PDF read; its Nov 10 entry is marked preliminary. A current confirmed schedule/hour was not established."
       }
     }
   ],
-  "coverage_note": "All five selected IBKR lists were fetched afresh on November 2: US 70, Korea 30, Japan 66, Taiwan 57 and Europe 10 instruments before issuer deduplication; no membership changes. China AI and all other lists are excluded. Complete selected scope screened using all 32 RTTNews pages for Nov 2–9, U.S. Nov 2/9 weekly calendars, Japanese Nov 2/9 weekly calendars, fresh November Taiwan issuer conference disclosures and reachable issuer calendars. Actual calendar row dates were used because weekend navigation can return neighboring trading dates. Seven Japan Nov 9 local schedules now overlap Sun Nov 8 Pacific: Ajinomoto, FUJIFILM, JX Advanced Metals, Furukawa Electric, Toyobo, KOKUSAI ELECTRIC and Sakai Chemical. Company clock times remain separate from briefing times; JX/Sakai date-only releases remain Nov 8–9 PST ranges. Kokusai’s company-linked dynamic calendar was recovered; explicit event-title timing, not feed-record time, was used. Nikkato’s official TDnet disclosure establishes Nov 2 15:30 JST = Sun Nov 1 10:30 p.m. PST; resolved from candidate to historical record. Coverage remains partial: direct Korean screening returned HTTP 429 for all 30; web fallback recovered 27, with 083310/101160/0158S0 unavailable. SK Square estimates Nov 6/12/13 still conflict and Simmtech Nov 6 remains unconfirmed. Several U.S. direct requests failed; most recovered via issuer web fallbacks. Astera release PDF, GlobalFoundries original sources and Xometry live pages stayed unavailable; recovered call components and prior good release data are distinguished. Arm live source recovered. ASML calendar denied; Fujimi/Taiyo Yuden/Furuya/Kitagawa timing gaps and TOWA tentative status remain explicit. Fabrinet issuer EDT/EST conflict persists. Unknown timing stays unknown; calendar absence does not prove no earnings. Today’s markers are computed for Nov 2 Pacific, retaining already-passed events through the day.",
+  "coverage_note": "All five selected IBKR lists fetched afresh on November 3: US 70, Korea 30, Japan 66, Taiwan 57 and Europe 10 instruments before issuer deduplication; membership unchanged. China AI and all other lists excluded. Complete selected scope screened with all 32 RTTNews pages for Nov 3–10, U.S. Nov 2/9 and Japanese Nov 2/9 weekly calendars, fresh Taiwan issuer conference filings and reachable issuer calendars. Actual row dates govern; weekend calendar navigation can show neighboring trading dates. Added seven Japan Nov 10 local results overlapping Mon Nov 9 Pacific: MGC, Unitika, Japan Electronic Materials, Mitsui Kinzoku, Tokyo Ohka, Musashi and SoftBank Group. Added Alchip Nov 6 Taipei presentation, previously absent, and KINIK Nov 10 Taipei presentation. Simmtech Nov 6 estimate is replaced by original DART Nov 3 KST results date; no exact primary release clock asserted. Its separately disclosed broker results-meeting window is preserved, not mislabeled a continuous call. Nebius company Nov 12 and CoreWeave Nov 10 calls override third-party estimates and remain later dates. Infineon Nov 10 stays tentative because the accessible company calendar marks it preliminary. Astera/GF original PDFs recovered; Xometry live sources still denied and prior good timing retained. Sakai direct calendar failed; prior issuer date retained as partial. Korea direct calendar requests HTTP 429; web fallback 27/30 readable, 083310/101160/0158S0 unavailable. SK Square Nov 6/12/13 estimates still conflict. ASML calendar denied; Fujimi/Taiyo Yuden/Furuya/Kitagawa date gaps and TOWA tentative status persist. Prior records and snapshots retained. Before-open sessions and overseas date-only ranges are not exact release clocks; today highlights are recomputed for Nov 3 PST, retaining already-passed times through the calendar day.",
   "changes": [
     {
       "date": "2026-10-22",
@@ -3954,36 +4360,56 @@
     {
       "date": "2026-11-02",
       "note": "Today highlights advance to Nov 2: Tower call, Ichor, Aehr and Fabrinet components are marked independently; uncertain Tower release remains POSSIBLY TODAY. Onto company-confirmed Nov 9 after-close release and 1:30 p.m. PST call retained under confirmed later dates. Previous weekly/rolling snapshots unchanged."
+    },
+    {
+      "date": "2026-11-03",
+      "note": "Simmtech original Nov 3 KST results filing supersedes the Nov 6 calendar estimate. Release stays possible Nov 2–3 PST because an exact primary clock is unverified. Separate broker-results meeting window Tue Nov 3 4:00 p.m.–Thu Nov 5 1:00 a.m. PST added as a presentation window, with individual appointments unspecified."
+    },
+    {
+      "date": "2026-11-03",
+      "note": "Added previously absent Alchip Q3 presentation Thu Nov 5 10:30 p.m. PST (Nov 6 14:30 Taipei). KINIK Nov 10 15:00 Taipei presentation enters as Mon Nov 9 11:00 p.m. PST. No standalone release timestamps inferred."
+    },
+    {
+      "date": "2026-11-03",
+      "note": "Nov 3–9 window adds Japan Nov 10 local boundary schedules: Unitika 6:00 p.m. PST; Tokyo Ohka 9:00 p.m.; MGC/Mitsui Kinzoku/SoftBank Group 10:30 p.m.; Japan Electronic Materials 11:00 p.m., all Mon Nov 9. SoftBank briefing 11:30 p.m. separately; Musashi date-only release remains possible Nov 9–10."
+    },
+    {
+      "date": "2026-11-03",
+      "note": "Nebius issuer schedule is Nov 12 before-open results / 5:00 a.m. PST call, superseding a third-party Nov 10 estimate. CoreWeave issuer call is Nov 10 2:00 p.m. PST, superseding a Nov 13 calendar estimate. Both retained under later dates. Infineon Nov 10 remains preliminary, not a confirmed exact time."
+    },
+    {
+      "date": "2026-11-03",
+      "note": "Today markers advance to Nov 3; expired Fabrinet conflict moved to its historical record. Astera/GF original PDFs recovered; Xometry/Sakai live verification remains partial. Standard-library renderer now preserves explicit multi-day presentation-window bounds without inventing appointment clocks. Prior snapshots unchanged."
     }
   ],
   "coverage": [
     {
       "region": "United States",
-      "screened_on": "2026-11-02",
-      "status": "All 70 instruments freshly fetched and screened. Existing current-window dates/times retained. Arm live page recovered; Astera/GF calls recovered separately from unavailable original release sources. Xometry live pages denied; prior direct date retained. Both Fabrinet company pages still conflict on call hour. Onto Nov 9 after-close release / 1:30 p.m. PST call verified and retained outside the current window. Today markers recomputed independently for releases and calls."
+      "screened_on": "2026-11-03",
+      "status": "All 70 instruments freshly fetched and screened, unchanged membership. Original Astera/GF sources recovered; Xometry current live pages denied, prior date retained. Existing current-window schedules rechecked; Onto Nov 9 now overlaps. Issuer-confirmed Nebius Nov 12 and CoreWeave Nov 10 calls retained under later dates, overriding third-party Nov 10/13 estimates. Release times remain unknown where only calls are announced."
     },
     {
       "region": "Korea",
-      "screened_on": "2026-11-02",
-      "status": "All 30 instruments screened; direct source HTTP 429, fallback 27/30 readable. 083310/101160/0158S0 unavailable. SK Square Nov 6/12/13 estimates still conflict; new Nov 2 company IR item is shareholder-return information, not an earnings schedule. Simmtech Nov 6 remains an unconfirmed estimate. Coverage is incomplete, not a no-earnings guarantee."
+      "screened_on": "2026-11-03",
+      "status": "All 30 instruments screened; direct HTTP 429, fallback 27/30 readable; 083310/101160/0158S0 unavailable. Simmtech original DART date Nov 3 KST supersedes estimated Nov 6; exact primary release clock remains unknown. DART broker-results meeting window Nov 4–5 KST preserved separately with individual appointments unspecified. SK Square estimates Nov 6/12/13 conflict; issuer IR list still lacks a confirmed Q3 date."
     },
     {
       "region": "Japan",
-      "screened_on": "2026-11-02",
-      "status": "All 66 instruments screened with weekly calendars through adjacent Nov 9 local boundary and relevant primary sources. Added seven issuer-backed Nov 9 local schedules overlapping Nov 8 Pacific. Kokusai dynamic feed recovered; Sakai current calendar recovered from legacy-page mismatch. Nikkato official TDnet 15:30 JST Nov 2 confirms Sun Nov 1 10:30 p.m. PST historical release. TOWA remains tentative; Fujimi/Taiyo Yuden/Furuya/Kitagawa gaps retained. Exact release and briefing clocks are never conflated."
+      "screened_on": "2026-11-03",
+      "status": "All 66 instruments screened through adjacent Nov 10 local boundary. Seven company-backed Nov 10 results enter the window after conversion: Unitika Mon Nov 9 6:00 p.m. PST; TOK 9:00 p.m.; MGC/Mitsui/SoftBank 10:30 p.m.; JEM 11:00 p.m.; Musashi date-only possible Nov 9–10. SoftBank presentation separately 11:30 p.m. PST. Existing sources rechecked; Sakai direct failure retains prior date. Unresolved/tentative sources remain explicit."
     },
     {
       "region": "Taiwan",
-      "screened_on": "2026-11-02",
-      "status": "All 57 instruments compared with the fresh November issuer disclosure list. GlobalWafers Nov 3 midnight PST and Phison Nov 6 1:00 a.m. PST results presentations unchanged. Newly listed general investor calls/operating-overview meetings are not classified as quarterly earnings announcements. Source-local dates and separate unknown release timing preserved; native/ADR identities remain deduplicated."
+      "screened_on": "2026-11-03",
+      "status": "All 57 instruments compared with fresh November issuer filings. Newly listed Alchip Q3 results presentation Thu Nov 5 10:30 p.m. PST added; KINIK Q3 results presentation Mon Nov 9 11:00 p.m. PST enters the window. GlobalWafers Tue Nov 3 midnight PST and Phison Fri Nov 6 1:00 a.m. PST unchanged. Generic operating-overview calls/corporate days are not relabeled earnings; independent release timing remains unknown."
     },
     {
       "region": "Europe",
-      "screened_on": "2026-11-02",
-      "status": "All 10 instruments screened with global and reachable issuer calendars. AT&S Nov 5 Vienna date unchanged (possible Nov 4–5 PST); unrelated Canadian ATS excluded. Other reachable selected-company schedules reviewed; ASML calendar denied, so no complete absence claim."
+      "screened_on": "2026-11-03",
+      "status": "All 10 instruments screened using global and reachable issuer sources. AT&S date-only Nov 5 Vienna release unchanged. Infineon Nov 10 preliminary company-calendar date can overlap Nov 9 Pacific; isolated as tentative because a current confirmed event/clock was not recovered. ASML calendar denied; region remains partially verified."
     }
   ],
   "window_type": "rolling_7_days",
-  "window_start": "2026-11-02",
-  "window_end": "2026-11-08"
+  "window_start": "2026-11-03",
+  "window_end": "2026-11-09"
 }

@@ -63,6 +63,23 @@ class RollingCalendarTests(unittest.TestCase):
         call['alternatives'].append({'note': 'Unbounded alternative'})
         self.assertEqual(day_marker(call, date(2026, 11, 2)), '')
 
+    def test_multi_day_meeting_window_preserves_source_bounds(self):
+        item = {'starts_at': '2026-11-04T09:00:00+09:00',
+                'ends_at': '2026-11-05T18:00:00+09:00',
+                'note': 'Individual appointments unspecified'}
+        start, end = interval(item)
+        self.assertEqual(start.strftime('%a %H:%M %Z'), 'Tue 16:00 PST')
+        self.assertEqual(end.strftime('%a %H:%M %Z'), 'Thu 01:00 PST')
+        self.assertEqual(day_marker(item, date(2026, 11, 3)), '🟡 **POSSIBLY TODAY**')
+        self.assertTrue(overlaps({'call': item}, date(2026, 11, 5), date(2026, 11, 11)))
+        self.assertFalse(overlaps({'call': item}, date(2026, 11, 6), date(2026, 11, 12)))
+        self.assertIn('Individual appointments unspecified', timing(item))
+
+    def test_invalid_meeting_window_is_rejected(self):
+        with self.assertRaises(ValueError):
+            interval({'starts_at': '2026-11-05T18:00:00+09:00',
+                      'ends_at': '2026-11-04T09:00:00+09:00'})
+
 
 if __name__ == '__main__':
     unittest.main()
