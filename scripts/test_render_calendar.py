@@ -80,6 +80,35 @@ class RollingCalendarTests(unittest.TestCase):
             interval({'starts_at': '2026-11-05T18:00:00+09:00',
                       'ends_at': '2026-11-04T09:00:00+09:00'})
 
+    def test_extra_presentation_can_overlap_without_release_or_call(self):
+        event = {'release': {'note': 'Unpublished'},
+                 'call': {'at': '2026-11-11T11:00:00+01:00'},
+                 'presentations': [{'at': '2026-11-11T08:00:00+01:00'}]}
+        self.assertTrue(overlaps(event, date(2026, 11, 4), date(2026, 11, 10)))
+        self.assertFalse(overlaps(event, date(2026, 11, 3), date(2026, 11, 9)))
+
+    def test_two_presentations_keep_independent_day_markers_in_one_company_row(self):
+        event = {'company': 'Example', 'ticker': 'EX', 'sources': [],
+                 'release': {'note': 'Release unknown'},
+                 'call': {'at': '2026-11-11T11:00:00+01:00', 'label': 'Analyst call'},
+                 'presentations': [{'at': '2026-11-11T08:00:00+01:00',
+                                    'label': 'Press conference', 'type': 'presentation'}]}
+        row = table([event], today=date(2026, 11, 10)).splitlines()[-1].split('|')
+        self.assertIn('🟢 **TODAY**', row[1])
+        self.assertNotIn('TODAY', row[3])
+        analyst, press = row[4].split('<br>')
+        self.assertNotIn('TODAY', analyst)
+        self.assertIn('🟢 **TODAY**', press)
+        self.assertIn('Tue, Nov 10, 2026 · 11:00 pm PST', press)
+
+    def test_date_only_multi_day_presentation_keeps_last_local_day(self):
+        item = {'local_date': '2026-11-12', 'local_end_date': '2026-11-13',
+                'timezone': 'Asia/Taipei', 'note': 'Individual appointments unspecified'}
+        self.assertIn('Wed, Nov 11, 2026 through Fri, Nov 13, 2026', timing(item))
+        self.assertTrue(overlaps({'presentations': [item]}, date(2026, 11, 13), date(2026, 11, 19)))
+        self.assertEqual(day_marker(item, date(2026, 11, 12)), '🟡 **POSSIBLY TODAY**')
+        self.assertIn('Individual appointments unspecified', timing(item))
+
 
 if __name__ == '__main__':
     unittest.main()

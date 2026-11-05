@@ -65,7 +65,11 @@ def interval(item):
     if item.get('local_date'):
         start = datetime.combine(date.fromisoformat(item['local_date']), time.min,
                                  ZoneInfo(item['timezone']))
-        return start.astimezone(PACIFIC), (start + timedelta(days=1)).astimezone(PACIFIC)
+        last = date.fromisoformat(item.get('local_end_date', item['local_date']))
+        if last < start.date():
+            raise ValueError('Local event date range ends before it starts')
+        end = datetime.combine(last + timedelta(days=1), time.min, start.tzinfo)
+        return start.astimezone(PACIFIC), end.astimezone(PACIFIC)
     if item.get('possible_pacific_dates'):
         # A source date with an unspecified timezone can establish only a date range.
         days = [date.fromisoformat(day) for day in item['possible_pacific_dates']]
@@ -77,14 +81,18 @@ def interval(item):
             return min(span[0] for span in spans), max(span[1] for span in spans)
     return None
 
+def components(event):
+    return [event.get('release', {}), event.get('call', {}),
+            *event.get('presentations', [])]
+
 def overlaps(event, start, end):
     lower = datetime.combine(start, time.min, PACIFIC)
     upper = datetime.combine(end + timedelta(days=1), time.min, PACIFIC)
     return any(span and span[0] < upper and span[1] > lower
-               for span in (interval(event.get(p, {})) for p in ('release', 'call')))
+               for span in map(interval, components(event)))
 
 def first_possible(event):
-    spans = [interval(event.get(p, {})) for p in ('release', 'call')]
+    spans = list(map(interval, components(event)))
     return min(s[0] for s in spans if s)
 
 def session_dt(item):
@@ -112,7 +120,11 @@ def timing(item):
         zones = start.strftime('%Z')
         if start.strftime('%Z') != last.strftime('%Z'):
             zones += '/' + last.strftime('%Z')
-        return f'Possible {dates} {zones}; time unpublished (source date {item["local_date"]}, {item["timezone"]})'
+        source_dates = item['local_date']
+        if item.get('local_end_date'):
+            source_dates += ' through ' + item['local_end_date']
+        label = f'Possible {dates} {zones}; time unpublished (source date {source_dates}, {item["timezone"]})'
+        return label + ('; ' + item['note'] if item.get('note') else '')
     if item.get('session'):
         dt = session_dt(item)
         relation = 'After' if item['session'] == 'after_close' else 'Before'
@@ -141,7 +153,7 @@ def table(events, today=None):
     for event in sorted(events, key=first_possible):
         release_marker = day_marker(event.get('release', {}), today)
         call_marker = day_marker(event.get('call', {}), today)
-        markers = [release_marker, call_marker]
+        markers = [day_marker(item, today) for item in components(event)]
         row_marker = next((m for m in markers if m.startswith('🟢')), '') or next((m for m in markers if m), '')
         company = (row_marker + ' · **' + event['company'] + '**') if row_marker else event['company']
         release = timing(event.get('release', {}))
@@ -152,6 +164,18 @@ def table(events, today=None):
             call = call_marker + ' — ' + call
         if event.get('call', {}).get('type') == 'presentation':
             call += ' (presentation)'
+        if event.get('call', {}).get('label'):
+            call = event['call']['label'] + ': ' + call
+        for item in event.get('presentations', []):
+            value = timing(item)
+            if item.get('label'):
+                value = item['label'] + ': ' + value
+            marker = day_marker(item, today)
+            if marker:
+                value = marker + ' — ' + value
+            if item.get('type') == 'presentation':
+                value += ' (presentation)'
+            call += '<br>' + value
         lines.append(f'| {company} | {event["ticker"]} | {release} | {call} | {sources(event)} |')
     return '\n'.join(lines)
 
@@ -161,7 +185,7 @@ def render(data):
     in_week = [e for e in data['events'] if overlaps(e, start, end)]
     later = [e for e in data['events'] if e not in in_week and any(
         span and span[0].date() > end
-        for span in (interval(e.get(p, {})) for p in ('release', 'call')))]
+        for span in map(interval, components(e)))]
     lines = ['# AI earnings calendar', '',
              f'**Next 7 days: {start:%a, %b %d, %Y}–{end:%a, %b %d, %Y} · Verified: {data["updated_at_pacific"]}**', '',
              'The window includes today and the following six Pacific calendar dates. It advances every day, including Sundays. Today’s already-passed times remain until the next day; earlier dates are preserved in history.', '',
