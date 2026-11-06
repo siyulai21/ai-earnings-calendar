@@ -1,10 +1,10 @@
 # AI earnings calendar
 
-**Next 7 days: Thu, Nov 05, 2026–Wed, Nov 11, 2026 · Verified: 2026-11-05 09:14 AM PST**
+**Next 7 days: Fri, Nov 06, 2026–Thu, Nov 12, 2026 · Verified: 2026-11-06 10:24 AM PST**
 
 The window includes today and the following six Pacific calendar dates. It advances every day, including Sundays. Today’s already-passed times remain until the next day; earlier dates are preserved in history.
 
-**Today markers — Thu, Nov 05, 2026 (Pacific):** 🟢 **TODAY** = the scheduled release, call, or presentation falls on this date. 🟡 **POSSIBLY TODAY** = its possible timing range overlaps today and another date. Markers apply separately to each event column; a company is green if at least one component is today. Unknown timing stays unknown. Highlights advance with each daily refresh; snapshots retain their original date.
+**Today markers — Fri, Nov 06, 2026 (Pacific):** 🟢 **TODAY** = the scheduled release, call, or presentation falls on this date. 🟡 **POSSIBLY TODAY** = its possible timing range overlaps today and another date. Markers apply separately to each event column; a company is green if at least one component is today. Unknown timing stays unknown. Highlights advance with each daily refresh; snapshots retain their original date.
 
 All dates, weekdays, and clock times are in **America/Los_Angeles (Pacific time)**. PDT/PST adjusts with daylight saving time. Midnight means the start of the stated date.
 
@@ -12,7 +12,7 @@ Regions follow the selected IBKR watchlist groups: US AI, Korean AI, Japan AI, T
 
 Results releases and earnings calls are separate events. Before/after market open/close uses the relevant exchange; U.S. regular hours are 6:30 a.m.–1:00 p.m. Pacific. Session labels do not establish an exact release minute.
 
-**52 identified company results schedules overlap this window.** A row is included when either its release or call/presentation overlaps. Date-only ranges may overlap; they do not confirm one Pacific date. Dates and times reflect cited schedules, not certification that an event occurred.
+**45 identified company results schedules overlap this window.** A row is included when either its release or call/presentation overlaps. Date-only ranges may overlap; they do not confirm one Pacific date. Dates and times reflect cited schedules, not certification that an event occurred.
 
 [United States](#united-states) · [Korea](#korea) · [Japan](#japan) · [Taiwan](#taiwan) · [Europe](#europe)
 
@@ -20,58 +20,40 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 | Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
 |---|---|---|---|---|
-| 🟢 **TODAY** · **MKS** | MKSI | Wed, Nov 04, 2026 · After 1:00 pm PST; exact minute unpublished | 🟢 **TODAY** — Thu, Nov 05, 2026 · 5:30 am PST | [Company earnings announcement](https://investor.mks.com/news-releases/news-release-details/mks-inc-announces-third-quarter-2026-earnings-conference-call), [Company announcement PDF; accessible fallback](https://investor.mks.com/node/24491/pdf) |
-| 🟢 **TODAY** · **ACM Research** | ACMR | 🟡 **POSSIBLY TODAY** — Thu, Nov 05, 2026 · Before 6:30 am PST; exact minute unpublished | 🟢 **TODAY** — Thu, Nov 05, 2026 · 5:00 am PST | [Company earnings announcement](https://ir.acmr.com/news-releases/news-release-details/acm-research-release-third-quarter-2026-financial-results) |
-| 🟢 **TODAY** · **IREN** | IREN | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, America/New_York) | 🟢 **TODAY** — Thu, Nov 05, 2026 · 2:00 pm PST | [Issuer-distributed earnings announcement](https://www.globenewswire.com/news-release/2026/10/22/3386871/0/en/index.html), [Company announcement](https://iren.gcs-web.com/news-releases/news-release-details/iren-release-q1-fy27-results-november-5-2026) |
-| 🟢 **TODAY** · **Applied Optoelectronics** | AAOI | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, America/Chicago) | 🟢 **TODAY** — Thu, Nov 05, 2026 · 1:30 pm PST | [Company earnings announcement](https://investors.ao-inc.com/news-releases/news-release-details/applied-optoelectronics-announces-date-third-quarter-2026), [Current company earnings announcement](https://investors.ao-inc.com/2026-10-15-Applied-Optoelectronics-Announces-Date-of-Third-Quarter-2026-Financial-Results-Conference-Call) |
-| 🟢 **TODAY** · **Lumentum** | LITE | 🟢 **TODAY** — Thu, Nov 05, 2026 · After 1:00 pm PST; exact minute unpublished | 🟢 **TODAY** — Thu, Nov 05, 2026 · 2:00 pm PST | [Company earnings announcement](https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Reporting-Date-for-Fiscal-First-Quarter-2027-Financial-Results/default.aspx) |
-| 🟢 **TODAY** · **Cloudflare** | NET | 🟢 **TODAY** — Thu, Nov 05, 2026 · After 1:00 pm PST; exact minute unpublished | 🟢 **TODAY** — Thu, Nov 05, 2026 · 2:00 pm PST | [Company earnings announcement](https://www.cloudflare.net/news/news-details/2026/Cloudflare-Announces-Date-of-Third-Quarter-2026-Financial-Results/default.aspx) |
-| 🟢 **TODAY** · **Akamai Technologies** | AKAM | Separate earnings release time / session unpublished in the cited call announcement | 🟢 **TODAY** — Thu, Nov 05, 2026 · 1:30 pm PST | [Company call announcement](https://www.akamai.com/newsroom/press-release/akamai-technologies-to-hold-third-quarter-2026-investor-conference-call) |
-| 🟡 **POSSIBLY TODAY** · **TeraWulf** | WULF | 🟡 **POSSIBLY TODAY** — Before Fri, Nov 06, 2026 · 5:00 am PST; exact minute unpublished | Fri, Nov 06, 2026 · 5:00 am PST | [Company earnings announcement](https://investors.terawulf.com/news-events/press-releases/detail/147/terawulf-schedules-conference-call-for-third-quarter-2026-financial-results) |
+| 🟢 **TODAY** · **TeraWulf** | WULF | 🟢 **TODAY** — Fri, Nov 06, 2026 · 4:00 am PST | 🟢 **TODAY** — Fri, Nov 06, 2026 · 5:00 am PST | [Company press-release index (07:00 EST)](https://investors.terawulf.com/news-events/press-releases?page=1&year=2026), [Q3 results and call details](https://investors.terawulf.com/news-events/press-releases/detail/149/terawulf-reports-third-quarter-2026-results), [Company earnings announcement](https://investors.terawulf.com/news-events/press-releases/detail/147/terawulf-schedules-conference-call-for-third-quarter-2026-financial-results) |
 | Onto Innovation | ONTO | Mon, Nov 09, 2026 · After 1:00 pm PST; exact minute unpublished | Mon, Nov 09, 2026 · 1:30 pm PST | [Company earnings announcement](https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-to-Report-Third-Quarter-2026-Financial-Results-on-November-9-2026/default.aspx) |
 | CoreWeave | CRWV | Separate release date/session and exact timestamp not established by the cited call announcement | Tue, Nov 10, 2026 · 2:00 pm PST | [Company quarterly-call announcement](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx) |
 | Nebius Group | NBIS | Thu, Nov 12, 2026 · Before 6:30 am PST; exact minute unpublished | Thu, Nov 12, 2026 · 5:00 am PST | [Company earnings-date announcement](https://nebius.com/newsroom/nebius-group-announces-date-of-third-quarter-2026-results-and-conference-call) |
+| Applied Materials | AMAT | Possible Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, America/Los_Angeles) | Thu, Nov 12, 2026 · 1:30 pm PST | [Company Q4 and fiscal-year scheduling announcement](https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-report-fourth-quarter-and-fiscal-2026-results), [Company conference-call listing](https://ir.appliedmaterials.com/events/event-details/q4-2026-applied-materials-earnings-conference-call), [Company FAQ (release and call share a calendar date)](https://ir.appliedmaterials.com/shareholder-services/investor-faqs) |
+| Cisco Systems | CSCO | Thu, Nov 12, 2026 · After 1:00 pm PST; exact minute unpublished | Thu, Nov 12, 2026 · 1:30 pm PST | [Company scheduling announcement; overrides Nov 11 calendar estimate](https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx) |
+| Cerebras Systems | CBRS | Thu, Nov 12, 2026 · After 1:00 pm PST; exact minute unpublished | Thu, Nov 12, 2026 · 2:00 pm PST | [Company Q3 scheduling announcement](https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-announces-date-third-quarter-2026-financial), [Company earnings-call listing (5:00 p.m. EST)](https://investors.cerebras.ai/events/event-details/cerebras-q3-2026-earnings-call) |
 
-- **MKSI:** Release Wed Nov 4 after 1:00 p.m. PST is before the current window; separate call Thu Nov 5 5:30 a.m. PST remains in-window and highlighted through today.
-
-- **ACMR:** Company release is before the Nov 5 U.S. open (possible Nov 4–5 PST); exact minute remains unknown. Call is Thu Nov 5 5:00 a.m. PST, now within this rolling window.
-
-- **IREN:** Call is Thu Nov 5 2:00 p.m. PST. Company release is date-only (possible Nov 4–5 PST under its U.S. dateline); a calendar after-close estimate is not treated as a verified release session.
-
-- **AAOI:** Call is Thu Nov 5 1:30 p.m. PST. Release date is represented using the company U.S. dateline (possible Nov 4–5 PST); do not infer its publication minute or session from the call or a calendar estimate.
-
-- **WULF:** Results are due before the Fri Nov 6 5:00 a.m. PST call, on the same Eastern calendar date. The release interval can overlap late Thu Nov 5 through Fri Nov 6 before 5:00 a.m. PST; exact Pacific release date/minute remains unknown. Both components now overlap the rolling window.
-
-- **NET:** Newly included through US AI. Thu Nov 5 after 1:00 p.m. PST release session; call 2:00 p.m. PST. Exact release minute unpublished.
+- **WULF:** Results posted Fri Nov 6 at 4:00 a.m. PST. The separate call was scheduled for 5:00 a.m. PST.
 
 - **ONTO:** Release Mon Nov 9 after 1:00 p.m. PST (exact minute unpublished); separate call Mon Nov 9 1:30 p.m. PST.
 
-- **NBIS:** Issuer Nov 12 before-open release interval can overlap late Wed Nov 11 through Thu Nov 12 before 6:30 a.m. PST; exact release minute remains unpublished. Separate call Thu Nov 12 5:00 a.m. PST is outside this window. Company Nov 12 schedule overrides a third-party Nov 10 estimate.
+- **NBIS:** Before-open release can overlap late Wed Nov 11 through Thu Nov 12 before 6:30 a.m. PST. The exact release minute is unpublished. The separate call is Thu Nov 12 at 5:00 a.m. PST. The company Nov 12 schedule supersedes a third-party Nov 10 estimate.
 
 - **CRWV:** Call Tue Nov 10 2:00 p.m. PST, overriding a third-party Nov 13 estimate. An estimated after-close release session is not promoted to an issuer-confirmed timestamp.
 
+- **CSCO:** Issuer confirms Thu Nov 12 after-close release with exact minute unpublished and a 1:30 p.m. PST call. Both components now overlap the window. The issuer date supersedes the third-party Nov 11 estimate.
+
+- **AMAT:** Q4 and full fiscal-year results are scheduled for Thu Nov 12 Pacific, with the release time unpublished. Separate call at 1:30 p.m. PST.
+
+- **CBRS:** Thu Nov 12 after-close release with exact minute unpublished. Separate call at 2:00 p.m. PST.
+
 ## Korea
 
-| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
-|---|---|---|---|---|
-| 🟡 **POSSIBLY TODAY** · **Simmtech** | 222800 | Possible Mon, Nov 02, 2026 through Tue, Nov 03, 2026 PST; time unpublished (source date 2026-11-03, Asia/Seoul) | 🟡 **POSSIBLY TODAY** — Window: Tue, Nov 03, 2026 · 4:00 pm PST through Thu, Nov 05, 2026 · 1:00 am PST; Broker-hosted results meetings; individual appointments unspecified; this is not a continuous earnings call (presentation) | [Original DART results filing; Nov 3 KST](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900445), [Original DART results-meeting notice](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900449) |
-
-- **222800:** The prior Nov 6 estimate is superseded by the original Nov 3 KST filing, possible Mon Nov 2–Tue Nov 3 PST; primary exact release clock remains unverified. The separate broker presentation window is Tue Nov 3 4:00 p.m.–Thu Nov 5 1:00 a.m. PST; individual appointments and a standalone quarterly conference call time are not published.
+No company-confirmed earnings event identified in this window; see unresolved dates below.
 
 ## Japan
 
 | Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
 |---|---|---|---|---|
-| 🟡 **POSSIBLY TODAY** · **Fujibo Holdings** | 3104 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.fujibo.co.jp/ir/) |
 | Fuso Chemical | 4368 | Possible Thu, Oct 29, 2026 through Fri, Oct 30, 2026 PDT; time unpublished (source date 2026-10-30, Asia/Tokyo) | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [Company IR calendar](https://fusokk.co.jp/ir/ir_cat/ir-calendar) |
-| 🟡 **POSSIBLY TODAY** · **JCU** | 4975 | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Asia/Tokyo) | Separate call / presentation time unpublished | [Company IR calendar](https://www.jcu-i.com/ir/others/electronic_public_notice/) |
-| 🟡 **POSSIBLY TODAY** · **Nittobo** | 3110 | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Asia/Tokyo) | Separate call / presentation time unpublished | [Company IR calendar](https://www.nittobo.co.jp/eng/ir/calender.htm) |
-| 🟡 **POSSIBLY TODAY** · **Fujimi Incorporated** | 5384 | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Asia/Tokyo) | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [Original Q2 results PDF; period and date verified](https://www.ircms.jp/irexport/fujimiinc/file/a84721100921963.pdf), [Company-linked results calendar entry](https://www.ircms.jp/irexport/fujimiinc/list/jp_ir_calendar_latest.js), [Company-linked briefing notice; Nov 12 event date](https://www.ircms.jp/irexport/fujimiinc/list/jp_ir_calendar_notic.js) |
-| 🟡 **POSSIBLY TODAY** · **Taiyo Holdings** | 4626 | 🟡 **POSSIBLY TODAY** — Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Tokyo) | Separate call / presentation time unpublished | [Company IR calendar](https://www.taiyo-hd.co.jp/en/investor/calendar.html) |
-| 🟡 **POSSIBLY TODAY** · **Meiko** | 6787 | 🟡 **POSSIBLY TODAY** — Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Tokyo) | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.meiko-elec.com/english/ir/calendar.html) |
-| 🟡 **POSSIBLY TODAY** · **Hosokawa Micron** | 6277 | 🟡 **POSSIBLY TODAY** — Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Tokyo) | Mon, Nov 23, 2026 · 8:30 pm PST (presentation) | [Company IR calendar](https://www.hosokawamicron.co.jp/jp/ir/calendar.html) |
-| 🟡 **POSSIBLY TODAY** · **Nagase** | 8012 | 🟡 **POSSIBLY TODAY** — Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Tokyo) | Possible Sun, Nov 08, 2026 through Mon, Nov 09, 2026 PST; time unpublished (source date 2026-11-09, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.nagase.co.jp/english/ir/stock-information/calendar/) |
-| 🟢 **TODAY** · **Santec Holdings** | 6777 | 🟢 **TODAY** — Thu, Nov 05, 2026 · 10:40 pm PST | Separate call / presentation time unpublished | [Company Japanese IR calendar](https://www.santec.com/jp/ir/ircalendar/index.html), [Company English date calendar](https://www.santec.com/en/ir/ircalendar/index.html) |
+| Fujimi Incorporated | 5384 | Wed, Nov 04, 2026 · 11:20 pm PST | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [TDnet disclosure index (Japan release time)](https://www.release.tdnet.info/inbs/I_list_001_20261105.html), [Filed financial results (PDF)](https://www.release.tdnet.info/inbs/140120261102563003.pdf), [Original Q2 results PDF; period and date verified](https://www.ircms.jp/irexport/fujimiinc/file/a84721100921963.pdf), [Company-linked results calendar entry](https://www.ircms.jp/irexport/fujimiinc/list/jp_ir_calendar_latest.js), [Company-linked briefing notice; Nov 12 event date](https://www.ircms.jp/irexport/fujimiinc/list/jp_ir_calendar_notic.js) |
+| Meiko | 6787 | Thu, Nov 05, 2026 · 10:30 pm PST | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) (presentation) | [TDnet disclosure index (Japan release time)](https://www.release.tdnet.info/inbs/I_list_004_20261106.html), [Filed financial results (PDF)](https://www.release.tdnet.info/inbs/140120261106566785.pdf), [Company IR calendar](https://www.meiko-elec.com/english/ir/calendar.html) |
+| Nagase | 8012 | Thu, Nov 05, 2026 · 10:30 pm PST | Possible Sun, Nov 08, 2026 through Mon, Nov 09, 2026 PST; time unpublished (source date 2026-11-09, Asia/Tokyo) (presentation) | [TDnet disclosure index (Japan release time)](https://www.release.tdnet.info/inbs/I_list_005_20261106.html), [Filed financial results (PDF)](https://www.release.tdnet.info/inbs/140120260928540806.pdf), [Company IR calendar](https://www.nagase.co.jp/english/ir/stock-information/calendar/) |
 | JX Advanced Metals | 5016 | Possible Sun, Nov 08, 2026 through Mon, Nov 09, 2026 PST; time unpublished (source date 2026-11-09, Asia/Tokyo) | Separate call / presentation time unpublished | [Company IR calendar](https://www.jx-nmm.com/ir/calendar.html) |
 | Toyobo | 3101 | Sun, Nov 08, 2026 · 8:00 pm PST | Possible Sun, Nov 08, 2026 through Mon, Nov 09, 2026 PST; time unpublished (source date 2026-11-09, Asia/Tokyo) (presentation) | [Company homepage; release clock](https://ir.toyobo.co.jp/ja/ir.html), [Company calendar; separate briefing date](https://ir.toyobo.co.jp/ja/ir/calendar.html) |
 | KOKUSAI ELECTRIC | 6525 | Sun, Nov 08, 2026 · 9:00 pm PST | Possible Sun, Nov 08, 2026 through Mon, Nov 09, 2026 PST; time unpublished (source date 2026-11-09, Asia/Tokyo) (presentation) | [Company IR calendar](https://www.kokusai-electric.com/ir/calendar), [Company-linked calendar data; event title governs clock](https://ssl4.eir-parts.net/V4Public/eir/6525/ja/announcement/announcement_0.js) |
@@ -88,29 +70,24 @@ Results releases and earnings calls are separate events. Before/after market ope
 | Japan Electronic Materials | 6855 | Mon, Nov 09, 2026 · 11:00 pm PST | Possible Thu, Nov 12, 2026 through Fri, Nov 13, 2026 PST; time unpublished (source date 2026-11-13, Asia/Tokyo) (presentation) | [Company IR schedule](https://www.jem-net.co.jp/ir/ir-schedule) |
 | TAYCA | 4027 | Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo) | Separate call / presentation time unpublished | [Company Japanese IR calendar](https://www.tayca.co.jp/ir/ir_calendar.php) |
 | Rigaku Holdings | 268A | Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo) | Separate call / presentation time unpublished | [Company IR calendar](https://rigaku-holdings.com/ir/others/calendar/), [Company-linked live calendar; display_date governs event date](https://ssl4.eir-parts.net/V4Public/eir/268A/ja/announcement/announcement_0.js) |
+| Union Tool | 6278 | Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo) | Separate call / presentation timing unverified | [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
+| MEC | 4971 | Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo) | Separate call / presentation timing unverified | [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
 | ADEKA | 4401 | Tue, Nov 10, 2026 · 8:00 pm PST | Wed, Nov 25, 2026 · 5:00 pm PST (presentation) | [Company IR schedule; release and briefing clocks](https://www.adeka.co.jp/ir/) |
 | GLtechno Holdings | 255A | Tue, Nov 10, 2026 · 10:00 pm PST | Separate call / presentation time unpublished | [Company calendar; explicit release clock](https://www.gltechno.co.jp/ir/calendar.html) |
 | Resonac Holdings | 4004 | Tue, Nov 10, 2026 · 10:30 pm PST | Separate call / presentation time unpublished | [Company IR calendar](https://www.resonac.com/jp/ir/calendar.html), [Company-linked financial calendar; explicit UTC+09:00](https://asia.tools.euroland.com/tools/fincalendar2/?companycode=jp-swd&v=redesign&lang=ja-jp) |
 | Nippon Chemical Industrial | 4092 | Possible Wed, Nov 11, 2026 through Thu, Nov 12, 2026 PST; time unpublished (source date 2026-11-12, Asia/Tokyo) | Separate call / presentation timing unpublished | [Company Japanese IR calendar](https://www.nippon-chem.co.jp/ir/calendar/) |
 | Stella Chemifa | 4109 | Wed, Nov 11, 2026 · 9:00 pm PST | Wed, Nov 11, 2026 · 11:00 pm PST (presentation) | [Company calendar; separate release and webinar clocks](https://www.stella-chemifa.co.jp/ir/calendar.html) |
-
-- **3104:** The Oct 30 JST results date is now before the window. The separate Nov 5 JST institutional briefing overlaps the current window as a possible Nov 4–5 PST presentation; its exact time remains unpublished.
+| Seikoh Giken | 6834 | Possible Thu, Nov 12, 2026 through Fri, Nov 13, 2026 PST; time unpublished (source date 2026-11-13, Asia/Tokyo) | Separate call / presentation timing unverified | [Japanese company IR schedule](https://www.seikoh-giken.co.jp/irinfo/schedule.html), [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
+| Nihon Yamamura Glass | 5210 | Possible Thu, Nov 12, 2026 through Fri, Nov 13, 2026 PST; time unpublished (source date 2026-11-13, Asia/Tokyo) | Separate call / presentation timing unverified | [Japanese company IR calendar](https://www.yamamura.co.jp/ir/calendar), [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
+| Hirano Tecseed | 6245 | Possible Thu, Nov 12, 2026 through Fri, Nov 13, 2026 PST; time unpublished (source date 2026-11-13, Asia/Tokyo) | Separate call / presentation timing unverified | [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
+| TOPPAN Holdings | 7911 | Possible Thu, Nov 12, 2026 through Fri, Nov 13, 2026 PST; time unpublished (source date 2026-11-13, Asia/Tokyo) | Separate call / presentation timing unverified | [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
+| Ebara | 6361 | Thu, Nov 12, 2026 · 10:30 pm PST | Separate call / presentation timing unverified | [Japanese company IR calendar (15:30 JST)](https://www.ebara.com/jp-ja/ir/support/events/), [JPX issuer-submitted schedule (November 6 XLSX)](https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx) |
 
 - **4368:** Oct 30 JST release is historical. Separate Nov 12 JST results presentation overlaps the current window as possible Wed Nov 11–Thu Nov 12 PST; exact hour remains unpublished.
 
-- **4975:** Possible Wed Nov 4 through Thu Nov 5 PST; exact Pacific date unknown.
+- **6787:** TDnet establishes the release on Thu Nov 5 at 10:30 p.m. PST. The separate Nov 12 JST briefing remains possible Wed Nov 11–Thu Nov 12 PST.
 
-- **3110:** Possible Wed Nov 4 through Thu Nov 5 PST; exact Pacific date unknown.
-
-- **6777:** Release converts to Thu Nov 5 10:40 p.m. PST.
-
-- **4626:** Boundary row: possible Thu Nov 5 through Fri Nov 6 PST; a single Pacific release date is not verified.
-
-- **6787:** Release remains possible Thu Nov 5–Fri Nov 6 PST. Separate Nov 12 JST briefing overlaps as possible Wed Nov 11–Thu Nov 12 PST; no exact briefing hour inferred.
-
-- **6277:** Boundary row: possible Thu Nov 5 through Fri Nov 6 PST; a single Pacific release date is not verified.
-
-- **8012:** Nov 6 JST release remains possible Thu Nov 5–Fri Nov 6 PST. The separate Nov 9 JST briefing now overlaps the rolling-window boundary as possible Sun Nov 8–Mon Nov 9 PST; its exact hour remains unpublished.
+- **8012:** TDnet establishes the release on Thu Nov 5 at 10:30 p.m. PST. The separate Nov 9 JST briefing remains possible Sun Nov 8–Mon Nov 9 PST.
 
 - **2802:** Release Sun Nov 8 10:30 p.m. PST; separate analysts meeting Mon Nov 9 1:00 a.m. PST. Both overlap the current window; one component does not establish the other.
 
@@ -130,7 +107,7 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 - **3103:** Release converts to Mon Nov 9 6:00 p.m. PST.
 
-- **6855:** Release is Mon Nov 9 11:00 p.m. PST. The Nov 13 JST briefing is possible Nov 12–13 PST, outside this window.
+- **6855:** Release is Mon Nov 9 at 11:00 p.m. PST. The separate Nov 13 JST briefing may fall Thu Nov 12 or Fri Nov 13 PST and overlaps the window. Its exact hour remains unpublished.
 
 - **5706:** Release is Mon Nov 9 10:30 p.m. PST; no separate call hour inferred.
 
@@ -154,26 +131,34 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 - **4092:** Possible Wed Nov 11–Thu Nov 12 PST release range; no single Pacific release date or exact time verified.
 
-- **5384:** Promoted from candidate after original-PDF verification. Release stays possible Nov 4–5 PST; separate presentation stays possible Nov 11–12 PST. The news-index link label says FY2026, but the original PDF and calendar agree FY2027; the PDF governs the period.
+- **5384:** TDnet establishes the release on Wed Nov 4 at 11:20 p.m. PST. The separate Nov 12 JST briefing remains possible Wed Nov 11–Thu Nov 12 PST. The original results PDF gives the fiscal year ending March 2027.
+
+- **6278:** Release may fall Tue Nov 10 or Wed Nov 11 PST. The exact hour remains unpublished.
+
+- **4971:** Release may fall Tue Nov 10 or Wed Nov 11 PST. The exact hour remains unpublished. The separately indexed briefing remains unresolved.
+
+- **6361:** The release converts to Thu Nov 12 at 10:30 p.m. PST.
+
+- **6834:** Release may fall Thu Nov 12 or Fri Nov 13 PST. The exact hour remains unpublished.
+
+- **5210:** Release may fall Thu Nov 12 or Fri Nov 13 PST. The exact hour remains unpublished.
+
+- **6245:** Release may fall Thu Nov 12 or Fri Nov 13 PST. The exact hour remains unpublished.
+
+- **7911:** Release may fall Thu Nov 12 or Fri Nov 13 PST. The exact hour remains unpublished.
 
 ## Taiwan
 
 | Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
 |---|---|---|---|---|
-| 🟢 **TODAY** · **Alchip Technologies** | 3661 | Separate earnings release date/time not established by this presentation filing | 🟢 **TODAY** — Thu, Nov 05, 2026 · 10:30 pm PST (presentation) | [Issuer conference disclosure; November filter](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
-| 🟢 **TODAY** · **Topoint Technology** | 8021 | Separate earnings release date/time not established by this presentation filing | 🟢 **TODAY** — Thu, Nov 05, 2026 · 10:30 pm PST (presentation) | [Issuer Q3 results-presentation disclosure](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
-| Phison Electronics | 8299 | Separate results release date/time not established by the presentation disclosure | Fri, Nov 06, 2026 · 1:00 am PST (presentation) | [Issuer conference disclosure; November filter](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
+| 🟢 **TODAY** · **Phison Electronics** | 8299 | Separate results release date/time not established by the presentation disclosure | 🟢 **TODAY** — Fri, Nov 06, 2026 · 1:00 am PST (presentation) | [Issuer conference disclosure; November filter](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
 | General Interface Solution | 6456 | Separate earnings release date/time not established by the presentation filing | Sun, Nov 08, 2026 · 10:30 pm PST (presentation) | [Issuer Q3 financial-results presentation disclosure](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
 | KINIK | 1560 | Separate earnings release date/time not established by this presentation filing | Mon, Nov 09, 2026 · 11:00 pm PST (presentation)<br>UBS Q3 results meetings: Possible Wed, Nov 11, 2026 through Fri, Nov 13, 2026 PST; time unpublished (source date 2026-11-12 through 2026-11-13, Asia/Hong_Kong); Source lists 13:00 Hong Kong for the Nov 12–13 meetings (9:00 p.m. PST on the preceding date, Nov 11/12); individual appointments and ending hours unspecified. (presentation) | [Issuer conference disclosure; November filter](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
 | Ta Liang Technology | 3167 | Separate earnings release date/time not established by this presentation filing | Tue, Nov 10, 2026 · 10:30 pm PST (presentation) | [Issuer financial-results presentation disclosure](https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11) |
 
 - **8299:** Fri Nov 6 1:00 a.m. PST results presentation now enters the window. A broker-hosted quarterly-results presentation does not establish a standalone release timestamp.
 
-- **3661:** Newly identified Q3 results presentation: Thu Nov 5 10:30 p.m. PST. Separate release timing remains unknown.
-
 - **1560:** Main Q3 presentation Mon Nov 9 11:00 p.m. PST. Additional UBS results meetings have a possible Nov 11–13 PST date range; source 13:00 Hong Kong corresponds to 9:00 p.m. PST on the preceding date. Individual appointments are unspecified; this is not a continuous call or a standalone release timestamp.
-
-- **8021:** Previously absent quarterly-results presentation: Thu Nov 5 10:30 p.m. PST. A standalone release timestamp is not established.
 
 - **3167:** Financial-results presentation: Tue Nov 10 10:30 p.m. PST. Quarter unspecified in the primary notice; no new Q3 release date, new financial figures or release clock inferred.
 
@@ -183,11 +168,8 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 | Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
 |---|---|---|---|---|
-| 🟡 **POSSIBLY TODAY** · **AT&S** | ATS | 🟡 **POSSIBLY TODAY** — Possible Wed, Nov 04, 2026 through Thu, Nov 05, 2026 PST; time unpublished (source date 2026-11-05, Europe/Vienna) | Separate call / presentation time unpublished | [AT&S company financial calendar](https://ats.net/en/investors/financial-calendar/) |
 | Siemens Energy | ENR | Tue, Nov 10, 2026 · 10:00 pm PST | Analyst conference: Wed, Nov 11, 2026 · 2:00 am PST<br>Press conference: Tue, Nov 10, 2026 · 11:00 pm PST (presentation) | [Company results release and press-conference announcement](https://www.siemensenergy.com/global/en/home/press-releases/annual-press-conference-2026.html), [Company investor calendar; analyst conference](https://www.siemensenergy.com/global/en/home/investor-relations.html) |
 | Technoprobe | TPRO | Company calendar dates the Nov 11 board review; standalone release date/session and exact clock are not established | Wed, Nov 11, 2026; hour unresolved: issuer 18:00 CEST literally means 8:00 a.m. PST; 18:00 Europe/Rome (CET on this date) would mean 9:00 a.m. PST. No single hour selected. | [Company results-call page; CEST label retained](https://www.technoprobe.com/investors/investor-relations/presentations-and-analyst-coverage), [Company financial calendar; board meeting only](https://www.technoprobe.com/investors/investor-relations/financial-calendar), [Company-linked registration; Rome timezone metadata](https://b1c-co-uk.zoom.us/webinar/register/WN_TKmcPfKLSXGFLm6hJYysAw) |
-
-- **ATS:** Possible Wed Nov 4 through Thu Nov 5 PST. This selected Austrian AT&S instrument is unrelated to ATS Corporation in Canadian/U.S. calendars.
 
 - **ENR:** Release Tue Nov 10 10:00 p.m. PST; press presentation Tue Nov 10 11:00 p.m.; analyst conference Wed Nov 11 2:00 a.m. Separate components and Pacific dates retained.
 
@@ -199,7 +181,7 @@ Selected verified dates beyond the rolling window, retained when an event moves.
 
 | Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
 |---|---|---|---|---|
-| Cisco Systems | CSCO | Thu, Nov 12, 2026 · After 1:00 pm PST; exact minute unpublished | Thu, Nov 12, 2026 · 1:30 pm PST | [Company scheduling announcement; overrides Nov 11 calendar estimate](https://investor.cisco.com/news/news-details/2026/Cisco-Schedules-Conference-Call-for-Q1-Fiscal-Year-2027-Financial-Results/default.aspx) |
+| Hosokawa Micron | 6277 | Thu, Nov 05, 2026 · 10:30 pm PST | Mon, Nov 23, 2026 · 8:30 pm PST (presentation) | [TDnet disclosure index (Japan release time)](https://www.release.tdnet.info/inbs/I_list_004_20261106.html), [Filed financial results (PDF)](https://www.release.tdnet.info/inbs/140120261105566068.pdf), [Company IR calendar](https://www.hosokawamicron.co.jp/jp/ir/calendar.html) |
 | Datasection | 3905 | Possible Sun, Nov 15, 2026 through Mon, Nov 16, 2026 PST; time unpublished (source date 2026-11-16, Asia/Tokyo) | Separate call / presentation time unpublished | [Company calendar](https://www.datasection.co.jp/ir/calendar), [Company-linked calendar; displayed date only](https://ssl4.eir-parts.net/V4Public/EIR/3905/ja/ir_material/ir_material_7.js) |
 
 ## Unresolved dates and coverage limits
@@ -212,23 +194,15 @@ Selected verified dates beyond the rolling window, retained when an event moves.
 
 - **Murata Manufacturing (6981, Japan):** Prior tentative Oct 30 at 14:00 JST was Thu Oct 29 10:00 p.m. PDT, entirely before this window. Retained in structured history; no new in-window earnings component verified. [Company tentative calendar](https://corporate.murata.com/en-sg/ir/calendar)
 
-- **TOWA (6315, Japan):** Company English calendar explicitly labels Nov 6, 2026 15:30 JST tentative (Thu Nov 5 10:30 p.m. PST). Kept separate from confirmed schedules. **Thu, Nov 05, 2026 · 10:30 pm PST.** [Company tentative IR calendar](https://www.towajapan.co.jp/en/ir/calender/)
+- **SK Square (402340, Korea):** The Nov 6 KST RTTNews estimate remains uncorroborated. Other calendars give Nov 12 or 13 KST. The current issuer presentations page provides no Q3 schedule. **Possible Nov 5–6 PST for the early estimate, or Nov 11–13 PST for the later estimates. No confirmed date or hour.** [Nov 6 calendar estimate](https://www.rttnews.com/calendar/earnings.aspx?Date=06-Nov-2026&PageNum=3), [Nov 13 estimate](https://etfshopping.com/stock/402340/earnings), [Nov 12 estimate](https://www.investing.com/equities/sk-square-earnings), [Company IR presentations; Q3 date not established](https://www.sksquare.com/kor/ir/presentation.do)
 
-- **Furuya Metal (7826, Japan):** Japanese weekly calendar estimates Nov 6 JST (possible Nov 5–6 PST). The company calendar image was visually inspected: it shows an annual cycle with first-quarter results in November, without a specific 2026 day or hour. Nov 6 remains unconfirmed. **Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Tokyo).** [Screening date](https://kabutrack.com/stock/calendar/earning-schedule/2026/45/), [Company schedule; dated text unavailable](https://www.furuyametals.co.jp/english/ir/calendar/), [Company annual-cycle image; no specific day](https://www.furuyametals.co.jp/_assets/english/ir/calendar/img/img01.png)
+- **Infineon Technologies (IFX, Europe):** Earlier issuer calendars mark Nov 10 preliminary. The current company search index lists a preliminary 07:30 CET release (Mon Nov 9 at 10:30 p.m. PST). The live event listing did not corroborate that clock. The Nov 9–10 PST range remains tentative and separate call timing remains unknown. **Possible Mon, Nov 09, 2026 through Tue, Nov 10, 2026 PST; time unpublished (source date 2026-11-10, Europe/Berlin).** [Company financial calendar; preliminary date](https://www.infineon.com/assets/row/public/documents/corporate/press/2026/infxx202605-082e.pdf), [Company events page (indexed entry labeled preliminary)](https://www.infineon.com/about/events)
 
-- **Kitagawa Seiki (6327, Japan):** Japanese weekly calendar lists Nov 6 JST; possible Nov 5–6 PST. Current company homepage exposes IR updates but did not establish a specific earnings date or clock on this run. **Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Tokyo).** [Screening date](https://kabutrack.com/stock/calendar/earning-schedule/2026/45/), [Company IR updates](https://kitagawaseiki.co.jp/)
-
-- **SK Square (402340, Korea):** Conflicting estimates: RTTNews Nov 6 KST can overlap Nov 5 Pacific; ETFShopping estimates Nov 13 and other calendars Nov 12. No issuer confirmation obtained; do not promote the earliest estimate to a confirmed event. **Possible Thu, Nov 05, 2026 through Fri, Nov 06, 2026 PST; time unpublished (source date 2026-11-06, Asia/Seoul).** [Nov 6 calendar estimate](https://www.rttnews.com/calendar/earnings.aspx?Date=06-Nov-2026&PageNum=3), [Nov 13 estimate](https://etfshopping.com/stock/402340/earnings), [Nov 12 estimate](https://www.investing.com/equities/sk-square-earnings), [Company IR presentations; Q3 date not established](https://www.sksquare.com/kor/ir/presentation.do)
-
-- **Infineon Technologies (IFX, Europe):** Earlier company financial calendars explicitly label Nov 10, 2026 preliminary. The current investor/calendar routes did not expose a current dated schedule; keep possible Mon Nov 9–Tue Nov 10 PST as tentative. No exact release or call clock verified. **Possible Mon, Nov 09, 2026 through Tue, Nov 10, 2026 PST; time unpublished (source date 2026-11-10, Europe/Berlin).** [Company financial calendar; preliminary date](https://www.infineon.com/assets/row/public/documents/corporate/press/2026/infxx202605-082e.pdf)
-
-- **Union Tool (6278, Japan):** Japanese weekly calendar lists Nov 11 JST (possible Nov 10–11 PST). Current company-linked live feed contains no Nov 11 entry; keep the calendar date unconfirmed. **Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo).** [Screening candidate](https://kabutrack.com/stock/calendar/earning-schedule/2026/46/), [Company calendar](https://www.uniontool.co.jp/ir/calendar.html), [Company-linked live calendar feed; no Nov 11 entry found](https://ssl4.eir-parts.net/V4Public/eir/6278/ja/announcement/announcement_20.js)
-
-- **MEC (4971, Japan):** Current company-indexed Japanese calendar lists both Nov 11, 2026 scheduled Q3 release and Zoom briefing. Direct issuer requests still fail certificate verification and research-browser requests return 502/time out. Preserve possible Nov 10–11 PST as an unconfirmed candidate pending direct live confirmation; exact hours remain unknown. **Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo).** [Company-indexed English calendar; live access incomplete](https://www.mec-co.com/en/ir/calendar/), [Screening candidate](https://kabutrack.com/stock/calendar/earning-schedule/2026/46/), [Company-indexed Japanese calendar; release and briefing](https://www.mec-co.com/ir/calendar/)
+- **MEC (4971, Japan):** JPX verifies the Nov 11 JST release date, listed above. The issuer's indexed Japanese calendar separately lists a Nov 11 Zoom results briefing. The live issuer page could not be verified due to certificate and gateway errors. The briefing date remains tentative and the hour unknown. **Possible Tue, Nov 10, 2026 through Wed, Nov 11, 2026 PST; time unpublished (source date 2026-11-11, Asia/Tokyo).** [Company-indexed English calendar; live access incomplete](https://www.mec-co.com/en/ir/calendar/), [Screening candidate](https://kabutrack.com/stock/calendar/earning-schedule/2026/46/), [Company-indexed Japanese calendar; release and briefing](https://www.mec-co.com/ir/calendar/)
 
 - **Technoprobe (TPRO, Europe):** Nov 11 results-call hour unresolved: company says 18:00 CEST (8:00 a.m. PST), while the linked registration uses Europe/Rome (CET on Nov 11; 18:00 there would be 9:00 a.m. PST). The second clock is an interpretation, not independently confirmed. Dated row preserves both; no exact release clock inferred from the board meeting. [Company results-call page; CEST label retained](https://www.technoprobe.com/investors/investor-relations/presentations-and-analyst-coverage), [Company financial calendar; board meeting only](https://www.technoprobe.com/investors/investor-relations/financial-calendar), [Company-linked registration; Rome timezone metadata](https://b1c-co-uk.zoom.us/webinar/register/WN_TKmcPfKLSXGFLm6hJYysAw)
 
-All five selected IBKR lists fetched afresh November 5: US 70, Korea 30, Japan 67, Taiwan 57 and Europe 10 instruments before issuer deduplication (234 total); full symbol contents unchanged. China AI and every other list excluded. Complete selected scope screened using all 32 global calendar pages for Nov 5–12, U.S. Nov 2/9 and Japanese Nov 2/9 weekly calendars, fresh Taiwan issuer conference disclosures and reachable issuer calendars/data feeds. Actual row dates and instrument identities govern; the Polish STX calendar match is unrelated to selected Seagate. Added Japan Nov 12 boundary schedules, Siemens Energy separate release/press/analyst components and GIS-KY Q3 presentation. Fujimi original PDF dated Nov 5 confirms its release date-only range; the separate Nov 12 briefing is not the release. Cisco company Nov 12 replaces the calendar Nov 11 estimate and remains later. Technoprobe call date confirmed but CEST/Rome intent unresolved; literal 8:00 a.m. PST and possible local-time 9:00 a.m. interpretation explicitly separated without choosing an hour. Multiple presentations remain one company row with independent timing/highlights; KINIK multi-day appointment uncertainty retained. Korea direct calendars HTTP 429, fallback 27/30 readable, three unavailable; SK Square estimates conflict. MEC live certificate/browser fetch failures, Union Tool/Furuya/Kitagawa gaps, TOWA tentative date, Infineon preliminary date and ASML denial remain explicit. Previous good history, all prior snapshots and moved-later events retained. Today markers use Nov 5 PST independently for each release/call/presentation, including already-passed components through today.
+All five selected IBKR lists refreshed November 6 and membership matched the prior run. Scope before issuer deduplication was US 70, Korea 30, Japan 67, Taiwan 57 and Europe 10 (234 instruments). China AI and all other lists were excluded. Screening covered all 32 global calendar pages for Nov 6–13, both adjacent U.S. and Japanese weekly calendars, JPX issuer-submitted schedules, Nov 5–6 TDnet disclosures, current Taiwan issuer conference disclosures and reachable company sources. The global calendar's Polish STX entry is unrelated to selected Seagate. Korea direct calendars returned HTTP 429 and fallback coverage was 27 of 30. Direct ASML calendar access returned HTTP 403, and its alternate investor page shows its next results in January. Live MEC briefing verification remains unavailable while its release date is supported by JPX. Infineon remains preliminary and Technoprobe's call hour remains unresolved. Unpublished timing and incomplete coverage remain explicit.
 
 ## Schedule changes
 
@@ -347,6 +321,14 @@ All five selected IBKR lists fetched afresh November 5: US 70, Korea 30, Japan 6
 - **2026-11-05:** Added Siemens Energy release Tue Nov 10 10:00 p.m. PST, press conference 11:00 p.m., and analyst conference Wed Nov 11 2:00 a.m. Technoprobe company Nov 11 call is dated, but 18:00 CEST / Rome timezone intent remains unresolved; no single hour or board-date-derived release timestamp selected.
 
 - **2026-11-05:** Added GIS-KY Q3 presentation Sun Nov 8 10:30 p.m. PST. KINIK additional Nov 12–13 Hong Kong Q3 broker meetings preserved as a possible Nov 11–13 PST range; individual appointments unspecified. Renderer now includes and highlights each additional presentation independently in one company row. Today highlights advance to Nov 5; earlier snapshots unchanged.
+
+- **2026-11-06:** TeraWulf's company release index establishes Fri Nov 6 at 4:00 a.m. PST, replacing the pre-call time range. The separate 5:00 a.m. PST call remains as announced.
+
+- **2026-11-06:** JPX confirms Nov 11 JST results dates for Union Tool and MEC, both possible Nov 10–11 PST. MEC's separately indexed briefing remains tentative.
+
+- **2026-11-06:** TDnet supplies actual release times for Fujimi, Nittobo, JCU, Taiyo Holdings, Hosokawa Micron, Meiko and Nagase. Their releases are now dated precisely in history. TOWA, Furuya Metal and Kitagawa Seiki also move from tentative to historical confirmed releases. Separate presentations retain their own dates.
+
+- **2026-11-06:** Added five Japanese Nov 13 local reporting dates that overlap Nov 12 Pacific, including Ebara at 10:30 p.m. PST. Added Applied Materials and Cerebras for Nov 12 Pacific and brought previously recorded Cisco and Nebius components into the expanded window.
 
 ## Updates and history
 
