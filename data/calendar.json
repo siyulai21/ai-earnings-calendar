@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Los_Angeles",
-  "updated_at_pacific": "2026-11-14 03:34 PM PST",
+  "updated_at_pacific": "2026-11-15 09:10 AM PST",
   "regions": [
     "United States",
     "Korea",
@@ -4131,11 +4131,11 @@
         }
       ],
       "notes": "Consolidated results posted Mon Nov 9 at 10:58 p.m. PST. UBS meetings fall Wed Nov 11 and Thu Nov 12 PST. J.P. Morgan meetings fall Mon Nov 16 and Tue Nov 17 PST. Individual appointment times remain unpublished. A later Taishin briefing is Tue Nov 24 at 11:15 p.m. PST.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Exchange-affiliated presentation disclosure rechecked. Prior issuer meeting windows retained."
+        "attempted_on": "2026-11-15",
+        "status": "Exchange-affiliated schedule and issuer meeting disclosure reconfirmed Q3 conference dates and session windows."
       },
       "presentations": [
         {
@@ -4671,9 +4671,12 @@
         "timezone": "Asia/Tokyo"
       },
       "call": {
-        "note": "Separate call / presentation time unpublished"
+        "type": "presentation",
+        "label": "Q2 online results briefing",
+        "starts_at": "2026-11-16T21:00:00+09:00",
+        "ends_at": "2026-11-16T22:00:00+09:00"
       },
-      "source_timing": "New Japan AI instrument identified through IBKR. Company-linked 2026 IR calendar displays Nov 16 Q2 results. The feed only displays the date; its hidden 16:11 record timestamp is not an event clock.",
+      "source_timing": "Company-linked IR calendar and JPX list Nov 16 JST for results release, date only. The separate issuer notice lists 21:00–22:00 JST for the online Q2 briefing.",
       "sources": [
         {
           "label": "Company calendar",
@@ -4686,14 +4689,18 @@
         {
           "label": "JPX issuer-submitted schedule (November 6 XLSX)",
           "url": "https://www.jpx.co.jp/listing/event-schedules/financial-announcement/tvdivq0000001ofb-att/kessan09_1106.xlsx"
+        },
+        {
+          "label": "Company Q2 briefing notice (Japanese PDF)",
+          "url": "https://www.datasection.co.jp/wp-content/uploads/2026/11/9663a0b30333ae994f5c25c7c475d26c.pdf"
         }
       ],
-      "notes": "The Nov 16 JST release can fall Sun Nov 15 or Mon Nov 16 PST. The range overlaps the rolling window. A hidden feed record timestamp gives no release hour.",
-      "checked_on": "2026-11-14",
+      "notes": "The Nov 16 JST release can fall Sun Nov 15 or Mon Nov 16 PST. Release hour unpublished. The separate online Q2 briefing runs Mon Nov 16 from 4:00 to 5:00 a.m. PST.",
+      "checked_on": "2026-11-15",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Company and JPX schedule dates rechecked. No release clock published."
+        "attempted_on": "2026-11-15",
+        "status": "JPX reconfirmed the date-only release. The issuer’s Nov 13 notice confirms a separate 21:00–22:00 JST briefing."
       }
     },
     {
@@ -5758,10 +5765,10 @@
       ],
       "notes": "Results posted Thu Nov 12 at 11:00 pm PST. The separately scheduled briefing falls on Mon Nov 16 or Tue Nov 17 PST.",
       "confidence": "Issuer/exchange-published dated component. Unpublished timing remains explicit.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Issuer filing confirms the separate Nov 17 JST briefing date. Its hour remains unpublished."
+        "attempted_on": "2026-11-15",
+        "status": "Issuer quarterly results PDF reconfirmed the local analyst briefing date. The briefing hour remains unpublished."
       },
       "schedule_history": [
         {
@@ -6047,10 +6054,10 @@
         }
       ],
       "confidence": "Issuer and exchange date confirmed. Clock unpublished.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Company and JPX schedule dates rechecked. No release clock published."
+        "attempted_on": "2026-11-15",
+        "status": "JPX worksheet and Japanese issuer calendar agree on the local release date. Release clock and briefing timing remain unpublished."
       }
     },
     {
@@ -6093,10 +6100,10 @@
         }
       ],
       "confidence": "Issuer conference dates and results-recap scope disclosed. Individual appointment timing unpublished.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Exchange-affiliated conference notices and the previously published quarterly-results release checked."
+        "attempted_on": "2026-11-15",
+        "status": "Exchange-affiliated schedule reconfirmed both conference ranges and listed opening times. Individual presentation times remain unpublished."
       },
       "presentations": [
         {
@@ -6210,10 +6217,10 @@
         }
       ],
       "confidence": "Issuer-announced date and call clock. Release clock approximate.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Issuer newsroom reconfirmed approximate release and separate call times."
+        "attempted_on": "2026-11-15",
+        "status": "Company newsroom reconfirmed the approximate release time and separate call."
       }
     },
     {
@@ -6249,10 +6256,10 @@
         }
       ],
       "confidence": "Issuer-announced date, release session and call clock.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Issuer release session and separate call time reconfirmed."
+        "attempted_on": "2026-11-15",
+        "status": "Company announcement reconfirmed the after-close release and separate call."
       }
     },
     {
@@ -6405,10 +6412,10 @@
         }
       ],
       "confidence": "Issuer conference notice verifies briefing scope and local clock.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Exchange-affiliated webcast calendar and issuer financial reports checked."
+        "attempted_on": "2026-11-15",
+        "status": "Exchange-affiliated issuer disclosure reconfirmed the Nov 19 local webcast start and first-nine-months results scope."
       }
     },
     {
@@ -6544,10 +6551,10 @@
         }
       ],
       "confidence": "Issuer release date and session verified. Webcast time verified in separate registration.",
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Issuer after-close session and separate Euronext webcast timestamp rechecked."
+        "attempted_on": "2026-11-15",
+        "status": "Issuer’s French release and linked Euronext registration reconfirmed the Paris after-close release and separate 18:30 CET webcast."
       }
     },
     {
@@ -6650,6 +6657,42 @@
       "verification": {
         "attempted_on": "2026-11-13",
         "status": "Original quarterly report and corroborating filing-index clock checked."
+      }
+    },
+    {
+      "id": "SMTC-2027Q3-rolling",
+      "ticker": "SMTC",
+      "company": "Semtech",
+      "region": "United States",
+      "watchlists": [
+        "US AI"
+      ],
+      "release": {
+        "date": "2026-11-23",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-11-23T13:30:00-08:00",
+        "type": "call"
+      },
+      "source_timing": "Issuer November 9 press announcement confirms the Nov 23 after-market-close release and separate 13:30 PT / 16:30 ET call.",
+      "sources": [
+        {
+          "label": "Company Q3 results scheduling announcement",
+          "url": "https://www.semtech.com/company/press/semtech-announces-third-quarter-of-fiscal-year-2027-conference-call"
+        },
+        {
+          "label": "Company investor relations scheduling release",
+          "url": "https://investors.semtech.com/news/semtech-announces-third-quarter-of-fiscal-year-2027-conference-call/195704d1-83ff-45b7-a4d2-fb3cad3498b1"
+        }
+      ],
+      "notes": "Mon Nov 23 after the U.S. market close, exact release minute unpublished. Separate call at 1:30 p.m. PST.",
+      "checked_on": "2026-11-15",
+      "confidence": "Issuer-announced date, release session and call clock.",
+      "verification": {
+        "attempted_on": "2026-11-15",
+        "status": "Both issuer copies of the dated release specify the same time."
       }
     }
   ],
@@ -6782,10 +6825,10 @@
           "url": "https://koreastockinfo.com/stock/402340/earnings/"
         }
       ],
-      "checked_on": "2026-11-14",
+      "checked_on": "2026-11-15",
       "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "Secondary date rechecked. Issuer and DART-linked listing do not establish a scheduled or published Q3 release."
+        "attempted_on": "2026-11-15",
+        "status": "Secondary estimate still lists Nov 16 KST. The issuer and two DART-linked sources still show no announced schedule or Q3 filing."
       },
       "candidate_history": [
         {
@@ -6861,7 +6904,7 @@
       }
     }
   ],
-  "coverage_note": "All five selected IBKR watchlists refreshed Nov 14 after reauthentication. Scope matched Nov 13 before issuer deduplication (US 71, Korea 31, Japan 67, Taiwan 57 and Europe 10, for 236 instruments). Screening used 32 global calendar pages for Nov 14–21, adjacent weekly calendars, JPX results workbooks and TDnet, DART-linked indices, Taiwan conference and material disclosures, and current issuer sources. Public issuer or exchange alternatives were used where direct pages were inaccessible. Confirmation remains incomplete for SK Square’s listing and for unpublished component clocks. Calendar matches for Oracle Commodity Holdings and Union Tool were checked against issuer identity and the actual release date.",
+  "coverage_note": "All five selected IBKR watchlists refreshed Nov 15. Membership matched Nov 14 before issuer deduplication (US 71, Korea 31, Japan 67, Taiwan 57 and Europe 10, for 236 entries). Screening used 36 global calendar pages covering Nov 15–22, U.S. and local weekly calendars, JPX worksheets and TDnet, DART-linked company filing indices, and Taiwan exchange disclosures. Some investor sites blocked direct requests. Public issuer announcements or regulatory sources were used where available. The SK Square date and timing remain tentative, and some presentation and release clocks remain unpublished. The tables reflect events identified in the available sources.",
   "changes": [
     {
       "date": "2026-10-22",
@@ -7202,36 +7245,40 @@
     {
       "date": "2026-11-14",
       "note": "The third-party SK Square estimate moved to Nov 16 KST (possible Sun Nov 15–Mon Nov 16 PST). The issuer date and hour remain unconfirmed."
+    },
+    {
+      "date": "2026-11-15",
+      "note": "Datasection’s Japanese issuer notice establishes a separate Q2 results briefing Mon Nov 16, 4:00–5:00 a.m. PST. The release remains date-only, possible Sun Nov 15 or Mon Nov 16 PST. Semtech’s issuer-confirmed Nov 23 date is recorded under later dates."
     }
   ],
   "coverage": [
     {
       "region": "United States",
-      "screened_on": "2026-11-14",
-      "status": "All 71 instruments freshly fetched and screened against the global and U.S. weekly calendars. NVIDIA and Keysight schedules reconfirmed with issuer sources."
+      "screened_on": "2026-11-15",
+      "status": "All 71 entries screened against U.S. weekly calendars and the global calendar. Issuer announcements reconfirm NVIDIA and Keysight in the window and Semtech for Nov 23."
     },
     {
       "region": "Korea",
-      "screened_on": "2026-11-14",
-      "status": "All 31 instruments freshly fetched and screened against a DART-linked company filing index and public calendars. SK Square’s revised third-party listing remains unconfirmed against the issuer and filing index. Individual schedules remain incomplete where issuer disclosures are unavailable."
+      "screened_on": "2026-11-15",
+      "status": "All 31 entries screened against DART-linked issuer filing indices and public calendars. The Nov 16 KST estimate for SK Square remains unconfirmed. Individual schedules are incomplete where issuer announcements are unavailable."
     },
     {
       "region": "Japan",
-      "screened_on": "2026-11-14",
-      "status": "All 67 instruments freshly fetched and screened against current JPX worksheets, local weekly calendars and the Nov 14–15 JST TDnet indices. Datasection and Ferrotec remain date-only. Seikoh Giken’s separate briefing hour remains unpublished."
+      "screened_on": "2026-11-15",
+      "status": "All 67 entries screened against JPX worksheets, local calendars and the available Nov 15–16 JST TDnet indices. The separate Datasection briefing time was found in its Japanese issuer notice. Release times for Datasection and Ferrotec and the briefing hour for Seikoh Giken remain unpublished."
     },
     {
       "region": "Taiwan",
-      "screened_on": "2026-11-14",
-      "status": "All 57 instruments freshly fetched and screened against local calendars, the exchange-affiliated conference list, TWSE and TPEx feeds, and recent material disclosures. Results presentations were kept distinct from generic investor appearances."
+      "screened_on": "2026-11-15",
+      "status": "All 57 entries screened against the exchange-affiliated conference calendar, TWSE and TPEx feeds and local calendars. Generic conference appearances and presentations without established results scope remain outside the confirmed results table."
     },
     {
       "region": "Europe",
-      "screened_on": "2026-11-14",
-      "status": "All 10 instruments freshly fetched and screened. Soitec’s results date, release session and separate webcast were reconfirmed. The ASMPT investor calendar lists general conference appearances for the in-window dates without quarterly results scope."
+      "screened_on": "2026-11-15",
+      "status": "All 10 entries screened against global results listings and company calendars or results pages. Issuer sources reconfirm Soitec. ASMPT’s issuer calendar lists general conference appearances without quarterly results scope."
     }
   ],
   "window_type": "rolling_7_days",
-  "window_start": "2026-11-14",
-  "window_end": "2026-11-20"
+  "window_start": "2026-11-15",
+  "window_end": "2026-11-21"
 }
