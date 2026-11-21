@@ -1,10 +1,10 @@
 # AI earnings calendar
 
-**Next 7 days: Fri, Nov 20, 2026–Thu, Nov 26, 2026 · Verified: 2026-11-20 10:33 AM PST**
+**Next 7 days: Sat, Nov 21, 2026–Fri, Nov 27, 2026 · Verified: 2026-11-21 09:07 AM PST**
 
 The window includes today and the following six Pacific calendar dates. It advances every day, including Sundays. Today’s already-passed times remain until the next day; earlier dates are preserved in history.
 
-**Today markers — Fri, Nov 20, 2026 (Pacific):** 🟢 **TODAY** = the scheduled release, call, or presentation falls on this date. 🟡 **POSSIBLY TODAY** = its possible timing range overlaps today and another date. Markers apply separately to each event column; a company is green if at least one component is today. Unknown timing stays unknown. Highlights advance with each daily refresh; snapshots retain their original date.
+**Today markers — Sat, Nov 21, 2026 (Pacific):** 🟢 **TODAY** = the scheduled release, call, or presentation falls on this date. 🟡 **POSSIBLY TODAY** = its possible timing range overlaps today and another date. Markers apply separately to each event column; a company is green if at least one component is today. Unknown timing stays unknown. Highlights advance with each daily refresh; snapshots retain their original date.
 
 All dates, weekdays, and clock times are in **America/Los_Angeles (Pacific time)**. PDT/PST adjusts with daylight saving time. Midnight means the start of the stated date.
 
@@ -12,7 +12,7 @@ Regions follow the selected IBKR watchlist groups: US AI, Korean AI, Japan AI, T
 
 Results releases and earnings calls are separate events. Before/after market open/close uses the relevant exchange; U.S. regular hours are 6:30 a.m.–1:00 p.m. Pacific. Session labels do not establish an exact release minute.
 
-**12 identified company results schedules overlap this window.** A row is included when either its release or call/presentation overlaps. Date-only ranges may overlap; they do not confirm one Pacific date. Dates and times reflect cited schedules, not certification that an event occurred.
+**11 identified company results schedules overlap this window.** A row is included when either its release or call/presentation overlaps. Date-only ranges may overlap; they do not confirm one Pacific date. Dates and times reflect cited schedules, not certification that an event occurred.
 
 [United States](#united-states) · [Korea](#korea) · [Japan](#japan) · [Taiwan](#taiwan) · [Europe](#europe)
 
@@ -26,11 +26,7 @@ Results releases and earnings calls are separate events. Before/after market ope
 
 ## Korea
 
-| Company | Ticker | Results release — Pacific | Call / presentation — Pacific | Sources |
-|---|---|---|---|---|
-| 🟡 **POSSIBLY TODAY** · **Dongjin Semichem** | 005290 | Mon, Nov 02, 2026 · 9:18 pm PST | Separate public call schedule unpublished<br>CITIC CLSA Q3 results meetings, Nov 19 KST: Window: Wed, Nov 18, 2026 · 4:00 pm PST through Thu, Nov 19, 2026 · 1:00 am PST; Disclosed institutional meeting hours. Individual appointments are unpublished. (presentation)<br>🟡 **POSSIBLY TODAY** — CITIC CLSA Q3 results meetings, Nov 20 KST: Window: Thu, Nov 19, 2026 · 4:00 pm PST through Fri, Nov 20, 2026 · 1:00 am PST; Disclosed institutional meeting hours. Individual appointments are unpublished. (presentation) | [Company Q3 briefing materials page](https://www.dongjin.com/investment/announcement_view.php?page=1&seq=171), [Original DART institutional meetings announcement](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116900630), [Full issuer filing reproduced with agenda and time window](https://samara.kr/disclosure/20261116900630), [Reproduced DART notice specifying the daily meeting hours](https://dartbrief.com/disclosures/20261116900630), [Original preliminary Q3 results filing](https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261103900296), [DART-linked history with preliminary results posting timestamp](https://www.awakeplus.co.kr/disclosure/005290?all=1&d=0) |
-
-- **005290:** Preliminary Q3 results posted Mon Nov 2 at 9:18 p.m. PST. The two institutional Q3 meeting windows are Wed Nov 18 4:00 p.m. through Thu Nov 19 1:00 a.m. PST and Thu Nov 19 4:00 p.m. through Fri Nov 20 1:00 a.m. PST.
+No company-confirmed earnings event identified in this window; see unresolved dates below.
 
 ## Japan
 
@@ -90,7 +86,7 @@ No company-confirmed earnings event identified in this window; see unresolved da
 
 - **Technoprobe (TPRO, Europe):** Historical Nov 11 results-call hour unresolved. The invitation gave 18:00 CEST (8:00 a.m. PST). The registration used Europe/Rome, and the results release gave 18:00 without an offset (9:00 a.m. PST if interpreted as Rome local time). The 8:40 a.m. PST release is separately verified. [Company results-call page; CEST label retained](https://www.technoprobe.com/investors/investor-relations/presentations-and-analyst-coverage), [Company financial calendar; board meeting only](https://www.technoprobe.com/investors/investor-relations/financial-calendar), [Company-linked registration; Rome timezone metadata](https://b1c-co-uk.zoom.us/webinar/register/WN_TKmcPfKLSXGFLm6hJYysAw), [Issuer 9M results release, with separate call notice](https://www.technoprobe.com/wp-content/uploads/2026/11/PR-9M-2026.pdf)
 
-All five selected IBKR watchlists refreshed Nov 20. Membership matched Nov 19 (US 72, Korea 31, Japan 67, Taiwan 57 and Europe 10, for 237 entries before issuer deduplication). Screening used 56 global calendar pages for Nov 20–27, regional calendars, current JPX workbooks, TDnet, DART-linked company filing pages, and TWSE and TPEx disclosures. Some direct investor pages were inaccessible and alternate issuer or exchange pages were checked. Exact times remain unpublished for some results releases and conference appointments.
+All five selected IBKR watchlists refreshed Nov 21. Membership matched Nov 20 (US 72, Korea 31, Japan 67, Taiwan 57 and Europe 10, for 237 entries before issuer deduplication). Screening used 48 global calendar pages for Nov 21–28, regional calendars, current JPX workbooks, DART-linked company filing pages, and TWSE and TPEx disclosures. TDnet showed no Nov 21 JST disclosures and its Nov 22 JST index was unavailable when checked. Current JPX schedules and local issuer calendars provided alternative checks. Some release minutes and individual conference appointment times remain unpublished.
 
 ## Schedule changes
 
