@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Los_Angeles",
-  "updated_at_pacific": "2026-11-21 09:07 AM PST",
+  "updated_at_pacific": "2026-11-22 09:08 AM PST",
   "regions": [
     "United States",
     "Korea",
@@ -1208,10 +1208,10 @@
           "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=623920261106E001.pdf&functionName=t100sb02_1"
         }
       ],
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed the Citi conference time and linked Q3 deck."
       },
       "presentations": [
@@ -1302,10 +1302,10 @@
           "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=230320261028E001.pdf&functionName=t100sb02_1"
         }
       ],
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed the Citi conference dates and quarterly review materials."
       },
       "presentations": [
@@ -1340,20 +1340,35 @@
         "at": "2026-10-29T16:00:00+08:00",
         "type": "presentation"
       },
-      "source_timing": "Taiwan exchange-affiliated conference disclosure: Q3 financial / operating presentation 2026-10-29T16:00:00+08:00 (Asia/Taipei).",
+      "source_timing": "Taiwan exchange-affiliated conference disclosure: Q3 financial / operating presentation 2026-10-29T16:00:00+08:00 (Asia/Taipei). The Citi Corporate Day disclosure lists Nov 24 at 14:00 Taipei and links the issuer's Q3 overview with a quarterly income statement and balance-sheet summary.",
       "sources": [
         {
           "label": "Schedule source",
           "url": "https://irengage.taiwanindex.com.tw/conferenceList"
+        },
+        {
+          "label": "Issuer schedule in the November exchange calendar",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        },
+        {
+          "label": "Issuer slides linked from the exchange",
+          "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=232720261105E001.pdf&functionName=t100sb02_1"
         }
       ],
-      "checked_on": "2026-10-28",
+      "checked_on": "2026-11-22",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-10-29",
-        "status": "partial",
-        "note": "Prior source-checked timing retained where live source text was inaccessible or did not independently re-establish every component."
-      }
+        "attempted_on": "2026-11-22",
+        "status": "Issuer disclosure and linked slides establish the new conference time and coverage of previously published Q3 results."
+      },
+      "presentations": [
+        {
+          "at": "2026-11-24T14:00:00+08:00",
+          "type": "presentation",
+          "label": "Citi Corporate Day Q3 results recap"
+        }
+      ],
+      "notes": "The Citi session is Mon Nov 23 at 10:00 p.m. PST and reviews previously published Q3 results."
     },
     {
       "id": "ASM-2026Q3-rolling",
@@ -3161,10 +3176,10 @@
           "url": "https://www.hosokawamicron.co.jp/jp/ir/calendar.html"
         }
       ],
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "confidence": "Issuer/filing-confirmed dated component; unpublished or uncertain components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Japanese issuer calendar reconfirmed Nov 24 JST from 13:30 to 14:30."
       },
       "notes": "Results posted Thu Nov 5 at 10:30 p.m. PST. The separate analyst briefing is Mon Nov 23 from 8:30 to 9:30 p.m. PST.",
@@ -3377,20 +3392,31 @@
         "at": "2026-11-06T17:00:00+08:00",
         "type": "presentation"
       },
-      "source_timing": "Exchange-affiliated issuer disclosure: Nov 6, 2026 at 17:00 Taipei, Macquarie-hosted online 3Q26 financial-results presentation.",
+      "source_timing": "Exchange-affiliated issuer disclosure: Nov 6, 2026 at 17:00 Taipei, Macquarie-hosted online 3Q26 financial-results presentation. The Nov 27 Fubon forum is listed for 13:30 Taipei. The attached issuer slides are its 2026 Q3 financial-results deck.",
       "sources": [
         {
           "label": "Issuer conference disclosure; November filter",
           "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        },
+        {
+          "label": "Issuer slides linked from the exchange",
+          "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=829920261106E001.pdf&functionName=t100sb02_1"
         }
       ],
-      "notes": "Fri Nov 6 1:00 a.m. PST results presentation now enters the window. A broker-hosted quarterly-results presentation does not establish a standalone release timestamp.",
-      "checked_on": "2026-11-06",
+      "notes": "The previous Nov 6 presentation is historical. The Fubon Q3 recap is Thu Nov 26 at 9:30 p.m. PST.",
+      "checked_on": "2026-11-22",
       "confidence": "Company/exchange-published dated schedule; unpublished release minutes remain explicit",
       "verification": {
-        "attempted_on": "2026-11-06",
-        "status": "Dated issuer/exchange sources rechecked. Unpublished timing remains explicit."
-      }
+        "attempted_on": "2026-11-22",
+        "status": "Issuer disclosure and linked slides establish the new conference time and coverage of previously published Q3 results."
+      },
+      "presentations": [
+        {
+          "at": "2026-11-27T13:30:00+08:00",
+          "type": "presentation",
+          "label": "Fubon forum Q3 results recap"
+        }
+      ]
     },
     {
       "id": "5344-2026Q2-historical",
@@ -4240,10 +4266,10 @@
         }
       ],
       "notes": "Consolidated results posted Mon Nov 9 at 10:58 p.m. PST. UBS meetings fall Wed Nov 11 and Thu Nov 12 PST. J.P. Morgan meetings fall Mon Nov 16 and Tue Nov 17 PST. Individual appointment times remain unpublished. A later Taishin briefing is Tue Nov 24 at 11:15 p.m. PST.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed Nov 25 at 15:15 Taiwan time."
       },
       "presentations": [
@@ -4623,10 +4649,10 @@
         }
       ],
       "notes": "Results posted Tue Nov 10 at 8:00 p.m. PST. The separate briefing is Wed Nov 25 at 5:00 p.m. PST.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Japanese issuer calendar reconfirmed the Nov 26 10:00 JST results briefing."
       }
     },
@@ -6853,10 +6879,10 @@
         }
       ],
       "notes": "Mon Nov 23 after the U.S. market close, exact release minute unpublished. Separate call at 1:30 p.m. PST.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "confidence": "Issuer-announced date, release session and call clock.",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Issuer still lists the after-close Nov 23 results release and a separate 1:30 p.m. PST call."
       }
     },
@@ -6995,9 +7021,9 @@
       ],
       "source_timing": "The issuer lists Nov 19 13:50, Nov 20 11:00, Nov 23 13:00 and Nov 24 15:30 local Taiwan time. Each disclosure links the 2026 Third Quarter Investor Presentation.",
       "notes": "These conference sessions reference previously released Q3 results. The dates and clocks are the issuer’s listed event times. Multi-day listings leave individual appointments unpublished.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed the Q3 recap dates and linked materials."
       }
     },
@@ -7090,9 +7116,9 @@
       ],
       "source_timing": "The Hong Kong disclosure lists Nov 24 at 10:00 HKT and links the Oct 28 Q3 earnings conference materials.",
       "notes": "These conference sessions reference previously released Q3 results. The dates and clocks are the issuer’s listed event times. Multi-day listings leave individual appointments unpublished.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed the listed Hong Kong conference time."
       }
     },
@@ -7143,9 +7169,9 @@
       ],
       "source_timing": "Hong Kong Nov 16–17 at 08:15 HKT. The earlier-disclosed financial results to be discussed are identified by the issuer attachment titled Unimicron 2026 Q3 Earnings Conference. The Taipei disclosures list Nov 24 at 10:00 and Nov 25 at 14:00 Taiwan time. Both attach the Q3 earnings conference slides and specify a review of published financials.",
       "notes": "The newly listed Q3 recaps are Mon Nov 23 at 6:00 p.m. PST and Tue Nov 24 at 10:00 p.m. PST.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed the two Taipei recap dates and clocks."
       }
     },
@@ -7208,9 +7234,9 @@
       ],
       "source_timing": "Singapore Nov 18–19 at 08:30 SGT. The issuer notice specifies performance discussion and links the November presentation with a detailed Q3 earnings review. Taipei Nov 23–24 at 09:00 Taiwan time. The exchange notice specifies a performance discussion and links updated slides covering Q3 results.",
       "notes": "The Singapore and Taipei events include a review of previously released Q3 results. Individual presentation times remain unpublished.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Exchange-affiliated issuer calendar reconfirmed the Taipei conference date range."
       }
     },
@@ -7320,34 +7346,177 @@
       ],
       "notes": "Nanya’s Q3 results were published in October. The Citi Corporate Day recap is Sun Nov 22 at 5:00 p.m. PST.",
       "confidence": "Issuer quarterly release date, conference listing and the attached Q3 results presentation were verified.",
-      "checked_on": "2026-11-21",
+      "checked_on": "2026-11-22",
       "verification": {
-        "attempted_on": "2026-11-21",
+        "attempted_on": "2026-11-22",
         "status": "Issuer results date and published conference materials establish Q3 recap scope and the Nov 23 local schedule."
+      }
+    },
+    {
+      "id": "356860-2026Q3-rolling",
+      "ticker": "356860",
+      "company": "TLB",
+      "region": "Korea",
+      "watchlists": [
+        "Korean AI"
+      ],
+      "release": {
+        "at": "2026-11-05T16:10:00+09:00",
+        "note": "Preliminary Q3 results filing posted at the minute indexed by the DART-linked feed."
+      },
+      "call": {
+        "note": "Separate public earnings call unpublished"
+      },
+      "presentations": [
+        {
+          "starts_at": "2026-11-24T09:00:00+09:00",
+          "ends_at": "2026-11-25T16:00:00+09:00",
+          "type": "presentation",
+          "label": "Institutional Q3 results meetings",
+          "note": "Outer bounds of two meeting dates. Individual appointments are unpublished."
+        }
+      ],
+      "source_timing": "Original Nov 16 DART notice lists local meeting dates Nov 24 and Nov 25 and clocks 09:00 and 16:00 in Seoul. Its agenda is a discussion of previously disclosed results. The Nov 5 preliminary filing is distinct, and the DART-linked index gives a 16:10 KST posting minute.",
+      "notes": "The results recap meetings span Mon Nov 23 and Tue Nov 24 PST. The first listed opening is Mon at 4:00 p.m. and the last listed close is Tue at 11:00 p.m. These are meeting bounds.",
+      "sources": [
+        {
+          "label": "Original DART results-meeting filing",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116900913"
+        },
+        {
+          "label": "DART filing body with dates, hours and agenda",
+          "url": "https://dart.fss.or.kr/report/viewer.do?rcpNo=20261116900913&dcmNo=11658677&eleId=0&offset=0&length=0&dtd=HTML"
+        },
+        {
+          "label": "Original DART preliminary Q3 results",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261105900643"
+        },
+        {
+          "label": "DART-linked filing history and release posting time",
+          "url": "https://www.awakeplus.co.kr/disclosure/356860?all=1&d=0"
+        },
+        {
+          "label": "Korea Exchange IR materials",
+          "url": "https://kind.krx.co.kr/corpgeneral/irschedule.do?gubun=iRMaterials&method=searchIRScheduleMain"
+        }
+      ],
+      "confidence": "Company-filed meeting dates and timing bounds. Individual meeting times unpublished.",
+      "checked_on": "2026-11-22",
+      "verification": {
+        "attempted_on": "2026-11-22",
+        "status": "Company-filed meeting dates and timing bounds. Individual meeting times unpublished."
+      }
+    },
+    {
+      "id": "3044-2026Q3-rolling",
+      "ticker": "3044",
+      "company": "Tripod Technology",
+      "region": "Taiwan",
+      "watchlists": [
+        "Taiwan AI"
+      ],
+      "release": {
+        "note": "Separate release timestamp unpublished in the conference sources"
+      },
+      "call": {
+        "at": "2026-11-23T09:00:00+08:00",
+        "type": "presentation",
+        "label": "Citi Corporate Day Q3 results recap"
+      },
+      "source_timing": "The company lists Nov 23 at 09:00 Taipei. The linked investor slides contain a consolidated quarterly income statement, including Q3 2026.",
+      "notes": "This Citi investor presentation reviews already published Q3 results. It is Sun Nov 22 at 5:00 p.m. PST.",
+      "sources": [
+        {
+          "label": "Issuer schedule in the November exchange calendar",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        },
+        {
+          "label": "Issuer slides linked from the exchange",
+          "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=304420261120E001.pdf&functionName=t100sb02_1"
+        }
+      ],
+      "confidence": "Issuer-filed event time and attached quarterly-results materials.",
+      "checked_on": "2026-11-22",
+      "verification": {
+        "attempted_on": "2026-11-22",
+        "status": "Issuer-filed event time and attached quarterly-results materials."
+      }
+    },
+    {
+      "id": "2449-2026Q3-rolling",
+      "ticker": "2449",
+      "company": "King Yuan Electronics",
+      "region": "Taiwan",
+      "watchlists": [
+        "Taiwan AI"
+      ],
+      "release": {
+        "note": "Separate release timestamp unpublished in the conference sources"
+      },
+      "call": {
+        "local_date": "2026-11-23",
+        "local_end_date": "2026-11-24",
+        "timezone": "Asia/Taipei",
+        "type": "presentation",
+        "label": "Citi Corporate Day Q3 results recap",
+        "note": "The issuer lists a 09:00 Taipei opening. Individual appointments are unpublished."
+      },
+      "source_timing": "The issuer lists Nov 23–24 and 09:00 Taipei for Citi Corporate Day. The attached November deck presents Q3 and Q2 2026 financial results, including gross margin, EBITDA and EPS.",
+      "notes": "The Taipei dates can overlap Sun Nov 22 through Tue Nov 24 PST. The listed opening converts to Sun Nov 22 at 5:00 p.m. PST, with no confirmed company appointment time.",
+      "sources": [
+        {
+          "label": "Issuer schedule in the November exchange calendar",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        },
+        {
+          "label": "Issuer slides linked from the exchange",
+          "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=244920261111E001.pdf&functionName=t100sb02_1"
+        }
+      ],
+      "confidence": "Issuer-filed conference dates and attached quarterly-results materials. Individual appointment timing unknown.",
+      "checked_on": "2026-11-22",
+      "verification": {
+        "attempted_on": "2026-11-22",
+        "status": "Issuer-filed conference dates and attached quarterly-results materials. Individual appointment timing unknown."
+      }
+    },
+    {
+      "id": "0158S0-2026Q3-filing",
+      "ticker": "0158S0",
+      "company": "Elice Group",
+      "region": "Korea",
+      "watchlists": [
+        "Korean AI"
+      ],
+      "release": {
+        "local_date": "2026-11-16",
+        "timezone": "Asia/Seoul",
+        "note": "Date of the public Q3 quarterly report."
+      },
+      "call": {
+        "note": "Separate earnings call timing unpublished"
+      },
+      "source_timing": "Original DART quarterly report is dated Nov 16, 2026 KST for the period ended Sep 30. The filing establishes a historical quarterly-report date independently of the prior statutory deadline estimate.",
+      "notes": "Historical quarterly report. Its Korean filing date overlaps Nov 15–16 PST.",
+      "sources": [
+        {
+          "label": "Original DART quarterly report",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261116001525"
+        },
+        {
+          "label": "DART-linked quarterly report index",
+          "url": "https://www.awakeplus.co.kr/data/view/20261116001525"
+        }
+      ],
+      "confidence": "Original company quarter-end filing date.",
+      "checked_on": "2026-11-22",
+      "verification": {
+        "attempted_on": "2026-11-22",
+        "status": "Original company quarter-end filing date."
       }
     }
   ],
   "unresolved": [
-    {
-      "company": "Elice",
-      "ticker": "0158S0",
-      "region": "Korea",
-      "note": "No company earnings date verified. A secondary source lists a Nov 16 KST statutory filing deadline, which gives no issuer-specific announcement date.",
-      "sources": [
-        {
-          "label": "Statutory deadline only",
-          "url": "https://www.chickstockfi.com/stocks/0158S0/earnings"
-        }
-      ],
-      "watchlists": [
-        "Korean AI"
-      ],
-      "verification": {
-        "attempted_on": "2026-11-14",
-        "status": "DART-linked issuer index checked. No issuer-confirmed earnings schedule located."
-      },
-      "checked_on": "2026-11-14"
-    },
     {
       "company": "Nicca Chemical",
       "ticker": "4463",
@@ -7455,7 +7624,7 @@
       }
     }
   ],
-  "coverage_note": "All five selected IBKR watchlists refreshed Nov 21. Membership matched Nov 20 (US 72, Korea 31, Japan 67, Taiwan 57 and Europe 10, for 237 entries before issuer deduplication). Screening used 48 global calendar pages for Nov 21–28, regional calendars, current JPX workbooks, DART-linked company filing pages, and TWSE and TPEx disclosures. TDnet showed no Nov 21 JST disclosures and its Nov 22 JST index was unavailable when checked. Current JPX schedules and local issuer calendars provided alternative checks. Some release minutes and individual conference appointment times remain unpublished.",
+  "coverage_note": "All five selected IBKR watchlists refreshed Nov 22. Membership matched Nov 21 (US 72, Korea 31, Japan 67, Taiwan 57 and Europe 10, for 237 entries before issuer deduplication). Screening used 47 global calendar pages for Nov 22–29, current JPX workbooks, TDnet, DART and Korea Exchange sources, TWSE and TPEx disclosures, and regional and issuer calendars. Taiwan conference notices were checked against issuer slides for quarterly results. Zhen Ding’s company site could not be rechecked directly. Its issuer notices and linked materials on the exchange were available. Some release minutes and the timing of individual conference appointments remain unpublished.",
   "changes": [
     {
       "date": "2026-10-22",
@@ -7820,36 +7989,48 @@
     {
       "date": "2026-11-20",
       "note": "Added Nanya Technology’s Citi Q3 recap on Sun Nov 22 at 5:00 p.m. PST. The timestamped wire release establishes that Keysight posted results Thu Nov 19 at 1:05 p.m. PST."
+    },
+    {
+      "date": "2026-11-22",
+      "note": "Added TLB’s institutional Q3 results meetings on Mon Nov 23 and Tue Nov 24 PST. The DART filing gives meeting bounds and leaves individual appointments unpublished."
+    },
+    {
+      "date": "2026-11-22",
+      "note": "Exchange disclosures and linked Q3 financial materials add Tripod Technology’s Sun Nov 22 5:00 p.m. PST recap, Yageo’s Mon Nov 23 10:00 p.m. PST recap and Phison’s Thu Nov 26 9:30 p.m. PST recap. King Yuan Electronics’ Citi meetings can overlap Nov 22–24 PST, with individual appointments unpublished."
+    },
+    {
+      "date": "2026-11-22",
+      "note": "Elice Group’s original Nov 16 KST quarterly report resolves the earlier statutory-deadline candidate. The verified report date is retained as history."
     }
   ],
   "coverage": [
     {
       "region": "United States",
-      "screened_on": "2026-11-21",
-      "status": "All 72 entries screened against global and U.S. weekly calendars. Semtech reconfirmed the Nov 23 after-close release and separate call. MarketBeat denied direct access. Independent global and U.S. calendars were used."
+      "screened_on": "2026-11-22",
+      "status": "All 72 entries screened against global and U.S. calendars. Semtech reconfirmed. MarketBeat denied direct access; other U.S. and global schedules were checked."
     },
     {
       "region": "Korea",
-      "screened_on": "2026-11-21",
-      "status": "All 31 entries screened against DART-linked company filing pages and Korean IR calendars. No company-confirmed schedule was identified in this window."
+      "screened_on": "2026-11-22",
+      "status": "All 31 entries screened against DART-linked company pages, the local IR calendar and exchange materials. Original DART confirms TLB’s results meetings. Hanmi and TCK notices describe strategy or general operating discussions. Elice’s historical report was verified."
     },
     {
       "region": "Japan",
-      "screened_on": "2026-11-21",
-      "status": "All 67 entries screened against current JPX workbooks, available TDnet disclosures and Japanese calendars. Hosokawa Micron and ADEKA reconfirmed their briefings. TDnet’s Nov 22 JST index returned HTTP 404 when checked."
+      "screened_on": "2026-11-22",
+      "status": "All 67 entries screened against current JPX calendars and local sources. Both Nov 22 and Nov 23 JST TDnet indexes were available when checked and showed no disclosures at that time. Hosokawa Micron and ADEKA issuer schedules were reconfirmed."
     },
     {
       "region": "Taiwan",
-      "screened_on": "2026-11-21",
-      "status": "All 57 entries screened against the issuer conference calendar, TWSE and TPEx disclosures and local calendars. Listed Q3 recaps and supporting materials were cross-checked. Individual appointment times are unpublished for some multi-day conferences."
+      "screened_on": "2026-11-22",
+      "status": "All 57 entries screened against the exchange-affiliated conference calendar, TWSE and TPEx disclosures and a separate Taiwan calendar. Four additional results recaps have issuer materials showing Q3 financial results. For other appearances, general operating agendas, revenue-only slides or older half-year material did not establish a Q3 results presentation. Zhen Ding’s domain returned certificate/fetch errors; issuer notices and slides were verified via the exchange."
     },
     {
       "region": "Europe",
-      "screened_on": "2026-11-21",
-      "status": "All 10 entries screened against global and issuer calendars. ASML denied direct access. Its browsable financial calendar was checked. No company-confirmed schedule was identified in this window."
+      "screened_on": "2026-11-22",
+      "status": "All 10 entries screened against global and issuer calendars. ASML denied direct access; its alternate company investor pages were checked. No company-confirmed schedule was identified in this window."
     }
   ],
   "window_type": "rolling_7_days",
-  "window_start": "2026-11-21",
-  "window_end": "2026-11-27"
+  "window_start": "2026-11-22",
+  "window_end": "2026-11-28"
 }
