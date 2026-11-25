@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "timezone": "America/Los_Angeles",
-  "updated_at_pacific": "2026-11-24 09:49 AM PST",
+  "updated_at_pacific": "2026-11-25 09:07 AM PST",
   "regions": [
     "United States",
     "Korea",
@@ -317,13 +317,13 @@
           "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=310520261102E002.pdf&functionName=t100sb02_1"
         }
       ],
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "confidence": "company-confirmed date/call; see release timing and source notes",
       "watchlists": [
         "Taiwan AI"
       ],
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Verified the issuer’s roadshow dates, opening field and linked Q3 deck. Individual times unpublished."
       },
       "presentations": [
@@ -1359,7 +1359,7 @@
         "at": "2026-10-29T16:00:00+08:00",
         "type": "presentation"
       },
-      "source_timing": "Taiwan exchange-affiliated conference disclosure: Q3 financial / operating presentation 2026-10-29T16:00:00+08:00 (Asia/Taipei). The Citi Corporate Day disclosure lists Nov 24 at 14:00 Taipei and links the issuer's Q3 overview with a quarterly income statement and balance-sheet summary. The Taishin forum notice lists Nov 26 at 14:00 Taipei and links the same Q3 materials as Citi.",
+      "source_timing": "Taiwan exchange-affiliated conference disclosure: Q3 financial / operating presentation 2026-10-29T16:00:00+08:00 (Asia/Taipei). The Citi Corporate Day disclosure lists Nov 24 at 14:00 Taipei and links the issuer's Q3 overview with a quarterly income statement and balance-sheet summary. The Taishin forum notice lists Nov 26 at 14:00 Taipei and links the same Q3 materials as Citi. The issuer lists the joint Tech Tour on Dec 1 at 15:00 Taipei and links its Q3 quarterly income statement and balance-sheet deck.",
       "sources": [
         {
           "label": "Schedule source",
@@ -1372,13 +1372,17 @@
         {
           "label": "Issuer slides linked from the exchange",
           "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=232720261105E001.pdf&functionName=t100sb02_1"
+        },
+        {
+          "label": "Issuer notice in the December exchange calendar",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=12"
         }
       ],
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "confidence": "Source-backed scheduled event; unknown release timing stated separately",
       "verification": {
-        "attempted_on": "2026-11-24",
-        "status": "The November exchange listing and its attached issuer slides confirm the new presentation date, clock and quarterly results material."
+        "attempted_on": "2026-11-25",
+        "status": "The December conference notice specifies the time and links issuer financial materials for Q3."
       },
       "presentations": [
         {
@@ -1390,9 +1394,14 @@
           "at": "2026-11-26T14:00:00+08:00",
           "type": "presentation",
           "label": "Taishin forum Q3 results recap"
+        },
+        {
+          "at": "2026-12-01T15:00:00+08:00",
+          "type": "presentation",
+          "label": "Jefferies and Fubon Q3 results recap"
         }
       ],
-      "notes": "The Citi and Taishin recaps of published Q3 results are Mon Nov 23 and Wed Nov 25, both at 10:00 p.m. PST."
+      "notes": "The Citi and Taishin recaps of published Q3 results are Mon Nov 23 and Wed Nov 25, both at 10:00 p.m. PST. The additional Jefferies and Fubon Q3 recap is Mon Nov 30 at 11:00 p.m. PST."
     },
     {
       "id": "ASM-2026Q3-rolling",
@@ -3433,10 +3442,10 @@
         }
       ],
       "notes": "The previous Nov 6 presentation is historical. The Fubon Q3 recap is Thu Nov 26 at 9:30 p.m. PST.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "confidence": "Company/exchange-published dated schedule; unpublished release minutes remain explicit",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Issuer disclosure and linked slides establish the new conference time and coverage of previously published Q3 results."
       },
       "presentations": [
@@ -4267,7 +4276,7 @@
         "at": "2026-11-10T15:00:00+08:00",
         "type": "presentation"
       },
-      "source_timing": "TWSE timestamps the Q3 results disclosure Nov 10 at 14:58:32 Taipei time. Issuer notices list the Taipei presentation Nov 10 15:00 UTC+8. UBS Hong Kong meetings Nov 12 13:00–15:50 and Nov 13 10:00–15:50. J.P. Morgan Hong Kong meetings Nov 17 13:00–15:50 and Nov 18 09:00–11:50. All four windows are Hong Kong time. The issuer also lists its Taishin Q3 briefing for Nov 25 at 15:15 Taipei time.",
+      "source_timing": "TWSE timestamps the Q3 results disclosure Nov 10 at 14:58:32 Taipei time. Issuer notices list the Taipei presentation Nov 10 15:00 UTC+8. UBS Hong Kong meetings Nov 12 13:00–15:50 and Nov 13 10:00–15:50. J.P. Morgan Hong Kong meetings Nov 17 13:00–15:50 and Nov 18 09:00–11:50. All four windows are Hong Kong time. The issuer also lists its Taishin Q3 briefing for Nov 25 at 15:15 Taipei time. The Yuanta Q4 investment forum listing says Dec 2 at 15:00 Taipei and specifies a review of the company’s Q3 financial and business results.",
       "sources": [
         {
           "label": "TWSE material announcement feed with posting timestamp",
@@ -4292,14 +4301,26 @@
         {
           "label": "Exchange-linked Q3 slides for Taishin forum",
           "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=156020261110E001.pdf&functionName=t100sb02_1"
+        },
+        {
+          "label": "Issuer notice in the December exchange calendar",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=12"
+        },
+        {
+          "label": "Issuer Q3 results materials linked from the Yuanta notice",
+          "url": "https://mopsov.twse.com.tw/server-java/FileDownLoad?step=9&filePath=%2Fhome%2Fhtml%2Fnas%2FSTR%2F&fileName=156020261120E001.pdf&functionName=t100sb02_1"
+        },
+        {
+          "label": "Reproduction of the issuer’s Nov 20 filing with local schedule",
+          "url": "https://newjust.masterlink.com.tw/z/zf/zfz/zfz_698F8A1F-FE6A-4A26-B222-A536F56182C4.djhtm"
         }
       ],
-      "notes": "Consolidated results posted Mon Nov 9 at 10:58 p.m. PST. UBS meetings fall Wed Nov 11 and Thu Nov 12 PST. J.P. Morgan meetings fall Mon Nov 16 and Tue Nov 17 PST. Individual appointment times remain unpublished. A later Taishin briefing is Tue Nov 24 at 11:15 p.m. PST.",
-      "checked_on": "2026-11-24",
+      "notes": "Consolidated results posted Mon Nov 9 at 10:58 p.m. PST. UBS meetings fall Wed Nov 11 and Thu Nov 12 PST. J.P. Morgan meetings fall Mon Nov 16 and Tue Nov 17 PST. Individual appointment times remain unpublished. A later Taishin briefing is Tue Nov 24 at 11:15 p.m. PST. The separate Yuanta Q3 recap is Tue Dec 1 at 11:00 p.m. PST.",
+      "checked_on": "2026-11-25",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-24",
-        "status": "Exchange-affiliated issuer calendar reconfirmed Nov 25 at 15:15 Taiwan time."
+        "attempted_on": "2026-11-25",
+        "status": "December exchange notice matches the issuer’s full disclosure on the time and Q3 agenda."
       },
       "presentations": [
         {
@@ -4334,6 +4355,11 @@
           "at": "2026-11-25T15:15:00+08:00",
           "label": "Taishin forum Q3 results briefing",
           "type": "presentation"
+        },
+        {
+          "at": "2026-12-02T15:00:00+08:00",
+          "type": "presentation",
+          "label": "Yuanta forum Q3 results recap"
         }
       ],
       "schedule_history": [
@@ -4678,10 +4704,10 @@
         }
       ],
       "notes": "Results posted Tue Nov 10 at 8:00 p.m. PST. The separate briefing is Wed Nov 25 at 5:00 p.m. PST.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Japanese issuer calendar reconfirmed the Nov 26 10:00 JST results briefing."
       }
     },
@@ -4980,10 +5006,10 @@
         }
       ],
       "notes": "The two results-recap windows are Tue Nov 24 at 4:00 p.m. through Wed at midnight PST and Wed Nov 25 at 4:00 p.m. through Thu at midnight PST. Individual appointments are unpublished. The historical release remains date-only.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "confidence": "Issuer/exchange-published dated schedule; unpublished components remain explicit",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Both original DART notices verified for the individual dates, meeting bounds and Q3 agenda."
       },
       "presentations": [
@@ -6329,9 +6355,9 @@
         }
       ],
       "confidence": "Issuer conference dates and results-recap scope disclosed. Individual appointment timing unpublished.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Exchange-listed issuer agenda establishes Q3 recap scope. The Arizona conference dates were corroborated. TSMC’s appointment clock is unverified."
       },
       "presentations": [
@@ -6847,8 +6873,8 @@
       "call": {
         "note": "Separate results call or briefing unverified"
       },
-      "source_timing": "DART confirms the Nov 13 KST quarterly report. A filing index records the public filing at 16:30:37 KST, with minute precision for Korea Circuit and PSK Holdings.",
-      "notes": "Quarterly filing posted Thu Nov 12 at 11:30 pm PST.",
+      "source_timing": "DART confirms the Nov 13 KST quarterly report. A filing index records the public filing at 16:30:37 KST, with minute precision for Korea Circuit and PSK Holdings. The company’s Nov 25 DART filing gives Nov 26–27 Seoul dates and the local clock bounds 09:00 and 17:00 for an update on results and operations. Its quarterly filing predates the meetings.",
+      "notes": "Quarterly filing posted Thu Nov 12 at 11:30 pm PST. The new results meetings can fall Wed Nov 25 or Thu Nov 26 PST. Disclosed outer bounds start Wed at 4:00 p.m. and end at the start of Friday.",
       "sources": [
         {
           "label": "Original DART quarterly report",
@@ -6857,14 +6883,31 @@
         {
           "label": "Timestamped public filing index",
           "url": "https://awakeplus.co.kr/data/view/20261113001327"
+        },
+        {
+          "label": "Original DART notice for the institutional results meetings",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900489"
+        },
+        {
+          "label": "DART filing body with dates, bounds and results agenda",
+          "url": "https://dart.fss.or.kr/report/viewer.do?rcpNo=20261125900489&dcmNo=11674567&eleId=0&offset=0&length=0&dtd=HTML"
         }
       ],
       "confidence": "Original issuer filing confirms the results disclosure.",
-      "checked_on": "2026-11-13",
+      "checked_on": "2026-11-25",
       "verification": {
-        "attempted_on": "2026-11-13",
-        "status": "Original quarterly report and corroborating filing-index clock checked."
-      }
+        "attempted_on": "2026-11-25",
+        "status": "Original DART filing confirms meeting dates, bounds and results-update scope."
+      },
+      "presentations": [
+        {
+          "starts_at": "2026-11-26T09:00:00+09:00",
+          "ends_at": "2026-11-27T17:00:00+09:00",
+          "type": "presentation",
+          "label": "Daishin institutional results meetings",
+          "note": "Outer bounds of two meeting dates. Individual appointments are unpublished."
+        }
+      ]
     },
     {
       "id": "007810-2026Q3-rolling",
@@ -7464,10 +7507,17 @@
           "type": "presentation",
           "label": "Institutional Q3 results meetings",
           "note": "Outer bounds of two meeting dates. Individual appointments are unpublished."
+        },
+        {
+          "starts_at": "2026-11-27T09:00:00+09:00",
+          "ends_at": "2026-11-27T16:00:00+09:00",
+          "type": "presentation",
+          "label": "DB Securities results meetings",
+          "note": "Disclosed meeting hours. Individual appointments are unpublished."
         }
       ],
-      "source_timing": "Original Nov 16 DART notice lists local meeting dates Nov 24 and Nov 25 and clocks 09:00 and 16:00 in Seoul. Its agenda is a discussion of previously disclosed results. The Nov 5 preliminary filing is distinct, and the DART-linked index gives a 16:10 KST posting minute.",
-      "notes": "The results recap meetings span Mon Nov 23 and Tue Nov 24 PST. The first listed opening is Mon at 4:00 p.m. and the last listed close is Tue at 11:00 p.m. These are meeting bounds.",
+      "source_timing": "Original Nov 16 DART notice lists local meeting dates Nov 24 and Nov 25 and clocks 09:00 and 16:00 in Seoul. Its agenda is a discussion of previously disclosed results. The Nov 5 preliminary filing is distinct, and the DART-linked index gives a 16:10 KST posting minute. The new Nov 25 filing lists a separate DB Securities results meeting window Nov 27 from 09:00 to 16:00 Seoul time.",
+      "notes": "The results recap meetings span Mon Nov 23 and Tue Nov 24 PST. The first listed opening is Mon at 4:00 p.m. and the last listed close is Tue at 11:00 p.m. These are meeting bounds. The additional DB Securities results recap window is Thu Nov 26 from 4:00 to 11:00 p.m. PST.",
       "sources": [
         {
           "label": "Original DART results-meeting filing",
@@ -7488,13 +7538,21 @@
         {
           "label": "Korea Exchange IR materials",
           "url": "https://kind.krx.co.kr/corpgeneral/irschedule.do?gubun=iRMaterials&method=searchIRScheduleMain"
+        },
+        {
+          "label": "Original DART filing for the additional Nov 27 results meetings",
+          "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261125900391"
+        },
+        {
+          "label": "DART filing body with meeting hours and results agenda",
+          "url": "https://dart.fss.or.kr/report/viewer.do?rcpNo=20261125900391&dcmNo=11674372&eleId=0&offset=0&length=0&dtd=HTML"
         }
       ],
       "confidence": "Company-filed meeting dates and timing bounds. Individual meeting times unpublished.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "verification": {
-        "attempted_on": "2026-11-24",
-        "status": "Company-filed meeting dates and timing bounds. Individual meeting times unpublished."
+        "attempted_on": "2026-11-25",
+        "status": "Original DART notice confirms the additional results meeting window. Prior meetings retained."
       }
     },
     {
@@ -7614,9 +7672,9 @@
         }
       ],
       "confidence": "Original company quarter-end filing date.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Original DART meeting date bounds and Q3 agenda verified."
       },
       "presentations": [
@@ -7657,9 +7715,9 @@
         }
       ],
       "confidence": "Issuer and exchange confirm date. Exact hour unverified.",
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Issuer and exchange confirm date. Exact hour unverified."
       }
     },
@@ -7744,6 +7802,113 @@
       "verification": {
         "attempted_on": "2026-11-23",
         "status": "Issuer-filed event time and attached quarterly-results materials."
+      }
+    },
+    {
+      "id": "CRDO-2027Q2-rolling",
+      "ticker": "CRDO",
+      "company": "Credo Technology Group",
+      "region": "United States",
+      "watchlists": [
+        "US AI"
+      ],
+      "release": {
+        "date": "2026-12-01",
+        "session": "after_close",
+        "exchange_timezone": "America/New_York"
+      },
+      "call": {
+        "at": "2026-12-01T14:00:00-08:00",
+        "type": "call"
+      },
+      "source_timing": "Company’s Nov 11 announcement schedules its second-quarter fiscal 2027 results after the U.S. close on Dec 1 and a separate 14:00 Pacific call that day.",
+      "notes": "Tue Dec 1 after the U.S. market close. Exact release minute unpublished. Separate call at 2:00 p.m. PST.",
+      "sources": [
+        {
+          "label": "Issuer scheduling announcement (PDF)",
+          "url": "https://s205.q4cdn.com/511065572/files/doc_news/Credo-Schedules-Second-Quarter-Fiscal-Year-2027-Financial-Results-Conference-Call-2026.pdf"
+        },
+        {
+          "label": "Issuer November press release index",
+          "url": "https://investors.credosemi.com/news-events/news/"
+        }
+      ],
+      "confidence": "Issuer-announced release date and market session, and separate call clock.",
+      "checked_on": "2026-11-25",
+      "verification": {
+        "attempted_on": "2026-11-25",
+        "status": "Issuer-announced release date and market session, and separate call clock."
+      }
+    },
+    {
+      "id": "MRVL-2027Q3-rolling",
+      "ticker": "MRVL",
+      "company": "Marvell Technology",
+      "region": "United States",
+      "watchlists": [
+        "US AI"
+      ],
+      "release": {
+        "local_date": "2026-12-01",
+        "timezone": "America/Los_Angeles",
+        "note": "The issuer says the call follows the release. The announcement gives no release clock or exchange session."
+      },
+      "call": {
+        "at": "2026-12-01T13:30:00-08:00",
+        "type": "call"
+      },
+      "source_timing": "Issuer’s Nov 6 announcement schedules the call following the Q3 FY2027 results on Dec 1 at 13:30 Pacific. The live IR calendar explicitly labels the call PST. The announcement gives no exact release timestamp or market session.",
+      "notes": "Tue Dec 1 call at 1:30 p.m. PST. The separate results release time is unpublished.",
+      "sources": [
+        {
+          "label": "Issuer’s Q3 scheduling announcement",
+          "url": "https://investor.marvell.com/news-events/press-releases/detail/1041/marvell-technology-inc-announces-conference-call-to-review-third-quarter-of-fiscal-year-2027-financial-results"
+        },
+        {
+          "label": "Issuer IR calendar confirming the call clock",
+          "url": "https://investor.marvell.com/news-events/ir-calendar"
+        }
+      ],
+      "confidence": "Company-confirmed call clock and results date. Separate release timing unpublished.",
+      "checked_on": "2026-11-25",
+      "verification": {
+        "attempted_on": "2026-11-25",
+        "status": "Company-confirmed call clock and results date. Separate release timing unpublished."
+      }
+    },
+    {
+      "id": "3583-2026Q3-rolling",
+      "ticker": "3583",
+      "company": "Scientech",
+      "region": "Taiwan",
+      "watchlists": [
+        "Taiwan AI"
+      ],
+      "release": {
+        "note": "Separate release timestamp unpublished in the presentation notice"
+      },
+      "call": {
+        "at": "2026-11-27T14:30:00+08:00",
+        "type": "presentation",
+        "label": "Fubon Corporate Day Q3 results recap"
+      },
+      "source_timing": "The official exchange conference listing gives Nov 27 at 14:30 Taipei and explicitly names Q3 2026 financial report information.",
+      "notes": "The Q3 results recap is Thu Nov 26 at 10:30 p.m. PST.",
+      "sources": [
+        {
+          "label": "Issuer notice in the November exchange calendar",
+          "url": "https://irengage.taiwanindex.com.tw/ConferenceList?Year=2026&Month=11"
+        },
+        {
+          "label": "Full issuer conference filing reproduced by Capital Securities",
+          "url": "https://stock.capital.com.tw/z/zf/zfz/zfz_A54BF13B-7C91-471C-82F3-D851ED644110.djhtm"
+        }
+      ],
+      "confidence": "Issuer-filed event time and explicit quarterly-results agenda.",
+      "checked_on": "2026-11-25",
+      "verification": {
+        "attempted_on": "2026-11-25",
+        "status": "Issuer-filed event time and explicit quarterly-results agenda."
       }
     }
   ],
@@ -7875,14 +8040,14 @@
           "url": "https://scouter.monex.co.jp/schedule/day/settlement?selectDate=20261130"
         }
       ],
-      "checked_on": "2026-11-24",
+      "checked_on": "2026-11-25",
       "verification": {
-        "attempted_on": "2026-11-24",
+        "attempted_on": "2026-11-25",
         "status": "Primary release date confirmed. Exact clock unverified."
       }
     }
   ],
-  "coverage_note": "All five selected IBKR watchlists refreshed Nov 24. Membership matched Nov 23 (US 72, Korea 31, Japan 67, Taiwan 57 and Europe 10, 237 entries before issuer deduplication). Screening used 48 global calendar pages for Nov 24–Dec 1, JPX and TDnet, DART-linked company filing indices, and Taiwan exchange notices and issuer decks. Korea’s regional IR calendar returned 404 for the weekly page and several date pages. All 31 individual DART-linked filing indices and the original filings for newly identified results meetings were checked. Regional advance coverage is partial where the calendar could not be independently checked. Some direct investor and calendar pages were unavailable, including Zhen Ding’s site. Its exchange notices and linked results materials remain available. Exact individual appointments and unpublished release clocks remain uncertain.",
+  "coverage_note": "All five selected IBKR watchlists refreshed Nov 25. Membership matched Nov 24 (US 72, Korea 31, Japan 67, Taiwan 57 and Europe 10, 237 entries before issuer deduplication). Screening used 45 global calendar pages for Nov 25–Dec 2, regional calendars, JPX, TDnet, DART-linked filing indices, and Taiwanese exchange notices and issuer materials. Korea’s regional IR calendar and schedule returned HTTP 404. All 31 company-level filing indices loaded and the new results-meeting disclosures were checked directly on DART. Independent regional advance coverage remains partial. Some direct sites were unavailable. Tri Chemical’s date was rechecked on its browsable issuer calendar and JPX, TSMC’s recap on its exchange disclosure, and ASML’s results schedule in its public SEC filing.",
   "changes": [
     {
       "date": "2026-10-22",
@@ -8283,36 +8448,48 @@
     {
       "date": "2026-11-24",
       "note": "Semtech’s syndicated results release confirms the historical Mon Nov 23 posting at 1:05 p.m. PST, independent of its 1:30 p.m. PST call."
+    },
+    {
+      "date": "2026-11-25",
+      "note": "The seven-day window now includes Credo and Marvell on Tue Dec 1. Credo confirms an after-close release and 2:00 p.m. PST call. Marvell’s call is at 1:30 p.m. PST, with the release time unpublished."
+    },
+    {
+      "date": "2026-11-25",
+      "note": "Original DART filings add Park Systems’ institutional results update for Wed Nov 25–Thu Nov 26 PST and an extra TLB results meeting window Thu Nov 26 from 4:00 to 11:00 p.m. PST."
+    },
+    {
+      "date": "2026-11-25",
+      "note": "Taiwan exchange disclosures add Scientech’s Q3 recap Thu Nov 26 at 10:30 p.m. PST, Yageo’s Tech Tour recap Mon Nov 30 at 11:00 p.m. PST, and KINIK’s Yuanta recap Tue Dec 1 at 11:00 p.m. PST."
     }
   ],
   "coverage": [
     {
       "region": "United States",
-      "screened_on": "2026-11-24",
-      "status": "All 72 entries screened against global and U.S. calendars. A direct MarketBeat access denial was covered by other U.S. calendars. Semtech’s past release minute was verified. No in-window results schedule identified."
+      "screened_on": "2026-11-25",
+      "status": "All 72 entries screened against global and U.S. calendars. Credo and Marvell confirmed from issuer announcements. MarketBeat denied direct access, with other U.S. calendars available."
     },
     {
       "region": "Korea",
-      "screened_on": "2026-11-24",
-      "status": "Partial advance coverage. All 31 issuer filing indices loaded, and original DART notices confirm Elice Group and Jusung Engineering’s new results meetings and the existing GST and TLB schedules. The regional IR calendar and several day pages returned HTTP 404."
+      "screened_on": "2026-11-25",
+      "status": "Partial advance coverage. All 31 DART-linked company filing indices loaded. Original DART notices verified the new Park Systems and TLB meetings. The regional aggregate IR calendar returned HTTP 404."
     },
     {
       "region": "Japan",
-      "screened_on": "2026-11-24",
-      "status": "All 67 entries screened against JPX’s current workbooks, Japanese calendars and current TDnet notices. Tri Chemical’s issuer and exchange dates remain Nov 30 JST. Its release hour remains unverified."
+      "screened_on": "2026-11-25",
+      "status": "All 67 entries screened against current JPX workbooks, TDnet pages and local calendars. Tri Chemical’s Nov 30 JST date remains confirmed. A direct issuer timeout was recovered through the browsable company calendar. Exact hour unpublished."
     },
     {
       "region": "Taiwan",
-      "screened_on": "2026-11-24",
-      "status": "All 57 entries screened against the exchange-affiliated conference calendar, TWSE and TPEx disclosures and local sites. TSMC and WIN Semiconductors added from issuer disclosures and results materials. Zhen Ding’s direct URLs returned certificate errors, with issuer information confirmed through the exchange. An alternate local calendar timed out."
+      "screened_on": "2026-11-25",
+      "status": "All 57 entries screened against TWSE and TPEx disclosures, the exchange conference calendar and local sites. TSMC’s direct IR links returned access errors and its exchange notice was used. A secondary conference calendar timed out. Selected general-business conferences without verified quarterly content are outside the table."
     },
     {
       "region": "Europe",
-      "screened_on": "2026-11-24",
-      "status": "All 10 entries screened against global and issuer calendars. Some ASML direct requests returned HTTP 403. Its publicly indexed issuer schedule provides alternate coverage. No company-confirmed event identified in the rolling window."
+      "screened_on": "2026-11-25",
+      "status": "All 10 entries screened against global and issuer calendars. ASML’s direct investor URLs returned access errors. Its browsable company calendar and filed SEC report reconfirmed the January results date. No in-window schedule identified."
     }
   ],
   "window_type": "rolling_7_days",
-  "window_start": "2026-11-24",
-  "window_end": "2026-11-30"
+  "window_start": "2026-11-25",
+  "window_end": "2026-12-01"
 }
